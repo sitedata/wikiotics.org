@@ -1,7 +1,7 @@
 +++
 title = "English lesson - Introduction"
 cards = []
-contributors = []
+contributors = [ "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[interactions]]
