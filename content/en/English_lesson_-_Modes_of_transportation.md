@@ -1,12 +1,12 @@
 +++
 title = "English lesson - Modes of transportation"
-contributors = [ "garrison",]
+contributors = [ "216.27.154.200", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "unicycle"
+text = "This is a unicycle"
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "bicycle"
+text = "This is a bicycle"
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "tricycle"
+text = "This is a tricycle"
 type = "phrase"
 
 [[cards.sides]]
@@ -67,7 +67,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "tandem bicycle"
+text = "This is a tandem bicycle"
 type = "phrase"
 
 [[cards.sides]]
@@ -87,7 +87,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "pickup truck"
+text = "This is a pickup truck"
 type = "phrase"
 
 [[cards.sides]]
@@ -106,7 +106,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "car"
+text = "This is ia car"
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +126,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "tractor trailer"
+text = "This is a tractor trailer"
 type = "phrase"
 
 [[cards.sides]]
@@ -146,7 +146,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "motorcycle"
+text = "This is a motorcycle"
 type = "phrase"
 
 [[cards.sides]]
@@ -166,7 +166,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "airplane"
+text = "This is an airplane"
 type = "phrase"
 
 [[cards.sides]]
@@ -186,7 +186,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "helicopter"
+text = "This is a helicopter"
 type = "phrase"
 
 [[cards.sides]]
@@ -206,7 +206,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "bus"
+text = "This is a bus"
 type = "phrase"
 
 [[cards.sides]]
@@ -226,7 +226,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "train"
+text = "This is a train"
 type = "phrase"
 
 [[cards.sides]]
@@ -246,7 +246,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "canoe"
+text = "This is a canoe"
 type = "phrase"
 
 [[cards.sides]]
@@ -266,7 +266,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "sailboat"
+text = "This is a sailboat"
 type = "phrase"
 
 [[cards.sides]]
@@ -286,7 +286,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "barge"
+text = "This is a barge"
 type = "phrase"
 
 [[cards.sides]]
@@ -306,7 +306,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "submarine"
+text = "This is a submarine"
 type = "phrase"
 
 [[cards.sides]]
