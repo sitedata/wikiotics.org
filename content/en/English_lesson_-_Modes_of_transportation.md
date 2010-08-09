@@ -106,7 +106,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is ia car"
+text = "This is a car"
 type = "phrase"
 
 [[cards.sides]]
