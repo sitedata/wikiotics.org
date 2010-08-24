@@ -86,7 +86,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cold."
+text = "Hace frio."
 type = "phrase"
 
 [[cards.sides]]
@@ -106,7 +106,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is hot."
+text = "Hace calor."
 type = "phrase"
 
 [[cards.sides]]
