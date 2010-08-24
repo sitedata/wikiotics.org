@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "It is raining."
+text = "Está lloviendo."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is sunny."
+text = "Hace sol."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cloudy."
+text = "Está nublado."
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is snowing."
+text = "Está nevando."
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +126,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cool."
+text = "Hace fresco."
 type = "phrase"
 
 [[cards.sides]]
@@ -146,7 +146,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is warm."
+text = "Hace calor."
 type = "phrase"
 
 [[cards.sides]]
