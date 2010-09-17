@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Это человек"
+text = "Это человек."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a cat."
+text = "Это кошка."
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Это собака"
+text = "Это собака."
 type = "phrase"
 
 [[cards.sides]]
@@ -207,7 +207,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy and the cat are sitting."
+text = "Мальчик и кошка are sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -267,7 +267,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is running."
+text = "Собака is running."
 type = "phrase"
 
 [[cards.sides]]
@@ -287,7 +287,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is running."
+text = "Мальчик работает."
 type = "phrase"
 
 [[cards.sides]]
@@ -307,7 +307,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is sitting."
+text = "Собака is sitting."
 type = "phrase"
 
 [[cards.sides]]
