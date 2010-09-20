@@ -1,12 +1,12 @@
 +++
 title = "Chinese lesson - Weather"
-contributors = [ "216.27.154.200", "ian",]
+contributors = [ "216.27.154.200", "ian", "trose",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "It is raining."
+text = "这是下雨"
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is sunny."
+text = "这是阳光"
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cloudy."
+text = "这是多云"
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is snowing."
+text = "这是下雪"
 type = "phrase"
 
 [[cards.sides]]
@@ -86,7 +86,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cold."
+text = "这是冷"
 type = "phrase"
 
 [[cards.sides]]
@@ -106,7 +106,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is hot."
+text = "它是热"
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +126,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cool."
+text = "这是冷静"
 type = "phrase"
 
 [[cards.sides]]
@@ -146,7 +146,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is warm."
+text = "它是温暖的"
 type = "phrase"
 
 [[cards.sides]]
