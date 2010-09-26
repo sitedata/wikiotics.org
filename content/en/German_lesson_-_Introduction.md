@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Das ist en Hund."
+text = "Das ist ein Hund."
 type = "phrase"
 
 [[cards.sides]]
