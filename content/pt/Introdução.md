@@ -1,12 +1,12 @@
 +++
 title = "Introdução"
-contributors = [ "127.0.0.1", "145.103.250.195", "216.27.154.200", "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Este é um homem."
+text = "This is a man."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Esta é uma mulher."
+text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Este é um gato."
+text = "This is a cat."
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Este é um cachorro."
+text = "This is a dog."
 type = "phrase"
 
 [[cards.sides]]
@@ -86,7 +86,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Este é um menino. "
+text = "This is a boy."
 type = "phrase"
 
 [[cards.sides]]
@@ -106,7 +106,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Esta é uma menina. "
+text = "This is a girl."
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "O homem está sentado."
+text = "The man is sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -147,7 +147,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "A mulher está sentada. "
+text = "The woman is sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -167,7 +167,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "O cachorro está andando."
+text = "The dog is walking."
 type = "phrase"
 
 [[cards.sides]]
@@ -187,7 +187,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "O homem e a mulher estáo andando."
+text = "The man and woman are walking."
 type = "phrase"
 
 [[cards.sides]]
@@ -207,7 +207,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "O menino e o gato estão sentados. "
+text = "The boy and the cat are sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -227,7 +227,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "A menina está sentada. "
+text = "The girl is sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +247,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "As meninas estão andando. "
+text = "The girls are walking."
 type = "phrase"
 
 [[cards.sides]]
@@ -267,7 +267,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "O cachorro está correndo. "
+text = "The dog is running."
 type = "phrase"
 
 [[cards.sides]]
@@ -287,7 +287,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "O menino está correndo. "
+text = "The boy is running."
 type = "phrase"
 
 [[cards.sides]]
@@ -307,7 +307,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "O cachorro está sentado."
+text = "The dog is sitting."
 type = "phrase"
 
 [[cards.sides]]
