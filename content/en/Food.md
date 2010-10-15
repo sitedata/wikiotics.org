@@ -1,6 +1,6 @@
 +++
 title = "Food"
-contributors = []
+contributors = [ "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Mushrooms are fungai "
+text = "Mushrooms are fungi"
 type = "phrase"
 
 [[cards.sides]]
@@ -86,7 +86,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Pretezels are made from grain"
+text = "Pretzels are made from grain"
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +126,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Scallops are shellfish "
+text = "Scallops are shellfish"
 type = "phrase"
 
 [[cards.sides]]
