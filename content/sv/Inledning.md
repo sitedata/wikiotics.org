@@ -1,12 +1,12 @@
 +++
 title = "Inledning"
-contributors = [ "127.0.0.1", "216.27.154.200", "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "90.228.239.235", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a man."
+text = "Detta är en man."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a woman."
+text = "Detta är en kvinna."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a cat."
+text = "Detta är en katt."
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a dog."
+text = "Detta är en hund."
 type = "phrase"
 
 [[cards.sides]]
@@ -86,7 +86,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a boy."
+text = "Detta är en pojke."
 type = "phrase"
 
 [[cards.sides]]
@@ -106,7 +106,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a girl."
+text = "Detta är en flicka"
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The man is sitting."
+text = "Mannen sitter."
 type = "phrase"
 
 [[cards.sides]]
@@ -147,7 +147,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The woman is sitting."
+text = "Kvinnan sitter."
 type = "phrase"
 
 [[cards.sides]]
@@ -167,7 +167,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is walking."
+text = "Hunden går."
 type = "phrase"
 
 [[cards.sides]]
@@ -187,7 +187,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The man and woman are walking."
+text = "Mannen och kvinnan går."
 type = "phrase"
 
 [[cards.sides]]
@@ -207,7 +207,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy and the cat are sitting."
+text = "Pojken och hunden sitter."
 type = "phrase"
 
 [[cards.sides]]
@@ -227,7 +227,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The girl is sitting."
+text = "Flickan sitter."
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +247,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The girls are walking."
+text = "Flickorna går."
 type = "phrase"
 
 [[cards.sides]]
@@ -267,7 +267,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is running."
+text = "Hunden springer."
 type = "phrase"
 
 [[cards.sides]]
@@ -287,7 +287,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is running."
+text = "Pojken springer."
 type = "phrase"
 
 [[cards.sides]]
@@ -307,7 +307,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is sitting."
+text = "Hunden sitter."
 type = "phrase"
 
 [[cards.sides]]
