@@ -1,6 +1,6 @@
 +++
 title = "Einführung"
-contributors = [ "127.0.0.1", "84.186.209.163", "ian",]
+contributors = [ "127.0.0.1", "209.6.51.73", "84.186.209.163", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -106,7 +106,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Das ist ein Maedchen."
+text = "Das ist ein Mädchen."
 type = "phrase"
 
 [[cards.sides]]
@@ -167,7 +167,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Der Hund lauft."
+text = "Der Hund läuft."
 type = "phrase"
 
 [[cards.sides]]
@@ -227,7 +227,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Das Maedchen sitzt."
+text = "Das Mädchen sitzt."
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +247,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Die Maedchen laufen."
+text = "Die Mädchen laufen."
 type = "phrase"
 
 [[cards.sides]]
