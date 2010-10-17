@@ -1,12 +1,12 @@
 +++
 title = "Introduction"
-contributors = [ "124.63.101.22", "127.0.0.1", "216.27.154.200", "ian",]
+contributors = [ "124.63.101.22", "127.0.0.1", "201.37.129.76", "216.27.154.200", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "이것은 남자입니다"
+text = "This is a man."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "이것은 여자입니다"
+text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "이것은 고양이입니다"
+text = "This is a cat."
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "이것은 개입니다"
+text = "This is a dog."
 type = "phrase"
 
 [[cards.sides]]
@@ -86,7 +86,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "이것은 남자아이입니다"
+text = "This is a boy."
 type = "phrase"
 
 [[cards.sides]]
@@ -106,7 +106,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "이것은 여자아이입니다."
+text = "This is a girl."
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "남자가 앉아 있습니다"
+text = "The man is sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -147,7 +147,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "여자가 앉아 있습니다"
+text = "The woman is sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -167,7 +167,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "개가 걷고 있습니다"
+text = "The dog is walking."
 type = "phrase"
 
 [[cards.sides]]
@@ -187,7 +187,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "남자와 여자가 걷고 있습니다"
+text = "The man and woman are walking."
 type = "phrase"
 
 [[cards.sides]]
@@ -207,7 +207,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "남자아이와 고양이가 앉아 있습니다"
+text = "The boy and the cat are sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -227,7 +227,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "여자아이가 앉아 있습니다"
+text = "The girl is sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +247,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "여자아이들이 걷고 있습니다"
+text = "The girls are walking."
 type = "phrase"
 
 [[cards.sides]]
@@ -267,7 +267,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "개가 달리고 있습니다"
+text = "The dog is running."
 type = "phrase"
 
 [[cards.sides]]
@@ -287,7 +287,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "남자아이가 달리고 있습니다"
+text = "The boy is running."
 type = "phrase"
 
 [[cards.sides]]
@@ -307,7 +307,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "개가 앉아 있습니다"
+text = "The dog is sitting."
 type = "phrase"
 
 [[cards.sides]]
