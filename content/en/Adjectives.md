@@ -1,6 +1,6 @@
 +++
 title = "Adjectives"
-contributors = []
+contributors = [ "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Bland"
+text = "Disgusting"
 type = "phrase"
 
 [[cards.sides]]
