@@ -1,12 +1,12 @@
 +++
 title = "slo-flowers"
-contributors = [ "169.231.48.249", "216.27.154.200", "garrison",]
+contributors = [ "169.231.48.249", "216.27.154.200", "84.88.37.137", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a rose"
+text = "vrtnica"
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These are tulips"
+text = "tulipan"
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a daisy"
+text = "to so spomincica"
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These are sunflowers"
+text = "to so soncnice"
 type = "phrase"
 
 [[cards.sides]]
