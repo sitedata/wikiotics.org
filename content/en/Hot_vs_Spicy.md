@@ -1,6 +1,6 @@
 +++
 title = "Hot vs Spicy"
-contributors = [ "213.73.35.245",]
+contributors = [ "213.73.35.245", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Las llamas son muy caliente."
+text = "Las llamas son muy calientes."
 type = "phrase"
 
 [[cards.sides]]
