@@ -1,12 +1,12 @@
 +++
 title = "Hot vs Spicy"
-contributors = []
+contributors = [ "213.73.35.245",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "The red peppers are muy picante"
+text = "Los chiles son muy picante."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The water on the stove es caliente"
+text = "El agua en la estufa está caliente."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The green wasabi es picante"
+text = "El wasabi verde es  picante"
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The fire es muy caliente"
+text = "Las llamas son muy caliente."
 type = "phrase"
 
 [[cards.sides]]
