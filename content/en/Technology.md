@@ -1,12 +1,12 @@
 +++
 title = "Technology"
-contributors = []
+contributors = [ "mxc",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "keyboard"
+text = "This is the keyboard."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "monitor"
+text = "This is the monitor."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "mouse"
+text = "This is the mouse."
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "computer tower"
+text = "This is the computer."
 type = "phrase"
 
 [[cards.sides]]
