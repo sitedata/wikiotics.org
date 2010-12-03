@@ -1,12 +1,12 @@
 +++
 title = "Vêret"
-contributors = []
+contributors = [ "129.177.48.231",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "It is raining."
+text = "Det regnar."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is sunny."
+text = "Sola skin."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cloudy."
+text = "Det er overskya."
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is snowing. "
+text = "Det snør."
 type = "phrase"
 
 [[cards.sides]]
