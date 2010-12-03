@@ -1,12 +1,12 @@
 +++
 title = "Transport"
-contributors = [ "216.27.154.200", "garrison",]
+contributors = [ "129.177.48.231", "216.27.154.200", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a unicycle"
+text = "Dette er ein einhjulssykkel."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a bicycle"
+text = "Dette er ein sykkel."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a tricycle"
+text = "Dette er ein trihjulssykkel."
 type = "phrase"
 
 [[cards.sides]]
@@ -67,7 +67,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a tandem bicycle"
+text = "Dette er ein tandemsykkel."
 type = "phrase"
 
 [[cards.sides]]
@@ -87,7 +87,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a pickup truck"
+text = "Dette er ein open varebil (pickup)."
 type = "phrase"
 
 [[cards.sides]]
@@ -106,7 +106,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a car"
+text = "Dette er ein bil."
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +126,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a tractor trailer"
+text = "Dette er ein semitrailer."
 type = "phrase"
 
 [[cards.sides]]
@@ -146,7 +146,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a motorcycle"
+text = "Dette er ein motorsykkel."
 type = "phrase"
 
 [[cards.sides]]
@@ -166,7 +166,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is an airplane"
+text = "Dette er eit fly."
 type = "phrase"
 
 [[cards.sides]]
@@ -186,7 +186,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a helicopter"
+text = "Dette er eit helikopter."
 type = "phrase"
 
 [[cards.sides]]
@@ -206,7 +206,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a bus"
+text = "Dette er ein buss."
 type = "phrase"
 
 [[cards.sides]]
@@ -226,7 +226,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a train"
+text = "Dette er eit tog."
 type = "phrase"
 
 [[cards.sides]]
@@ -246,7 +246,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a canoe"
+text = "Dette er ein kano."
 type = "phrase"
 
 [[cards.sides]]
@@ -266,7 +266,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a sailboat"
+text = "Dette er ein seglbåt."
 type = "phrase"
 
 [[cards.sides]]
@@ -286,7 +286,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a barge"
+text = "Dette er ein lekter."
 type = "phrase"
 
 [[cards.sides]]
@@ -306,7 +306,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a submarine"
+text = "Dette er ein ubåt."
 type = "phrase"
 
 [[cards.sides]]
