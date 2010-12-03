@@ -1,12 +1,12 @@
 +++
 title = "Rørsle verb"
-contributors = []
+contributors = [ "129.177.48.231",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is sitting"
+text = "Guten sit."
 type = "phrase"
 
 [[cards.sides]]
@@ -25,7 +25,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The women are running"
+text = "Jentene spring."
 type = "phrase"
 
 [[cards.sides]]
@@ -45,7 +45,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The woman is walking"
+text = "Dama går."
 type = "phrase"
 
 [[cards.sides]]
@@ -65,7 +65,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The man is riding a bike"
+text = "Mannen syklar."
 type = "phrase"
 
 [[cards.sides]]
@@ -85,7 +85,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The fish is swimming"
+text = "Fisken svømmer."
 type = "phrase"
 
 [[cards.sides]]
@@ -105,7 +105,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The women are riding horses"
+text = "Damene rir hestar."
 type = "phrase"
 
 [[cards.sides]]
@@ -125,7 +125,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The bird is flying"
+text = "Fuglen flyg."
 type = "phrase"
 
 [[cards.sides]]
@@ -145,7 +145,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is swinging"
+text = "Guten gyngar."
 type = "phrase"
 
 [[cards.sides]]
