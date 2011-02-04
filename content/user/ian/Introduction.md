@@ -21,7 +21,10 @@ author_url = "http://www.flickr.com/people/15923063@N00/"
 original_url = "http://www.flickr.com/photos/15923063@N00/3119101413"
 title = "On the Town"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vuKGlcTlTKAHV3cVXxS4praCR3Pw7hvEZNwz6V0MBr8z1dTHXlUxHH5hioWY9q_7"
+href = "urn:sha384:nYpAVYG_lbAoQ6nYEC44CGLuoUEQ-suZw3qJm44zVaXZGn1nD3Bj5UObm_PjFqfe"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -41,7 +44,10 @@ author_url = "http://www.flickr.com/people/50098101@N00/"
 original_url = "http://www.flickr.com/photos/50098101@N00/3282407517"
 title = "ellen2"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GcgT0i3sP5U88F76g8IyTq2o98M8tFicFKqMEoXRePymGg8V3ZOz3SGuOrdmLIYP"
+href = "urn:sha384:Kq7AmjE6_7EVcxgdzvo5SjlWnaw5ATuC_z0NH7PyxumrF_eXcFxRDd3hD4-J5U4c"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -61,7 +67,10 @@ author_url = "http://www.flickr.com/people/98896251@N00/"
 original_url = "http://www.flickr.com/photos/98896251@N00/499119736"
 title = "Tom posing"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:i9BzXN1nJPTbXm0atiKRPBUDPfsaqDfkpJIIdqdStWG-6uwWAv-N2k-BbxTL8bYa"
+href = "urn:sha384:Y3m0694qCDOU3_S5Oepu1N3MwV6TUwSL_KbQACXJzZgl51Jx8bJiGsGXBWct2VJL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -81,7 +90,10 @@ author_url = "http://www.flickr.com/people/44036847@N05/"
 original_url = "http://www.flickr.com/photos/44036847@N05/4941513064"
 title = "Alfie"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9jW1mnZb1gOyxAcwTrqquxzonUAhqn7tDRMc3-SzfMgeNepMiQP_Uf3idCuuYhsj"
+href = "urn:sha384:47UYm0Jqnj1E2g3xKTtL8zTHMHKfPKRGSKkEkxfHcpIBjUnipRK1Z92tt2ivMx73"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -101,7 +113,10 @@ author_url = "http://www.flickr.com/people/73645804@N00/"
 original_url = "http://www.flickr.com/photos/73645804@N00/3338235706"
 title = "improptu field trip"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pbUvF-ttUs1zqDazzal4rTQGgdPtupyXLt2Pok760kfuiUZTahEkIvCUNnhp3BJa"
+href = "urn:sha384:jrz3_3ch_DQX7pjCYRC4tpR5VRCCyPVZGRhTMvjlQrIIu74VNw4DE9JYFCSgPICR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -122,7 +137,10 @@ author_url = "http://www.flickr.com/people/10485077@N06/"
 original_url = "http://www.flickr.com/photos/10485077@N06/2915364715"
 title = "In Hopper's Studio"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4r_Iqfzco-AUrDx877eZmAugZ1jdYE3-qWxCiQipCnfkIHlEJ0neEXLuUMi67_5t"
+href = "urn:sha384:-OWEWmfSA7HFMR7zIj_AWmBlpxMn2HDLviwzZAQBFX0Qn_KyocbHdrRps1w2cp2O"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -142,7 +160,10 @@ author_url = "http://www.flickr.com/people/10485077@N06/"
 original_url = "http://www.flickr.com/photos/10485077@N06/2648778104"
 title = "Jim Wu"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VCExkLe3942p7MKL7II1IE18EHqDaW-Rg_W6LHShdhyt5vSyR7YDHa6XVewruoKI"
+href = "urn:sha384:7ssph47noNm6KmxIqze9QkbKb4A-mNS3MwgoqW3zoYAzxi0VfrA58qdk2GwFIDr_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -162,7 +183,10 @@ author_url = "http://www.flickr.com/people/8569394@N07/"
 original_url = "http://www.flickr.com/photos/8569394@N07/1880700702"
 title = "Taking a break"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:afxm-FvK_0mo6YLMEDjT1YDGcVQoBfo38iGwVvXm5m03Ow6UKkXNnj5JVuVVHOIn"
+href = "urn:sha384:aPtTh1Fc3s8JnnipI5B_Flsf6iGBbzuBW4jtedUHcuq4TVyPykEocIrBwZsul-S_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
