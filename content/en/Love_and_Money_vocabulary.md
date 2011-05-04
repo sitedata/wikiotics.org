@@ -1,6 +1,6 @@
 +++
 title = "Love and Money vocabulary"
-contributors = []
+contributors = [ "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The busboy takes the dishes"
+text = "The busboy cleans the table"
 type = "phrase"
 
 [[cards.sides]]
