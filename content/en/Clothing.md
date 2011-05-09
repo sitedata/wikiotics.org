@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Man in the red jacket"
+text = "Woman in the red jacket"
 type = "phrase"
 
 [[cards.sides]]
