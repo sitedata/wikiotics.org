@@ -1,6 +1,6 @@
 +++
 title = "Clothing"
-contributors = [ "209.129.49.127", "209.129.49.65", "xbeiberx",]
+contributors = [ "174.75.64.147", "209.129.49.127", "209.129.49.65", "xbeiberx",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -26,7 +26,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Woman in the red jacket"
+text = "Woman in the red jacket."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +46,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The feet wearing green Socks"
+text = "The feet wearing green socks."
 type = "phrase"
 
 [[cards.sides]]
@@ -106,7 +106,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Dog wearing a pink skirt"
+text = "Dog wearing a pink skirt."
 type = "phrase"
 
 [[cards.sides]]
