@@ -166,7 +166,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The school is on the corner."
+text = "The school has many windows."
 type = "phrase"
 
 [[cards.sides]]
