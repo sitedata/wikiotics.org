@@ -1,6 +1,6 @@
 +++
 title = "WANY-8"
-contributors = []
+contributors = [ "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -21,7 +21,10 @@ author_url = "http://www.flickr.com/people/97477946@N00/"
 original_url = "http://www.flickr.com/photos/97477946@N00/5457722819"
 title = "BURMESE BOY "
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VCEtf90AIbC45dy1noX66o6Uw9cPoFWd_pX-VWHvC4Gj5mYXbEVfzVJeS1mWqNGh"
+href = "urn:sha384:RP9eXD446DoDrMwjWw-2mu87Q5O6JsYsnK2CHAF5yFYJIYavazh_TY0ndHm0pJNn"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -41,7 +44,10 @@ author_url = "http://www.flickr.com/people/22433418@N04/"
 original_url = "http://www.flickr.com/photos/22433418@N04/5002885477"
 title = "bear"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mDotOOd1kVqUyc3WaxcDE66KqIhB9jIclbh1neF5eiB0zHpMAdk8jZ3Ogr_9bEE5"
+href = "urn:sha384:qJ03l_YyIAxpmhDLtw3g93_S77QMVXTlaPL057fCK85fZB_M2T1kOZzZ-0QGGSS1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -61,7 +67,10 @@ author_url = "http://www.flickr.com/people/8404611@N06/"
 original_url = "http://www.flickr.com/photos/8404611@N06/3373106750"
 title = "Nurse"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ey1KSSz1CUk25Rg_fMgpYqKyX5taUZnmnsiAnHJHO3JKalC2htM-U91f7HMWUGoK"
+href = "urn:sha384:yUoiiSwgi8QDnRac2rFbjFFv3eTMaCyV7fOesNmXx_qXBOk111GDSz54PDteohAl"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -81,7 +90,10 @@ author_url = "http://www.flickr.com/people/48439369@N00/"
 original_url = "http://www.flickr.com/photos/48439369@N00/4603772609"
 title = "Watertown FBI raid - police officer"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4zvyaUzo54n9b75MrA_k8Z9oXOI2o3Mzp5aS_zycyprbvBew9dEYU3F1wdsUHdsu"
+href = "urn:sha384:bgPUJOqaZ8GcPvRst8JDFTWaFQkG_6wlFdVTk9jKH_bp1F-WLLUXNFeYjce9S_T0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -101,7 +113,10 @@ author_url = "http://www.flickr.com/people/20978349@N00/"
 original_url = "http://www.flickr.com/photos/20978349@N00/2286150279"
 title = "The Bag!"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DkId5xuMpe1cxPinlN_NPRIL5TY4gR2-jxx5t9TVyWViRFQIu39kQ4Tpd6uVetfE"
+href = "urn:sha384:V8tj9vVFsechcy_eFgOZ2sHjLdkM-c24UBsOppm5oOH3vDGYOtxrUI9IzAmMUNlc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -121,7 +136,10 @@ author_url = "http://www.flickr.com/people/34353636@N00/"
 original_url = "http://www.flickr.com/photos/34353636@N00/350459850"
 title = "Cafepress check"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HaNuUxwRipLiU4Qkn5G32ASDOYiBRc9tIFlo_Fa1VufDvT-9Umctr9FnkvKz7XHR"
+href = "urn:sha384:6whWElUdSHZXFnKboKK6y30bf9whJMJIfIXonVESwGmvcBcumW5U3H_gRq7DRdrm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -141,7 +159,10 @@ author_url = "http://www.flickr.com/people/21609187@N00/"
 original_url = "http://www.flickr.com/photos/21609187@N00/3660693333"
 title = "Pick-A-Pocket Bags"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:umPuYd7FK5dwGzIJVGyIv8UXh-C18BAwUtjyPPHnTGH_WNSxKdOq2YZBI3W-YKDN"
+href = "urn:sha384:HQzg_Cc74PKmsZTOfPHbI216CiMYqtBB30SSvqFESE9_5ZAlQO2kwGomqBRdWxDn"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -161,7 +182,10 @@ author_url = "http://www.flickr.com/people/34700343@N08/"
 original_url = "http://www.flickr.com/photos/34700343@N08/4052010878"
 title = "Boys with dog"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YKEumFwKXsY_0_kQpdePOoGzPIkztk4WvR72ox4hNsqB8QxOJQLlgogzbi4C_J53"
+href = "urn:sha384:ScgVElljY4zE2AhkICLkedF8mRMzZhMUJixyiMJhmhGGAry08rosFNHZghTrczWv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -181,7 +205,10 @@ author_url = "http://www.flickr.com/people/9518198@N04/"
 original_url = "http://www.flickr.com/photos/9518198@N04/1546923312"
 title = "Angry Mean Face"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GpT2pfefrV33xFFn0BkmCgQJ4-yDrw6g6plF4stz--8TBkMrOjRGs1q5MRlkh7gk"
+href = "urn:sha384:UUB32lKPGT3DBwMwLPPKAcpFQ4yHD8mfjP0P1sqC0Ph8JormJiJZ2gXbPKN_UlVD"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -201,7 +228,10 @@ author_url = "http://www.flickr.com/people/77885061@N00/"
 original_url = "http://www.flickr.com/photos/77885061@N00/54235257"
 title = "Scared!"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:f4e2r35BLtpczvkfkpwdQdg1UdPOoZnG-GyK3qPFIYLOxAULy0_n2OLsJOn9NPyg"
+href = "urn:sha384:FyAEXpMGnbu5IsZCaAzxmkP4PpuUl062t_CGjjYDDdeXRPqd5eENkF8IXUwOSTHV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -221,7 +251,10 @@ author_url = "http://www.flickr.com/people/21415791@N08/"
 original_url = "http://www.flickr.com/photos/21415791@N08/5354639620"
 title = "Punch"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:tqkgsWU_fSw9TYbrt8LTnuQYAshGKDjxfE2AlrM_lTRsnDljaJpN7s1x_DGVZqHm"
+href = "urn:sha384:E82UOFIl2b8B1GqaZ4o2moMS6j_WZ-aJMU3ObytOgTSV4Xfykn9UIGZq1Xv-U6mU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -241,7 +274,10 @@ author_url = "http://www.flickr.com/people/81389833@N00/"
 original_url = "http://www.flickr.com/photos/81389833@N00/3053228036"
 title = "Sit"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WMAd_hJBhRbJbxfHW9hhcAnMX0dC3Ps18d7k5-evDFGTLN-YqlwxldvitU_alqeX"
+href = "urn:sha384:KiQgqNXjDPsi6BlSnLKJ01zXIrJIU6q0FhhmPn-Y0_prmG3cIrgS7-kzwVFHiITF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -261,7 +297,10 @@ author_url = "http://www.flickr.com/people/28035080@N04/"
 original_url = "http://www.flickr.com/photos/28035080@N04/5103136864"
 title = "Mad Money"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jPDwhaDTzip-YuD8A8OtAx_RMe_n9FrfBDRrmqYJPI8eLQzdVzG17q9vMtiBAc6g"
+href = "urn:sha384:LGXmMbZCq-S4frRyU1XNIx3ZmF_mGdUoVNn_MIS8ud4IDiQy1RRejwvzLPovVRrM"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -281,7 +320,10 @@ author_url = "http://www.flickr.com/people/41894167210@N01/"
 original_url = "http://www.flickr.com/photos/41894167210@N01/96113962"
 title = "Worried Kei"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SHn81OmWk_Ra3u9O0XXu6xWgDtJhIwsNTV_qCkxGOUSzxhOVcD_mQrZBS__6-gJm"
+href = "urn:sha384:dK9rJWtXce9iGDJiJ7j8n0_JNPZ_aB5QgYcnAZpq1DyQwuPTiPBC2l1cchY5zm3J"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -301,7 +343,10 @@ author_url = "http://www.flickr.com/people/84905000@N00/"
 original_url = "http://www.flickr.com/photos/84905000@N00/3341926097"
 title = "Calling on Ipod Touch with Fring"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HGhIbW2REjtB7mDXeXHcnjszJGMzi-lKoaIkOybLNOCTSYsR2xHJRhR6RAuRf6Ui"
+href = "urn:sha384:PRet6pSfrah53SNsIjwF9VvS2fMzp2zMCh6TmCxFUmhop2iQmrM5a3-2dq-E-4Wu"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -321,7 +366,10 @@ author_url = "http://www.flickr.com/people/77476789@N00/"
 original_url = "http://www.flickr.com/photos/77476789@N00/1431546653"
 title = "Writing down details"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:V9MBF-L_Du8ty7k8JihZkwvSKbJV-9co9PAswsbHAcxMyQbAVZLceryuCeWpHcCu"
+href = "urn:sha384:c9KGPUg0CZG9wurf4c-iwWd-BZHLrXeO0WT9EzuSXAI-f2-Ku-g1XbAKJLGXoexd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
