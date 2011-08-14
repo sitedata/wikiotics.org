@@ -1,6 +1,6 @@
 +++
 title = "WANY-3-grammar"
-contributors = []
+contributors = [ "ian",]
 headings = [ "prompt", "answer",]
 type = "lesson"
 [[cards]]
@@ -36,7 +36,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "When the parents were meeting to plan their questions, they were ___."
+text = "When the parents were meeting to plan their questions, they were ___ with each other."
 type = "phrase"
 
 [[cards.sides]]
