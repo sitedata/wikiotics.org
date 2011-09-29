@@ -126,7 +126,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These pants are baggy."
+text = "Which picture has four pairs of baggy pants?"
 type = "phrase"
 
 [[cards.sides]]
