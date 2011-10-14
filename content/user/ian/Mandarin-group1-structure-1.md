@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "__是谁？"
+text = "row 5, cell 1"
 type = "phrase"
 
 [[cards.sides]]
@@ -102,10 +102,12 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "column 0, row 5"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "column 1, row 5"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -116,10 +118,12 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "column 0, row 6"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "column 1, row 6"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
