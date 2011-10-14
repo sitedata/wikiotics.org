@@ -6,16 +6,12 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "row 5, cell 1"
-type = "phrase"
-
-[[cards.sides]]
 text = "她"
 type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:uEJfCmJ708wwGRAhXNf6b9xmSxgRatikNDQPinIyIcKT8ChihEHMl2gGSnv-02b3"
-href = "urn:sha384:LsKwtPuGm44qyaZk0XjVY81_h4gesSbLgf5c7EXznPQUV5tf85frWGRJxanqO5NO"
+href = "urn:sha384:l8_AlgvfRHBxVn3OD3PgIruZvvPLghi0Kz0eoliMbY33pc6-H40RgFg8vXHtKMI9"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -25,14 +21,13 @@ author_url = "http://www.flickr.com/people/36495803@N05/"
 original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
 title = "Beautiful Asian Woman Thinking"
 [[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
 text = ""
 type = "phrase"
 
 [[cards]]
-
-[[cards.sides]]
-text = "__是谁？"
-type = "phrase"
 
 [[cards.sides]]
 text = "他"
@@ -40,7 +35,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:FVmTsUu9WdTALKrjUVUUi-xTAGi4KZgb7YEYuMoBOJcNSNDfJa5Ynk-S9KS6MMrR"
-href = "urn:sha384:1GVXIZeFaIZWZSe4d0JfNHb4dwr0p17lYIAKRO19cSv22UrQtttWx0zRE7EuNAHY"
+href = "urn:sha384:Sy0DUJJlHwPcXllSBjDy9wFqq3F6ZYfiKMrqa-11SRK8mDLbvrcE782GatqHZcvP"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -49,6 +44,9 @@ author = "Anja Disseldorp (jadis1958)"
 author_url = "http://www.flickr.com/people/45959769@N02/"
 original_url = "http://www.flickr.com/photos/45959769@N02/5421101621"
 title = "China - Portrait Chinese man"
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 text = ""
 type = "phrase"
@@ -71,7 +69,8 @@ author_url = "http://www.flickr.com/people/36495803@N05/"
 original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
 title = "Beautiful Asian Woman Thinking"
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -94,7 +93,8 @@ author_url = "http://www.flickr.com/people/45959769@N02/"
 original_url = "http://www.flickr.com/photos/45959769@N02/5421101621"
 title = "China - Portrait Chinese man"
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -110,7 +110,8 @@ text = "column 1, row 5"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -126,7 +127,8 @@ text = "column 1, row 6"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
