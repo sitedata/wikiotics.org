@@ -21,7 +21,10 @@ author_url = "http://www.flickr.com/people/36495803@N05/"
 original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
 title = "Beautiful Asian Woman Thinking"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:E3max5GnDbsFE1QcvE0EYSQqhOAVByRiQuJx1PnbJhS700JOWz_57CzfRSFg7s5J"
+href = "urn:sha384:v8eXsv0JTpZ7a6cAlX2Yq57zYXK4lYN3Rd-www3C7xDJv4lyTZcXkZ8cbDhLUtqu"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -45,7 +48,10 @@ author_url = "http://www.flickr.com/people/45959769@N02/"
 original_url = "http://www.flickr.com/photos/45959769@N02/5421101621"
 title = "China - Portrait Chinese man"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:E3max5GnDbsFE1QcvE0EYSQqhOAVByRiQuJx1PnbJhS700JOWz_57CzfRSFg7s5J"
+href = "urn:sha384:GrPIHgb0BNf2nR_4K21SdlH2D-sv4HPEVf4vJLBTNLmkoQ6DTuIEv5PjtH8jtD65"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -54,7 +60,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "她是 Ma Mingli。"
+text = "她是 Hú Měilíng。"
 type = "phrase"
 
 [[cards.sides]]
@@ -69,8 +75,10 @@ author_url = "http://www.flickr.com/people/36495803@N05/"
 original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
 title = "Beautiful Asian Woman Thinking"
 [[cards.sides]]
-text = ""
-type = "phrase"
+blob_href = "urn:sha384:U2Y2kLhOLiumuo9QHx2LSAW-Yxpjl8iMnuRvFJnUgXDwdHX5lAxQ_xSo_NYqPLhz"
+href = "urn:sha384:uoNGD_1dJoaHOfWuCWZ4Bwp7w6NDpm_qVzqAefDCBwB7h1Wl9P-shmSw3ukIyzGJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -78,7 +86,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是 Hú Měilíng"
+text = "他是 Ma Mingli。"
 type = "phrase"
 
 [[cards.sides]]
@@ -93,8 +101,10 @@ author_url = "http://www.flickr.com/people/45959769@N02/"
 original_url = "http://www.flickr.com/photos/45959769@N02/5421101621"
 title = "China - Portrait Chinese man"
 [[cards.sides]]
-text = ""
-type = "phrase"
+blob_href = "urn:sha384:afG9PAZ-3OLIm9_7eZYP5mp8SsHKU1aoBgIx3To4z1oZcZup6Hu9qaxTQf-WypjO"
+href = "urn:sha384:seJG1cwp9ljVDPIT5Of61G52QblsZ4Pjm5m8xOoUFXyuvrcpAHUO0fTUzzqveMCB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -110,7 +120,7 @@ text = "column 1, row 5"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "column 2, row 5"
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +137,7 @@ text = "column 1, row 6"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "column 2, row 6"
 type = "phrase"
 
 [[cards.sides]]
@@ -144,7 +154,8 @@ text = "column 1, row 7"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "column 2, row 7"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -160,14 +171,15 @@ text = "column 1, row 8"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "column 2, row 8"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[interactions]]
 answer = 1
-prompt = [ 0,]
+prompt = [ 2,]
 type = "choice"
 
 +++
