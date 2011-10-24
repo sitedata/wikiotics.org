@@ -1,6 +1,6 @@
 +++
 title = "Everyday things"
-contributors = []
+contributors = [ "tgarrison",]
 headings = [ "", "",]
 type = "lesson"
 [[cards]]
@@ -20,4 +20,9 @@ author = "Hourann Bosci (azza-bazoo)"
 author_url = "http://www.flickr.com/people/54796434@N00/"
 original_url = "http://www.flickr.com/photos/54796434@N00/488056465"
 title = "Cat on the Bed (\"before\")"
+[[interactions]]
+answer = 0
+prompt = [ 1,]
+type = "choice"
+
 +++
