@@ -227,7 +227,10 @@ text = "Soir."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3yEK928UZ8NSK4kQV-fb5dTJvZcC6D-AxEEH4qMt_W7n_3OQnguYzn3VfoVNwb5w"
+href = "urn:sha384:rter82iMyu1wuKf0OVb70l3NxvfqMzh-Jf7DGn4DAc3P_PJMVVaB77iUsaF9UkbO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -244,7 +247,10 @@ text = "Bonsoir."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jZ10oN2aCDsRcX18mJAtOpwY_Vkr1QL1UkPe_i4FRV-a6a0hnSHu37DRQCTUs9_J"
+href = "urn:sha384:OJKsKj75j1KXsKUgVdgPFnuK76d6fMozcLJgNgg9yFJdVlpFssauT_v07a1B5KXq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -278,7 +284,10 @@ text = "Bonjour."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xgvMT0Oo9_uyht-6He3COwAn_OHzcfFuYrEIif7o5QSYWNCVXunvJYIGzTrOCU5T"
+href = "urn:sha384:B-BdS4d98rJRSxEqeT6V7yADjypNSTZFb5HrA_iGzlADZhUp36kA6rqdr0aSaz8r"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -312,7 +321,10 @@ text = "Bonsoir."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UiX9dAiCRkE4gbC5JP2Bdb15U_Al67eYI7flZ9PyO-r-287WVlGMs1jrPpn7Gdse"
+href = "urn:sha384:eYGgELgM-kSHqDAABTzocKQOV65FaLMrep0XNklwO0UvmbDCRI5lTcFVzEk7tinv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -451,7 +463,10 @@ text = "Salut."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:J4ZgR-CoYpZd9Mc_kQNJLrR9v7O4COzmVq8e4KkOepK1v6DeKHKQP7VD9uLq_rnB"
+href = "urn:sha384:jbAjLBERySyWi5jgNtqnPvTLc31gUad-405cUOA7am2zRYB9umtDNsHIZtCy_clr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
