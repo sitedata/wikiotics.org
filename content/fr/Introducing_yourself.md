@@ -1,6 +1,6 @@
 +++
 title = "Introducing yourself"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:fr", "wikibabel",]
 type = "lesson"
