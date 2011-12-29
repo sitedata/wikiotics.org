@@ -1,6 +1,6 @@
 +++
 title = "The survival kit"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:bg", "wikibabel",]
 type = "lesson"
@@ -61,7 +61,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour"
+text = "Добър ден ! "
 type = "phrase"
 
 [[cards.sides]]
@@ -98,7 +98,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "Да"
 type = "phrase"
 
 [[cards.sides]]
@@ -135,7 +135,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "Не"
 type = "phrase"
 
 [[cards.sides]]
@@ -172,7 +172,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "Извинете."
 type = "phrase"
 
 [[cards.sides]]
@@ -209,7 +209,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "Благодаря."
 type = "phrase"
 
 [[cards.sides]]
@@ -246,7 +246,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
+text = "Няма защо."
 type = "phrase"
 
 [[cards.sides]]
@@ -283,7 +283,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = "Не разбирам."
 type = "phrase"
 
 [[cards.sides]]
@@ -320,7 +320,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répeter?"
+text = "Повторете."
 type = "phrase"
 
 [[cards.sides]]
@@ -357,7 +357,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait"
+text = "Моля."
 type = "phrase"
 
 [[cards.sides]]
@@ -394,7 +394,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Combien ça coûte?"
+text = "Колко струва ?"
 type = "phrase"
 
 [[cards.sides]]
@@ -451,7 +451,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "Довиждане."
 type = "phrase"
 
 [[cards.sides]]
