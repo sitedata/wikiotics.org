@@ -1,6 +1,6 @@
 +++
 title = "Numbers - 1 to 10"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:fr", "wikibabel",]
 type = "lesson"
