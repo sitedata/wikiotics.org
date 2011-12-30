@@ -47,7 +47,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Instead, there are 2 systems called S-Bahn and U-Bahn."
+text = "Instead, there are 2 systems called S-Bahn and U-Bahn. S stands for \"schnell\" (= fast) or \"Stadt\" (= city) and U stands for \"Untergrund\" (= underground)."
 type = "phrase"
 
 [[cards.sides]]
@@ -87,7 +87,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Nächste Station: Jannovitzbrücke - Übergang zur U-Bahn Linie 8"
+text = "Nächste Station: Jannowitzbrücke - Übergang zur U-Bahn Linie 8"
 type = "phrase"
 
 [[cards.sides]]
@@ -147,7 +147,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Jannovitzbrücke is the name of the station the train is arriving at, which means Jannovitz bridge."
+text = "Jannowitzbrücke is the name of the station the train is arriving at, which means Jannowitz bridge."
 type = "phrase"
 
 [[cards.sides]]
