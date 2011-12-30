@@ -65,10 +65,30 @@ text = "Добрый день"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QemL92Y5XY_a3BK_4O1ux_Sd98UsdrZoqt9d6gisLLBVI4h-6lCJedt-JuuF8ro0"
+href = "urn:sha384:5OoZvyBrHkzontbm4V7nAA_cw1BHkLiwPhdoxpDZt9-N4cp_R60--F_wuGTHdmSY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Dobryi den"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
 type = "phrase"
 
 [[cards.sides]]
@@ -115,6 +135,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Da"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "and \"no\""
 type = "phrase"
 
@@ -136,6 +173,23 @@ type = "phrase"
 
 [[cards.sides]]
 text = "Нет"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "ru"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nyet"
 type = "phrase"
 
 [[cards.sides]]
@@ -226,6 +280,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Spasibo"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "ru"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "to which one can reply \"you're welcome\""
 type = "phrase"
 
@@ -247,6 +318,23 @@ type = "phrase"
 
 [[cards.sides]]
 text = "пожалусто"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "ru"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pojalusto"
 type = "phrase"
 
 [[cards.sides]]
