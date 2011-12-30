@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn how to be civilised in French, and say hello and goodbye to people."
+text = "In this lesson, we'll learn how to be civilised in German, and say hello and goodbye to people."
 type = "phrase"
 
 [[cards.sides]]
