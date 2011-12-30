@@ -1,13 +1,13 @@
 +++
 title = "The survival kit"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:hi", "wikibabel",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a French speaking country or region."
+text = "In this lesson, we'll learn the bare minimum you should know in Hindi to help you in India."
 type = "phrase"
 
 [[cards.sides]]
