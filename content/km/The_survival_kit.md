@@ -206,7 +206,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "សូមទោស"
+text = "som toh - សូមទោស"
 type = "phrase"
 
 [[cards.sides]]
@@ -280,6 +280,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Mun ay te"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "km"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "If you don't understand what you're being told:"
 type = "phrase"
 
@@ -291,6 +308,23 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Min yol dtay"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "km"
 type = "phrase"
 
 [[cards.sides]]
