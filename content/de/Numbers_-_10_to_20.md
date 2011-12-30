@@ -75,7 +75,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "12 - zwölf"
+text = "Watch out for those dots! They turn a vowel into an \"Umlaut\", which sounds a bit weird to ears not used to it. Make an effort to copy it from the speech announcement (soon to follow), as for ears used to it, it sounds weird when it's missing."
 type = "phrase"
 
 [[cards.sides]]
@@ -92,7 +92,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Watch out for those dots! They turn a vowel into an \"Umlaut\", which sounds a bit weird to ears not used to it. Make an effort to copy it from the speech announcement (soon to follow), as for ears used to it, it sounds weird when it's missing."
+text = "12 - zwölf"
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "13 - treize"
+text = "13 - dreizehn"
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +126,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "14 - quatorze"
+text = "14 - vierzehn"
 type = "phrase"
 
 [[cards.sides]]
@@ -143,7 +143,24 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "15 - quinze"
+text = "Another \"Umlaut\"! This time, turning a \"U\" into an \"ü\". Please also see the special \"German Umlaut\" section (under construction)."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "15 - fünfzehn"
 type = "phrase"
 
 [[cards.sides]]
@@ -160,7 +177,24 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "16 - seize"
+text = "The \"ch\" is often pronounced differently depending on its place in the word, but luckily also depending on its place throughout Germany - so don't mind too much if you don't get the special soft sound here from the start."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "16 - sechzehn"
 type = "phrase"
 
 [[cards.sides]]
@@ -177,7 +211,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "17 - dix-sept"
+text = "17 - siebzehn"
 type = "phrase"
 
 [[cards.sides]]
@@ -194,7 +228,24 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "18 - dix-huit"
+text = "Hear (soon) how the \"ch\" turns around and comes from being very tender to being very harsh?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "18 - achtzehn"
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +262,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "19 - dix-neuf"
+text = "19 - neunzehn"
 type = "phrase"
 
 [[cards.sides]]
@@ -228,7 +279,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "20 - vingt"
+text = "20 - zwanzig"
 type = "phrase"
 
 [[cards.sides]]
@@ -262,7 +313,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "douze"
+text = "zwölf"
 type = "phrase"
 
 [[cards.sides]]
@@ -296,7 +347,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "quinze"
+text = "fünfzehn"
 type = "phrase"
 
 [[cards.sides]]
@@ -330,7 +381,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "onze"
+text = "elf"
 type = "phrase"
 
 [[cards.sides]]
@@ -364,7 +415,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "vingt"
+text = "zwanzig"
 type = "phrase"
 
 [[cards.sides]]
@@ -381,7 +432,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say 13?"
+text = "How do you say 18?"
 type = "phrase"
 
 [[cards.sides]]
@@ -398,7 +449,41 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "treize"
+text = "achtzehn"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Say 16."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "sechzehn"
 type = "phrase"
 
 [[cards.sides]]
