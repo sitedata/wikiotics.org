@@ -61,7 +61,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour!"
+text = "Namaste"
 type = "phrase"
 
 [[cards.sides]]
@@ -98,7 +98,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "Haan / Bilkul"
 type = "phrase"
 
 [[cards.sides]]
@@ -135,7 +135,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "Nahi"
 type = "phrase"
 
 [[cards.sides]]
@@ -172,7 +172,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "Mafkijiye"
 type = "phrase"
 
 [[cards.sides]]
@@ -209,7 +209,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "Shuriya"
 type = "phrase"
 
 [[cards.sides]]
@@ -246,7 +246,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
+text = "Aap ka Swagat hey."
 type = "phrase"
 
 [[cards.sides]]
@@ -283,7 +283,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = "Mujhe Samaj Nahi Aaya"
 type = "phrase"
 
 [[cards.sides]]
@@ -320,7 +320,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répéter?"
+text = "Kya aap doharayenge."
 type = "phrase"
 
 [[cards.sides]]
@@ -357,7 +357,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait."
+text = "krupaya"
 type = "phrase"
 
 [[cards.sides]]
@@ -394,7 +394,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Combien ça coûte?"
+text = "aye kitane ka hey"
 type = "phrase"
 
 [[cards.sides]]
@@ -451,7 +451,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "alvida"
 type = "phrase"
 
 [[cards.sides]]
