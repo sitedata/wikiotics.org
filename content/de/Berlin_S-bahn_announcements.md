@@ -47,7 +47,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Instead, there are 2 systems called S-bahn and U-bahn."
+text = "Instead, there are 2 systems called S-Bahn and U-Bahn."
 type = "phrase"
 
 [[cards.sides]]
@@ -87,7 +87,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Nächste station: JannovitzBrücke - übergang zum U-bahn linie 8"
+text = "Nächste Station: JannovitzBrücke - Übergang zur U-Bahn Linie 8"
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +127,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Nächste station"
+text = "Nächste Station"
 type = "phrase"
 
 [[cards.sides]]
@@ -184,7 +184,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "übergang zum U-bahn linie 8"
+text = "Übergang zur U-Bahn Linie 8"
 type = "phrase"
 
 [[cards.sides]]
@@ -221,7 +221,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "übergang"
+text = "Übergang"
 type = "phrase"
 
 [[cards.sides]]
@@ -258,7 +258,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "U-bahn"
+text = "U-Bahn"
 type = "phrase"
 
 [[cards.sides]]
@@ -372,7 +372,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "ausstieg"
+text = "Ausstieg"
 type = "phrase"
 
 [[cards.sides]]
