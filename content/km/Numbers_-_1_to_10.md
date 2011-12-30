@@ -1,6 +1,6 @@
 +++
 title = "Numbers - 1 to 10"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:km", "wikibabel",]
 type = "lesson"
@@ -47,7 +47,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "1 - un"
+text = "1 - Mooy"
 type = "phrase"
 
 [[cards.sides]]
@@ -64,7 +64,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "2 - deux"
+text = "2 - Pee"
 type = "phrase"
 
 [[cards.sides]]
@@ -81,7 +81,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "3 - trois"
+text = "3 - Bai"
 type = "phrase"
 
 [[cards.sides]]
@@ -98,7 +98,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "4 - quatre"
+text = "4 - Boon"
 type = "phrase"
 
 [[cards.sides]]
@@ -115,7 +115,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "5 - cinq"
+text = "5 - Pram"
 type = "phrase"
 
 [[cards.sides]]
@@ -132,7 +132,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "6 - six"
+text = "6 - Pram mooy"
 type = "phrase"
 
 [[cards.sides]]
@@ -149,7 +149,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "7 - sept"
+text = "7 - Pram pee"
 type = "phrase"
 
 [[cards.sides]]
@@ -166,7 +166,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "8 - huit"
+text = "8 - Pram bai"
 type = "phrase"
 
 [[cards.sides]]
@@ -183,7 +183,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "9 - neuf"
+text = "9 - Pram boon"
 type = "phrase"
 
 [[cards.sides]]
@@ -200,81 +200,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "10 - dix"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "km"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "As a bonus, we'll give you zero:"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:vYFRFxRXSSFI9aRtLXRaXWBCSLl_v1HsTCmSnbrRogPWlRqmZHanS7UJZIXa3QNK"
-href = "urn:sha384:0558midvJVVu1lKcba5KtuXCK47agJZ1JfmjQzygbMITgHmt9e1ltjPFadbOGh7h"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "0 - zéro"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "km"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Also note that one has a different feminin form"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:dV64S1BhlmvOUj-6BBWJAf9Cp3yo_DHLqcrSy4vyHJaYvF0ycky-4umKkeFWCF-C"
-href = "urn:sha384:GiT4XTrEJDafgIlRLo809e_dz-_-LfvmZhZ6DBk5VQD2ipqV_IBjLX2u9rVivhp0"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "1 - une"
+text = "10 - dop"
 type = "phrase"
 
 [[cards.sides]]
@@ -311,7 +237,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "deux"
+text = "Pee"
 type = "phrase"
 
 [[cards.sides]]
@@ -348,7 +274,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "cinq"
+text = "Pram"
 type = "phrase"
 
 [[cards.sides]]
@@ -385,7 +311,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "neuf"
+text = "Pram boon"
 type = "phrase"
 
 [[cards.sides]]
@@ -422,7 +348,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "trois - quatre"
+text = "bai - boon"
 type = "phrase"
 
 [[cards.sides]]
@@ -459,7 +385,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "sept"
+text = "pram pee"
 type = "phrase"
 
 [[cards.sides]]
@@ -496,7 +422,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "huit"
+text = "pram bai"
 type = "phrase"
 
 [[cards.sides]]
@@ -513,7 +439,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "What is one in french? Say both masculin and feminin forms."
+text = "What is one in khmer?"
 type = "phrase"
 
 [[cards.sides]]
@@ -533,7 +459,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Un - une"
+text = "mooy"
 type = "phrase"
 
 [[cards.sides]]
@@ -570,7 +496,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "huit"
+text = "pram bai"
 type = "phrase"
 
 [[cards.sides]]
@@ -607,7 +533,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "un deux trois quatre cinq"
+text = "mooy - pee - bai - boon - pram"
 type = "phrase"
 
 [[cards.sides]]
@@ -644,7 +570,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "six sept huit neuf dix"
+text = "pram mooy - pram pee - pram bai - pram boon - dop"
 type = "phrase"
 
 [[cards.sides]]
