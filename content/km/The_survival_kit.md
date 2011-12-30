@@ -1,13 +1,13 @@
 +++
 title = "The survival kit"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:km", "wikibabel",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a French speaking country or region."
+text = "In this lesson, we'll learn the bare minimum khmer you should know before going to Cambodia."
 type = "phrase"
 
 [[cards.sides]]
@@ -61,7 +61,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour!"
+text = "សួរស្តី"
 type = "phrase"
 
 [[cards.sides]]
@@ -78,7 +78,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Here's how you say \"yes\""
+text = "Here's how you say \"yes\" if you are a woman."
 type = "phrase"
 
 [[cards.sides]]
@@ -98,7 +98,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "jaa"
 type = "phrase"
 
 [[cards.sides]]
@@ -115,7 +115,41 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "and \"no\""
+text = "but if you are a man, you would say:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "baat"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "km"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Both women and men say the same for \"no\":"
 type = "phrase"
 
 [[cards.sides]]
@@ -135,7 +169,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "ot tay"
 type = "phrase"
 
 [[cards.sides]]
@@ -152,7 +186,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excuse me, for instance to ask a question, or if you bumped into someone by mistake."
+text = "To say sorry, you can say:"
 type = "phrase"
 
 [[cards.sides]]
@@ -172,7 +206,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "សូមទោស"
 type = "phrase"
 
 [[cards.sides]]
@@ -209,7 +243,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "aw kunh"
 type = "phrase"
 
 [[cards.sides]]
@@ -246,23 +280,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "km"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "If you don't understand what you're being told:"
 type = "phrase"
 
@@ -274,23 +291,6 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Je ne comprends pas."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "km"
 type = "phrase"
 
 [[cards.sides]]
@@ -320,23 +320,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répéter?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "km"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Make sure you add a \"please\" wherever needed"
 type = "phrase"
 
@@ -357,7 +340,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait."
+text = "Som"
 type = "phrase"
 
 [[cards.sides]]
@@ -394,7 +377,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Combien ça coûte?"
+text = "តើវាថ្លាប៉ុន្មាន"
 type = "phrase"
 
 [[cards.sides]]
@@ -451,7 +434,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "លាហើយ - Som leea hi"
 type = "phrase"
 
 [[cards.sides]]
