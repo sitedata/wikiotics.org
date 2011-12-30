@@ -135,7 +135,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "아나"
+text = "아니요."
 type = "phrase"
 
 [[cards.sides]]
@@ -152,7 +152,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excuse me, for instance to ask a question, or if you bumped into someone by mistake."
+text = "Excuse me, for instance to ask a question:"
 type = "phrase"
 
 [[cards.sides]]
@@ -172,7 +172,24 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "실례합니다."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "ko"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "죄송합니다."
 type = "phrase"
 
 [[cards.sides]]
@@ -209,7 +226,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "감사합니다."
 type = "phrase"
 
 [[cards.sides]]
@@ -246,7 +263,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
+text = "천만에요."
 type = "phrase"
 
 [[cards.sides]]
@@ -283,7 +300,24 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = "죄송하지만 이해를 못하겠어요."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "ko"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "네?"
 type = "phrase"
 
 [[cards.sides]]
@@ -320,7 +354,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répéter?"
+text = "다시 한번 말씀해주시겠어요?"
 type = "phrase"
 
 [[cards.sides]]
@@ -357,7 +391,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait."
+text = "부탁드립니다."
 type = "phrase"
 
 [[cards.sides]]
@@ -394,7 +428,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Combien ça coûte?"
+text = "얼마에요?"
 type = "phrase"
 
 [[cards.sides]]
@@ -451,7 +485,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "안녕히계세요."
 type = "phrase"
 
 [[cards.sides]]
