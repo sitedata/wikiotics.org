@@ -61,7 +61,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "si"
+text = "Sí"
 type = "phrase"
 
 [[cards.sides]]
@@ -98,7 +98,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "no"
+text = "No"
 type = "phrase"
 
 [[cards.sides]]
@@ -135,7 +135,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Perdon"
+text = "Perdón"
 type = "phrase"
 
 [[cards.sides]]
@@ -283,7 +283,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Puede usted repetir?"
+text = "¿Puede repetir?"
 type = "phrase"
 
 [[cards.sides]]
@@ -357,7 +357,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Cuanto cuesta esto?"
+text = "¿Cuánto cuesta esto?"
 type = "phrase"
 
 [[cards.sides]]
@@ -414,7 +414,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "adios"
+text = "Adiós"
 type = "phrase"
 
 [[cards.sides]]
