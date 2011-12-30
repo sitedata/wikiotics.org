@@ -1,13 +1,13 @@
 +++
 title = "The survival kit"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:ko", "wikibabel",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a French speaking country or region."
+text = "In this lesson, we'll learn the bare minimum you should know before going to Korea."
 type = "phrase"
 
 [[cards.sides]]
@@ -61,7 +61,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour!"
+text = "안녕하세요."
 type = "phrase"
 
 [[cards.sides]]
@@ -98,7 +98,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "네."
 type = "phrase"
 
 [[cards.sides]]
@@ -135,7 +135,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "아나"
 type = "phrase"
 
 [[cards.sides]]
