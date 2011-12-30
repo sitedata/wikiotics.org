@@ -47,7 +47,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "1 - Mooy"
+text = "1 - ១ - Mooy"
 type = "phrase"
 
 [[cards.sides]]
@@ -64,7 +64,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "2 - Pee"
+text = "2 - ២ - Pee"
 type = "phrase"
 
 [[cards.sides]]
@@ -81,7 +81,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "3 - Bai"
+text = "3 - ៣ - Bai"
 type = "phrase"
 
 [[cards.sides]]
@@ -98,7 +98,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "4 - Boon"
+text = "4 - ៤ - Boon"
 type = "phrase"
 
 [[cards.sides]]
@@ -115,7 +115,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "5 - Pram"
+text = "5 - ៥ - Pram"
 type = "phrase"
 
 [[cards.sides]]
@@ -132,7 +132,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "6 - Pram mooy"
+text = "6 - ៦ - Pram mooy"
 type = "phrase"
 
 [[cards.sides]]
@@ -149,7 +149,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "7 - Pram pee"
+text = "7 - ៧ - Pram pee"
 type = "phrase"
 
 [[cards.sides]]
@@ -166,7 +166,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "8 - Pram bai"
+text = "8 - ៨ - Pram bai"
 type = "phrase"
 
 [[cards.sides]]
@@ -183,7 +183,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "9 - Pram boon"
+text = "9 - ៩ - Pram boon"
 type = "phrase"
 
 [[cards.sides]]
@@ -200,7 +200,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "10 - dop"
+text = "10 - ១០ - dop"
 type = "phrase"
 
 [[cards.sides]]
