@@ -109,7 +109,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Ankara'da bir bilet var mı?"
+text = "Ankara'ya bir bilet var mı?"
 type = "phrase"
 
 [[cards.sides]]
@@ -398,7 +398,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bu otobüs Istanbul'a durur mu?"
+text = "Bu otobüs Istanbul'da durur mu?"
 type = "phrase"
 
 [[cards.sides]]
