@@ -1,6 +1,6 @@
 +++
 title = "Telling time"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:de", "wikibabel",]
 type = "lesson"
