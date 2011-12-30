@@ -1,13 +1,13 @@
 +++
 title = "The survival kit"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:fa", "wikibabel",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a Bulgarian speaking country or region."
+text = "In this lesson, we'll learn the bare minimum you should know before going to a Persian speaking country."
 type = "phrase"
 
 [[cards.sides]]
@@ -61,7 +61,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Добър ден ! "
+text = "Salâm (سلام)"
 type = "phrase"
 
 [[cards.sides]]
@@ -98,7 +98,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Да"
+text = "bale (بله)"
 type = "phrase"
 
 [[cards.sides]]
@@ -135,7 +135,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Не"
+text = "na (نه)"
 type = "phrase"
 
 [[cards.sides]]
@@ -172,7 +172,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Извинете."
+text = "bebaxšid (ببخشید), maøzerat mixâham (معذرت می\u200cخواهم)"
 type = "phrase"
 
 [[cards.sides]]
@@ -209,7 +209,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Благодаря."
+text = "xeyli mamnun (خیلی ممنون)"
 type = "phrase"
 
 [[cards.sides]]
@@ -246,7 +246,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Няма защо."
+text = "xâheš mikonam (خواهش می\u200cکنم)"
 type = "phrase"
 
 [[cards.sides]]
@@ -283,7 +283,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Не разбирам."
+text = "nemifahmam (نمی\u200cفهمم)"
 type = "phrase"
 
 [[cards.sides]]
@@ -320,7 +320,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Повторете."
+text = "??"
 type = "phrase"
 
 [[cards.sides]]
@@ -357,7 +357,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Моля."
+text = "lotfan (لطفا)"
 type = "phrase"
 
 [[cards.sides]]
@@ -394,7 +394,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Колко струва ?"
+text = "cheqadr mišavad? ( چقدر می\u200cشود)"
 type = "phrase"
 
 [[cards.sides]]
@@ -451,7 +451,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Довиждане."
+text = "xodâhâfez (خداحافظ)"
 type = "phrase"
 
 [[cards.sides]]
