@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a French speaking country or region."
+text = "In this lesson, we'll learn the bare minimum you should know before going to a Punjabi speaking region."
 type = "phrase"
 
 [[cards.sides]]
