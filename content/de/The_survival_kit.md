@@ -404,7 +404,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Wie viel kostet das?"
+text = "Wieviel kostet das?"
 type = "phrase"
 
 [[cards.sides]]
