@@ -98,7 +98,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "igen"
 type = "phrase"
 
 [[cards.sides]]
@@ -135,7 +135,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "nem"
 type = "phrase"
 
 [[cards.sides]]
@@ -172,7 +172,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "Elneszest  /  boscanot"
 type = "phrase"
 
 [[cards.sides]]
@@ -209,7 +209,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "kozinem"
 type = "phrase"
 
 [[cards.sides]]
@@ -246,11 +246,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
+text = "szivesen"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gBMa_XqMDSYc9folSS8mN5fgmyuGfxpDTKZoU5fi3wGBWLtZF7z_VJ3XL92evycs"
+href = "urn:sha384:h54GxjnWA1Lhz2iRDOwib3ZUsIprnAEQC0L_-4gYT1EPK4jH6v4OgFylTndDufny"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "hu"
@@ -283,7 +286,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = "Nem ertem."
 type = "phrase"
 
 [[cards.sides]]
@@ -320,23 +323,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répeter?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "hu"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Make sure you add a \"please\" wherever needed"
 type = "phrase"
 
@@ -357,23 +343,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "hu"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "For instance when asking how much something costs"
 type = "phrase"
 
@@ -385,23 +354,6 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Combien ça coûte?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "hu"
 type = "phrase"
 
 [[cards.sides]]
@@ -451,7 +403,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "Szia"
 type = "phrase"
 
 [[cards.sides]]
