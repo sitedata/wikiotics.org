@@ -58,7 +58,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Quelle heure est-il?"
+text = "Wieviel Uhr ist es?"
 type = "phrase"
 
 [[cards.sides]]
@@ -75,7 +75,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Note that in French, you don't ask \"what time is it?\" but \"what hour is it?\""
+text = "Note that in French, you don't ask \"what time is it?\" but \"How much watch is it?\" (See also: Casablanca)"
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Quelle heure"
+text = "Wieviel Uhr"
 type = "phrase"
 
 [[cards.sides]]
@@ -143,7 +143,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "est-il?"
+text = "ist es?"
 type = "phrase"
 
 [[cards.sides]]
@@ -177,7 +177,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Quelle heure est-il?"
+text = "Wieviel Uhr ist es?"
 type = "phrase"
 
 [[cards.sides]]
@@ -228,7 +228,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Il est une heure."
+text = "Es ist ein Uhr."
 type = "phrase"
 
 [[cards.sides]]
@@ -262,7 +262,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Il est dix heures."
+text = "Es ist zehn Uhr."
 type = "phrase"
 
 [[cards.sides]]
@@ -296,7 +296,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Quelle heure est-il?"
+text = "Wieviel Uhr ist es?"
 type = "phrase"
 
 [[cards.sides]]
@@ -330,7 +330,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Il est cinq heures et demi."
+text = "Es ist halb sechs."
 type = "phrase"
 
 [[cards.sides]]
@@ -347,7 +347,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "or just like you say 5:30, you can also say:"
+text = "Please notice that German is different from English in this respect. Look at the numbers!"
 type = "phrase"
 
 [[cards.sides]]
@@ -355,23 +355,6 @@ type = "empty"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Il est cinq heures trente."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -398,7 +381,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Il est cinq heures et demi."
+text = "Es ist halb sechs."
 type = "phrase"
 
 [[cards.sides]]
@@ -432,7 +415,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Il est trois heures et quart."
+text = "Es ist viertel nach drei."
 type = "phrase"
 
 [[cards.sides]]
@@ -466,7 +449,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Il est trois heures moins le quart."
+text = "Es ist viertel vor drei."
 type = "phrase"
 
 [[cards.sides]]
@@ -534,7 +517,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Note however that the AM and PM system common in English speaking countries does not really work for french speakers."
+text = "Note however that the AM and PM system common in English speaking countries does not really work for German speakers. Formal times are given in 24h denominations."
 type = "phrase"
 
 [[cards.sides]]
@@ -551,7 +534,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "So usually PM times will either be said as AM times in spoken language, and when no doubt is possible."
+text = "Unformally, PM times will be said as AM times in spoken language, normally when no doubt is possible."
 type = "phrase"
 
 [[cards.sides]]
@@ -568,7 +551,109 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Alternatively, to avoid doubt or in more formal environments, you would use the 24h system."
+text = "You can also, when in doubt, add before noon/in the afternoon to the time announcement. Here's how to do that:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "7 a.m."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Sieben Uhr morgens."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "When you already had a look at the German basic survival kit, you'll notice that I said: 7 o'clock in the morning."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "11 a.m."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Elf Uhr vormittags."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Vormittags\" translates literally to \"before noon\". Borders to morning are debatable and depend on your sorroundings. =)"
 type = "phrase"
 
 [[cards.sides]]
