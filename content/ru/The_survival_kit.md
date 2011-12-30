@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a French speaking country or region."
+text = "In this lesson, we'll learn the bare minimum you should know before going to Russia."
 type = "phrase"
 
 [[cards.sides]]
@@ -61,7 +61,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Добър ден ! "
+text = "Добрый день"
 type = "phrase"
 
 [[cards.sides]]
@@ -135,7 +135,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Не"
+text = "Нет"
 type = "phrase"
 
 [[cards.sides]]
@@ -209,7 +209,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Благодаря."
+text = "Спасибо"
 type = "phrase"
 
 [[cards.sides]]
@@ -246,7 +246,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Няма защо."
+text = "пожалусто"
 type = "phrase"
 
 [[cards.sides]]
@@ -283,7 +283,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Не разбирам."
+text = "Не понимаю"
 type = "phrase"
 
 [[cards.sides]]
@@ -357,7 +357,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Моля."
+text = "пожалусто"
 type = "phrase"
 
 [[cards.sides]]
@@ -394,7 +394,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Колко струва ?"
+text = "Сколько стоит ?"
 type = "phrase"
 
 [[cards.sides]]
@@ -451,7 +451,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Довиждане."
+text = "Досвидания."
 type = "phrase"
 
 [[cards.sides]]
