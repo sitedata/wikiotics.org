@@ -198,6 +198,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "This in in french language ..."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "To say thank you, say:"
 type = "phrase"
 
