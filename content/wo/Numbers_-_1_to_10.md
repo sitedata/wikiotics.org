@@ -1,6 +1,6 @@
 +++
 title = "Numbers - 1 to 10"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:wo", "wikibabel",]
 type = "lesson"
@@ -35,23 +35,6 @@ blob_href = "urn:sha384:-vRV-_oT_fAfAQgDo5OlzxefoxEuye6nInCr9yoWyYpvqhJcEoDnYSYc
 href = "urn:sha384:reUErHsGXFtcLx47jsfFNni6uUQRXlGipqutZc-HisK5xlZ_uIK6hfu7tkr6AjBz"
 mime_type = "audio/ogg"
 type = "audio"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "един, една "
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 text = "en"
