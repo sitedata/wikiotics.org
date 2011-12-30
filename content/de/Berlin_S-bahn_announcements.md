@@ -467,7 +467,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Nächste Station „Hauptbahnhof“. Übergang zur U-Bahn-Linie 55 und zum Regional- und Fernverkehr."
 type = "phrase"
 
 [[cards.sides]]
