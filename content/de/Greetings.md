@@ -41,7 +41,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour."
+text = "Guten Tag."
 type = "phrase"
 
 [[cards.sides]]
@@ -92,7 +92,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bon"
+text = "Guten"
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Notice there is no 'n' sound at the end. Your tongue never touches the palate when you say it."
+text = "Just notice that this is not the basic case of \"good\". But don't worry, we'll come to that in due time."
 type = "phrase"
 
 [[cards.sides]]
@@ -143,7 +143,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "jour"
+text = "Tag"
 type = "phrase"
 
 [[cards.sides]]
@@ -160,7 +160,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour."
+text = "Guten Tag"
 type = "phrase"
 
 [[cards.sides]]
@@ -194,7 +194,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonsoir."
+text = "Guten Abend."
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +211,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Soir."
+text = "Abend"
 type = "phrase"
 
 [[cards.sides]]
@@ -228,7 +228,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonsoir."
+text = "Abend"
 type = "phrase"
 
 [[cards.sides]]
@@ -262,7 +262,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour."
+text = "Guten Tag."
 type = "phrase"
 
 [[cards.sides]]
@@ -296,7 +296,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonsoir."
+text = "Guten Abend."
 type = "phrase"
 
 [[cards.sides]]
@@ -330,7 +330,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Also, French does not have an equivalent to \"good morning\". You simply use the standard greeting then."
+text = "Also, German does have an equivalent to \"good morning\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -364,7 +364,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "Auf Wiedersehen."
 type = "phrase"
 
 [[cards.sides]]
