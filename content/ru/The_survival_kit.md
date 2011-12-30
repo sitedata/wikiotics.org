@@ -388,6 +388,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Ne ponimayu"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "ru"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Then you can ask that they repeat:"
 type = "phrase"
 
@@ -409,6 +426,23 @@ type = "phrase"
 
 [[cards.sides]]
 text = "Повторете."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "ru"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Povtorite"
 type = "phrase"
 
 [[cards.sides]]
@@ -462,6 +496,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Pojalusto"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "ru"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "For instance when asking how much something costs"
 type = "phrase"
 
@@ -483,6 +534,23 @@ type = "phrase"
 
 [[cards.sides]]
 text = "Сколько стоит ?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "ru"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Skolko eto stoit?"
 type = "phrase"
 
 [[cards.sides]]
@@ -540,6 +608,23 @@ type = "phrase"
 
 [[cards.sides]]
 text = "Досвидания."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "ru"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Dosvidanya"
 type = "phrase"
 
 [[cards.sides]]
