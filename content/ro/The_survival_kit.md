@@ -61,7 +61,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Salut"
 type = "phrase"
 
 [[cards.sides]]
@@ -181,7 +181,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "Scuzați-mă!"
 type = "phrase"
 
 [[cards.sides]]
@@ -272,7 +272,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
+text = "Cu plăcere."
 type = "phrase"
 
 [[cards.sides]]
@@ -349,7 +349,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répeter?"
+text = "Văxa0rog săxa0repetați."
 type = "phrase"
 
 [[cards.sides]]
@@ -386,7 +386,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait"
+text = "Văxa0rog"
 type = "phrase"
 
 [[cards.sides]]
@@ -483,7 +483,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "Laxa0revedere"
 type = "phrase"
 
 [[cards.sides]]
