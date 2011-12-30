@@ -1,6 +1,6 @@
 +++
 title = "The survival kit"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "source-language:en", "target-language:ro", "wikibabel",]
 type = "lesson"
