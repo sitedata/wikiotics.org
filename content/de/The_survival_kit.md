@@ -67,7 +67,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Guten tag"
+text = "Guten Tag"
 type = "phrase"
 
 [[cards.sides]]
@@ -187,7 +187,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Entschuldigen sie bitte"
+text = "Entschuldigen Sie bitte"
 type = "phrase"
 
 [[cards.sides]]
@@ -267,7 +267,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "-"
+text = "Aber gerne doch."
 type = "phrase"
 
 [[cards.sides]]
@@ -335,6 +335,23 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Können Sie das bitte nochmal wiederholen?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -464,7 +481,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Auf wiedersehen"
+text = "Auf Wiedersehen"
 type = "phrase"
 
 [[cards.sides]]
