@@ -1,12 +1,12 @@
 +++
 title = "Verbos de Movimento"
-contributors = []
+contributors = [ "saree",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is sitting"
+text = "O menino está sentado"
 type = "phrase"
 
 [[cards.sides]]
@@ -25,7 +25,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The women are running"
+text = "As mulheres estáo correndo"
 type = "phrase"
 
 [[cards.sides]]
@@ -45,7 +45,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The woman is walking"
+text = "A mulher está caminhando"
 type = "phrase"
 
 [[cards.sides]]
@@ -65,7 +65,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The man is riding a bike"
+text = "O homem está andando de bicicleta"
 type = "phrase"
 
 [[cards.sides]]
@@ -85,7 +85,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The fish is swimming"
+text = "O peixe está nadando"
 type = "phrase"
 
 [[cards.sides]]
@@ -105,7 +105,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The women are riding horses"
+text = "As mulheres estão andando de cavalo"
 type = "phrase"
 
 [[cards.sides]]
@@ -125,7 +125,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The bird is flying"
+text = "O pássaro está voando"
 type = "phrase"
 
 [[cards.sides]]
@@ -145,7 +145,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is swinging"
+text = "O menino está balançando"
 type = "phrase"
 
 [[cards.sides]]
