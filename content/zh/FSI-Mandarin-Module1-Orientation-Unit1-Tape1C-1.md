@@ -1,14 +1,13 @@
 +++
 title = "FSI-Mandarin-Module1-Orientation-Unit1-Tape1C-1"
-contributors = [ "213.114.82.171",]
+contributors = []
 headings = [ "phrase", "audio", "speaker",]
 tags = [ "source-language:en", "target-language:zh", "fsi",]
 type = "lesson"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "Comprehension Tape 1"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:quIzEyhukZCnAlDAAvh0Y6r7nWGTUXAJrVoq0HlnKGKodqXA5WcB0PeXhVTObgsR"
@@ -23,8 +22,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "This is the first tape of a unit of questions and answers about names."
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:vxnHJLEsfHkAoAgn3K0DvoVDbz5pn-MiNwrNF0h2sTeuj9Yk2R2xYlA4HEDkzDlm"
@@ -39,8 +37,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = ""
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:mtfmdbjunfdtBdbm-UJcnBPlf3KYM2hEAUl1GcnPmMBa1TKKo0MkFQZBVufnjFk9"
@@ -55,8 +52,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = ""
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:9ypJanXHNRJn2LYcjclsz5crFMEyXUDijAo7IGTNF2axrAh6VUNdsnI5OP3xp6TV"
@@ -146,8 +142,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "王 is a translation of \"king\"."
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:x30gDQK8Y47JEJdEPDYvHSYKuM0YBREaqZiZElRLks8-Gr9cZtSP4fGqH1iKDQCu"
@@ -162,8 +157,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "大年 is a phonetic approximation of Daniel."
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:63SSByoloXsBzQbac4TpNHn4JNUWmp11ba-JhhHffBGnZZTs1Zv17CK7vPr6Xvr6"
@@ -193,8 +187,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "Listen."
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:gSoM5ga9MtffmIGsd-r4N2hbnteokpojymGavlctIFtUMXYX3tUKXxNuo9TO07Qw"
@@ -209,8 +202,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "Who are you?"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:fZSK1Mh3fAgHqrSmCChQbANdm2UX97N6iG8vb1rdR5OzdUfMT9VT2l_IMR52pQ86"
@@ -225,8 +217,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "你是谁？"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:AyeG3uqWgzyV0J7PnmZzzwm46QGMpntvpY7rFoKoQolrChYWu38rTcdwsiQDe_2-"
@@ -241,8 +232,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "你是谁？"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:z6opMAL8m6rQlogCIlyFmFDSMuoyi9p5kMuUdF93iQEqBzFxVtARz5_xDhJd2A-a"
@@ -272,8 +262,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "我是王大年。"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:oVJqZJjWQP-IVK9wtdCER3kBVdhmPmp11boua4zXBH28nzrxZ8LvhMCR0Kui71ER"
@@ -288,8 +277,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "我是王大年。"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:HoCFAsCU7tNwTWNChlzrtfN4vgz8zqMZc6mTbBEK6P1csoxrC7b6gxdd5C_YeVGU"
@@ -319,8 +307,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "谁"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:go3vumJ1d7aH3BVr66D2EFrTF8IyFJzTMyROWahiIY3JMfMiI-dVSRO3JiFKVXsi"
@@ -335,8 +322,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "谁"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:egyFMjEXUbumoV79KZhJGiGEiYJhi7XU42V3fCqDXQT330_2VPahp4s4hCnjNsy7"
@@ -351,8 +337,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "谁"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Y19ksw3YTitVzJuFGuKlwpZ8DYFh84aAwDcyt74MM2zyCsZseJB9B87LvpoC8Bh-"
@@ -382,8 +367,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "谁"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:eXtLCPlsdHEbsQPWJ5xVBgdU4bCQzx0E-9FKcsGq_nDFg86IEeSidpOBsTB7xwKF"
@@ -398,8 +382,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "who are you?"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:02XPzaomjdK1r7nQK5LI11bzL4T3bHOJrQANd3XWtFZmTiYzEkGfkjdcRJX_lbhn"
@@ -414,8 +397,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "你是谁？"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:8fTITGToEjBgm7TY0YDpBbsfeQhIfjSafjz-r_rpI0DXEZ_8CilEYffITHkWzoYm"
@@ -430,8 +412,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "你是谁？"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:68u3EIa3eIFv1TNNxnZfUT1fx0rnFSErFGLUy83pq2p2VVx9kcYAralMmosVzw3m"
@@ -446,8 +427,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "I'm Wang DaNian."
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:7j0_r0L6ERgC2t8u7ev-Y_Pe-Ch-48LyVyb-ZpeAupaanFFB3qt4ZLxIX1ZlzyOO"
@@ -462,8 +442,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "我是王大年。"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:_nmTq8qzKYJqcrmTYbJS0saiNQa_FalBaM_iKdR5_K-B4Yqy78Dcp65RyGwvdLk4"
@@ -478,8 +457,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "我是王大年。"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:M7K4xzTtYy4uQfOcf_XoUCaQv1EFRXSDYlrMPilcUaO3veqggnUqglZsL7k_IR1l"
@@ -494,8 +472,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "In the english sentence, who are you?"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:xNvpu1DhCfuVAi82kmZsSOz8LX9Mibf3le0uH1miubSBduvargwU-2zva0o9vT2a"
@@ -510,8 +487,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "the question word \"who\" comes first."
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:XCa9AaB_X_lBqsI1L0YPIcjwKJC0gXqiDiihWpfCkskgP6dVE4Xa1TZlirghkSaG"
@@ -556,8 +532,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "你是谁？"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:JuCXQT4xYR-MJwiHjsErHkY2uPRBpYz-C8sPjt3R16nmXo0ZcRcM71DKLv0Akkm6"
@@ -572,8 +547,7 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-text = "你是谁？"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:-pGPkCEcfpZRnaRa4OxO8dWTm02ykaA6kmyvaWBLJQgRzh8VvEL9dnPYWCkW8_b_"
