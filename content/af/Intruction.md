@@ -1,6 +1,6 @@
 +++
 title = "Intruction"
-contributors = [ "127.0.0.1", "216.27.154.200", "41.18.183.76", "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "41.18.183.76", "ian", "johanroux",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -167,7 +167,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Die hond loop."
+text = "Die hond stap."
 type = "phrase"
 
 [[cards.sides]]
@@ -187,7 +187,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Die man en die vrou loop."
+text = "Die man en die vrou stap."
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +247,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Die meisies loop."
+text = "Die meisies stap."
 type = "phrase"
 
 [[cards.sides]]
