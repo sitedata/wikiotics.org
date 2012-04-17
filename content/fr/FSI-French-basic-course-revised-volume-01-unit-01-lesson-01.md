@@ -1,6 +1,6 @@
 +++
 title = "FSI-French-basic-course-revised-volume-01-unit-01-lesson-01"
-contributors = [ "Laurent",]
+contributors = [ "80.216.213.3", "Laurent",]
 headings = [ "phrase", "audio", "speaker",]
 tags = [ "source-language:en", "target-language:fr", "fsi",]
 type = "lesson"
@@ -257,7 +257,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Parlez plus fort."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:n7LcVJOrTPBvGuF9H6VlB2WCH3cYcswC5dzuF1nhNvXksLZQq3xajjZTCcgv99b2"
@@ -272,7 +273,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Parlez plus fort."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:bFGNOaix8rkZFzzEeH9v961CTpfatMRZMbHySoOPnVkfQOGUvQbBIaEgURgGMomX"
@@ -287,7 +289,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Que veut dire ce mot?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:xpVOZgUteKcCM-9ddfjX4Qgy7uyKR95QtPfi13kn2pu1ruZjUV8oOiOzmlUYOFj3"
@@ -302,7 +305,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Que veut dire ce mot?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:wTTBMa6BYOuEItvWmlsnzrwOaZu7kRzWfY3hYkgYIxQCkrBbbnVBQ-6A1YlC6tud"
@@ -317,7 +321,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Traduisez."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:vRMfKH1wXeC3fFrFYPdqBvZcYsQUzeqXP3B0vcINm2nGrVGaCMs-jt8c0TWShgwu"
@@ -332,7 +337,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Traduisez."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:bOItkRUreqQjzBk4fH1q42vVELjiQ_LB3cb4LU6lrI4iv6WBoa8kO0xe5Xs2x4I_"
@@ -347,7 +353,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Dites-moi votre nom."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:ks_oxQY3IMTnOHnjBIejMKQQdfTMNWgg4wNkJvr1j5WiE7Wpuck-LnE4-_O1chBS"
@@ -362,7 +369,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Dites-moi votre nom."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:f4PSXHlV5Cd77TVDwBpXNYG-Cl4P7hbahls2WvErTLt3q009E7NDnOk3dNwy4v6x"
