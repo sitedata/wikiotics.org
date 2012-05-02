@@ -173,14 +173,6 @@ author = "liz west (Muffet)"
 author_url = "http://www.flickr.com/people/53133240@N00/"
 original_url = "http://www.flickr.com/photos/53133240@N00/4131748658"
 title = "garlic"
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
 [[interactions]]
 answer = 1
 prompt = [ 0,]
