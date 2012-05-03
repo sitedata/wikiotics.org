@@ -1,7 +1,8 @@
 +++
 title = "vegetables"
-contributors = [ "Laurent",]
+contributors = [ "Laurent", "ian",]
 headings = [ "names", "pictures",]
+tags = [ "target-language:fr",]
 type = "lesson"
 [[cards]]
 
