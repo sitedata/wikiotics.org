@@ -1,13 +1,13 @@
 +++
 title = "fruit"
-contributors = [ "Laurent",]
+contributors = [ "Laurent", "ian",]
 headings = [ "", "",]
-tags = [ "target-language:fr",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "une pomme"
+text = "An apple"
 type = "phrase"
 
 [[cards.sides]]
@@ -24,7 +24,7 @@ title = "Pomme / Apple"
 [[cards]]
 
 [[cards.sides]]
-text = "une poire"
+text = "a pear"
 type = "phrase"
 
 [[cards.sides]]
@@ -41,7 +41,7 @@ title = "Crumble de Poire revisité au caramel beurre salé maison"
 [[cards]]
 
 [[cards.sides]]
-text = "un abricot"
+text = "some appricots"
 type = "phrase"
 
 [[cards.sides]]
@@ -58,7 +58,7 @@ title = "Marillen Apricot"
 [[cards]]
 
 [[cards.sides]]
-text = "un kiwi"
+text = "a kiwi"
 type = "phrase"
 
 [[cards.sides]]
@@ -75,7 +75,7 @@ title = "Kiwi"
 [[cards]]
 
 [[cards.sides]]
-text = "un ananas"
+text = "a pineapple"
 type = "phrase"
 
 [[cards.sides]]
@@ -92,7 +92,7 @@ title = "Ananas comosus : pineapple : pineapple fruit of p. plant."
 [[cards]]
 
 [[cards.sides]]
-text = "une banane"
+text = "a bananna"
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ title = "Banana "
 [[cards]]
 
 [[cards.sides]]
-text = "une pastèque"
+text = "a watermelon"
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +126,7 @@ title = "La Pastéque de Thaïlande"
 [[cards]]
 
 [[cards.sides]]
-text = "un melon"
+text = "a melon"
 type = "phrase"
 
 [[cards.sides]]
@@ -143,7 +143,7 @@ title = "Cucumis melo L. // Cucurbitaceae // Melon, Muskmelon, Cantaloupe, Honey
 [[cards]]
 
 [[cards.sides]]
-text = "une pêche"
+text = "some peaches"
 type = "phrase"
 
 [[cards.sides]]
@@ -160,7 +160,7 @@ title = "20111006_GranvilleIsland_Peach_Cutler_IMAG0930"
 [[cards]]
 
 [[cards.sides]]
-text = "une mangue"
+text = "a mango"
 type = "phrase"
 
 [[cards.sides]]
@@ -177,7 +177,7 @@ title = "Mango"
 [[cards]]
 
 [[cards.sides]]
-text = "une orange"
+text = "an orange"
 type = "phrase"
 
 [[cards.sides]]
@@ -194,7 +194,7 @@ title = "Orange"
 [[cards]]
 
 [[cards.sides]]
-text = "une clémentine"
+text = "a clememtine"
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +211,7 @@ title = "Laurel's \"magic\" clementine ring"
 [[cards]]
 
 [[cards.sides]]
-text = "une figue"
+text = "a fig"
 type = "phrase"
 
 [[cards.sides]]
