@@ -1,6 +1,7 @@
 +++
 title = "fruit"
-contributors = [ "Laurent", "ian",]
+contributors = [ "Laurent", "garrison", "ian",]
+dividers = [ 4, 8, 12,]
 headings = [ "", "",]
 tags = [ "target-language:en",]
 type = "lesson"
@@ -41,7 +42,7 @@ title = "Crumble de Poire revisité au caramel beurre salé maison"
 [[cards]]
 
 [[cards.sides]]
-text = "some appricots"
+text = "some apricots"
 type = "phrase"
 
 [[cards.sides]]
@@ -92,7 +93,7 @@ title = "Ananas comosus : pineapple : pineapple fruit of p. plant."
 [[cards]]
 
 [[cards.sides]]
-text = "a bananna"
+text = "a banana"
 type = "phrase"
 
 [[cards.sides]]
@@ -194,7 +195,7 @@ title = "Orange"
 [[cards]]
 
 [[cards.sides]]
-text = "a clememtine"
+text = "a clementine"
 type = "phrase"
 
 [[cards.sides]]
