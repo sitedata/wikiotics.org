@@ -933,7 +933,8 @@ text = "1"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "un"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -948,7 +949,8 @@ text = "2"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "deux"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -963,7 +965,8 @@ text = "3"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "trois"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -978,7 +981,8 @@ text = "4"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "quatre"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -993,7 +997,8 @@ text = "5"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "cinq"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1008,7 +1013,8 @@ text = "6"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "six"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1023,7 +1029,8 @@ text = "7"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "sept"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1038,7 +1045,8 @@ text = "8"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "huit"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1053,7 +1061,8 @@ text = "9"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "neuf"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1068,7 +1077,8 @@ text = "10"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "dix"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1083,7 +1093,8 @@ text = "11"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "onze"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1098,7 +1109,8 @@ text = "12"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "douze"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1113,7 +1125,8 @@ text = "13"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "treize"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1128,7 +1141,8 @@ text = "14"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "quatorze"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1143,7 +1157,8 @@ text = "15"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "quinze"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1158,7 +1173,8 @@ text = "16"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "seize"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1173,7 +1189,8 @@ text = "17"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "dix-sept"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1188,7 +1205,8 @@ text = "18"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "dix-huit"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1203,7 +1221,8 @@ text = "19"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "dix-neuf"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1218,7 +1237,8 @@ text = "20"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "vingt"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1233,7 +1253,8 @@ text = "21"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "vingt-et-un"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1248,7 +1269,8 @@ text = "22"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "vingt-deux"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1263,7 +1285,8 @@ text = "23"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "vingt-trois"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1278,7 +1301,8 @@ text = "30"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "trente"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1293,7 +1317,8 @@ text = "40"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "quarante"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1308,7 +1333,8 @@ text = "50"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "cinquante"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1323,7 +1349,8 @@ text = "60"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "soixante"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1338,7 +1365,8 @@ text = "70"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "soixante-dix"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
