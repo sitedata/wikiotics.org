@@ -643,11 +643,12 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Leave me alone"
+text = "Leave me alone!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Laissez moi tranquille!"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -658,11 +659,12 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Buzz off."
+text = "Buzz off!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Dégage!"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -677,7 +679,8 @@ text = "Don't touch me!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ne me touchez pas!"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -692,7 +695,8 @@ text = "I'm calling the police."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "J'appelle la police."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -707,7 +711,8 @@ text = "Police!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Police!"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -722,7 +727,8 @@ text = "Stop! Thief!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Arrêtez! Au voleur!"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -737,7 +743,8 @@ text = "Help!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "A l'aide!"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -752,7 +759,8 @@ text = "I need your help."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "J'ai besoin d'aide."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -767,7 +775,8 @@ text = "It's an emergency."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "C'est une urgence."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -782,7 +791,8 @@ text = "I'm lost."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Je suis perdu(e)."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -797,7 +807,8 @@ text = "I've lost my bag."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "J'ai perdu mon sac."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -812,7 +823,8 @@ text = "I've lost my wallet."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "J'ai perdu mon portefeuille."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -827,7 +839,8 @@ text = "I'm sick."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Je suis malade."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -842,7 +855,8 @@ text = "I've been injured."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Je suis blessé(e)."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -857,7 +871,8 @@ text = "I need a doctor."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "J'ai besoin d'un médecin."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -872,7 +887,8 @@ text = "Can I use your phone?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Puis-je utiliser votre téléphone?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
