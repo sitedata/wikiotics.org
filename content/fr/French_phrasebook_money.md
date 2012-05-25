@@ -2,8 +2,56 @@
 title = "French phrasebook money"
 contributors = [ "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
-tags = [ "phrasebook", "source-language:af", "target-language:fr",]
+tags = [ "phrasebook", "source-language:en", "target-language:fr",]
 type = "lesson"
+[[cards]]
+
+[[cards.sides]]
+text = "How much is it?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Combien ça coûte?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "It's too expensive."
+type = "phrase"
+
+[[cards.sides]]
+text = "C'est trop cher."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Do you have anything cheaper?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Avez-vous quelque chose de moins cher?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
