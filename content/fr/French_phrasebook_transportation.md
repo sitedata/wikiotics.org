@@ -1,7 +1,7 @@
 +++
 title = "French phrasebook transportation"
-contributors = []
-headings = [ "English", "French", "Transcription", "Audio",]
+contributors = [ "Laurent",]
+headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook", "source-language:en", "target-language:fr",]
 type = "lesson"
 [[cards]]
