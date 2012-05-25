@@ -1,8 +1,8 @@
 +++
 title = "French phrasebook accomodation"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
-tags = [ "phrasebook", "source-language:af", "target-language:fr",]
+tags = [ "phrasebook", "source-language:en", "target-language:fr",]
 type = "lesson"
 [[cards]]
 
