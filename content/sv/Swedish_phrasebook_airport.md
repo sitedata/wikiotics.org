@@ -2,7 +2,7 @@
 title = "Swedish phrasebook airport"
 contributors = [ "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
-tags = [ "phrasebook", "source-language:en", "target-language:fr",]
+tags = [ "phrasebook", "source-language:en", "target-language:sv",]
 type = "lesson"
 [[cards]]
 
@@ -11,7 +11,7 @@ text = "the airport"
 type = "phrase"
 
 [[cards.sides]]
-text = "l'aéroport"
+text = "flygpatsen"
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ text = "Where is the check-in?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Où est l'enregistrement?"
+text = "Var är checkin disken?"
 type = "phrase"
 
 [[cards.sides]]
@@ -43,7 +43,7 @@ text = "I would like to check-in."
 type = "phrase"
 
 [[cards.sides]]
-text = "Je voudrais m'enregistrer."
+text = "Jag vill checka in."
 type = "phrase"
 
 [[cards.sides]]
@@ -59,7 +59,7 @@ text = "I am going to ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "Je vais à ..."
+text = "Jag flyger till ..."
 type = "phrase"
 
 [[cards.sides]]
@@ -75,7 +75,7 @@ text = "I'm checking-in this bag."
 type = "phrase"
 
 [[cards.sides]]
-text = "J'enregistre ce sac."
+text = "Jag checkat in den väska."
 type = "phrase"
 
 [[cards.sides]]
@@ -91,7 +91,7 @@ text = "This is my cabin luggage."
 type = "phrase"
 
 [[cards.sides]]
-text = "Ceci est mon bagage cabine."
+text = "Detta är mitt kabinbagage."
 type = "phrase"
 
 [[cards.sides]]
@@ -107,7 +107,7 @@ text = "What time is the boarding?"
 type = "phrase"
 
 [[cards.sides]]
-text = "A quelle heure est l'embarquement?"
+text = "Vilken tid börjar ombordstigningen?"
 type = "phrase"
 
 [[cards.sides]]
@@ -119,11 +119,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Où est la porte d'embarquement?"
+text = "Where is the boarding gate?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Where is the boarding gate?"
+text = "Var är ombordstigningsutgången?"
 type = "phrase"
 
 [[cards.sides]]
