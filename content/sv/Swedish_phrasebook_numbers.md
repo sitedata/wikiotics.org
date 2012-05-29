@@ -1,7 +1,7 @@
 +++
 title = "Swedish phrasebook numbers"
 contributors = [ "Laurent",]
-headings = [ "English", "French", "Pronunciation", "Audio",]
+headings = [ "English", "Swedish", "Pronunciation", "Audio",]
 tags = [ "phrasebook", "source-language:en", "target-language:sv",]
 type = "lesson"
 [[cards]]
