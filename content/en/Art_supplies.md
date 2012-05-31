@@ -1,7 +1,8 @@
 +++
 title = "Art supplies"
-contributors = [ "garrison",]
+contributors = [ "Laurent", "garrison",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
