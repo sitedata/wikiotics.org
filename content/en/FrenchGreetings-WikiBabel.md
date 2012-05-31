@@ -1,7 +1,8 @@
 +++
 title = "FrenchGreetings-WikiBabel"
-contributors = [ "garrison",]
+contributors = [ "Laurent", "garrison",]
 headings = [ "Text", "Audio", "Language", "Speaker", "Gender", "",]
+tags = [ "source-language:en", "target-language:fr",]
 type = "lesson"
 [[cards]]
 
