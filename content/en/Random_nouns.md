@@ -1,7 +1,8 @@
 +++
 title = "Random nouns"
-contributors = [ "209.129.49.65", "garrison",]
+contributors = [ "209.129.49.65", "Laurent", "garrison",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
