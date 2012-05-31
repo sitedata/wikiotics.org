@@ -1,7 +1,8 @@
 +++
 title = "New Life Cafe"
-contributors = [ "briannaavenia", "ian",]
+contributors = [ "Laurent", "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
