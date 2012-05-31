@@ -1,8 +1,9 @@
 +++
 title = "Kitchen supplies"
 cards = []
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[interactions]]
 answer = 1
