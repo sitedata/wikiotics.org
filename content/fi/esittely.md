@@ -1,7 +1,8 @@
 +++
 title = "esittely"
-contributors = [ "127.0.0.1", "ian", "jchan",]
+contributors = [ "127.0.0.1", "Laurent", "ian", "jchan",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:fi",]
 type = "lesson"
 [[cards]]
 
