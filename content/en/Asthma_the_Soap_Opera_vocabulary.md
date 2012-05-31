@@ -1,7 +1,8 @@
 +++
 title = "Asthma the Soap Opera vocabulary"
-contributors = [ "24.45.15.36", "ian",]
+contributors = [ "24.45.15.36", "Laurent", "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
