@@ -1,7 +1,8 @@
 +++
 title = "Meetup Greetings"
-contributors = [ "83.101.69.165",]
+contributors = [ "83.101.69.165", "Laurent",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
+tags = [ "source-language:fr", "target-language:en",]
 type = "lesson"
 [[cards]]
 
@@ -631,5 +632,10 @@ type = "phrase"
 [[cards.sides]]
 text = "fr"
 type = "phrase"
+
+[[interactions]]
+audio = 1
+transcript = 0
+type = "podcast"
 
 +++
