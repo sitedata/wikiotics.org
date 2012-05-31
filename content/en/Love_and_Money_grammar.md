@@ -1,7 +1,8 @@
 +++
 title = "Love and Money grammar"
-contributors = [ "24.188.181.8", "65.88.88.248", "ian",]
+contributors = [ "24.188.181.8", "65.88.88.248", "Laurent", "ian",]
 headings = [ "prompt", "answer",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
