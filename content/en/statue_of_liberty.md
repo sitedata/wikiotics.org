@@ -1,7 +1,8 @@
 +++
 title = "statue of liberty"
-contributors = [ "briannaavenia",]
+contributors = [ "Laurent", "briannaavenia",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
