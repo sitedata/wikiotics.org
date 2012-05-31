@@ -1,7 +1,8 @@
 +++
 title = "guitar-making tools"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
