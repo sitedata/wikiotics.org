@@ -1,7 +1,8 @@
 +++
 title = "No Smoking"
-contributors = [ "ian",]
+contributors = [ "Laurent", "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
