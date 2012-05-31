@@ -1,7 +1,8 @@
 +++
 title = "Stay In School"
-contributors = [ "briannaavenia", "ian",]
+contributors = [ "Laurent", "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
