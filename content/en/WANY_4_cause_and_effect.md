@@ -1,7 +1,8 @@
 +++
 title = "WANY 4 cause and effect"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "prompt", "answer",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
