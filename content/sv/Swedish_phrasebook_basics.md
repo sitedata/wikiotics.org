@@ -139,7 +139,7 @@ text = "Nice to meet you."
 type = "phrase"
 
 [[cards.sides]]
-text = "Trevligt (att träffas)!"
+text = "Trevligt att träffas!"
 type = "phrase"
 
 [[cards.sides]]
@@ -491,7 +491,7 @@ text = "What is this called?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Hur kallar man detta?"
+text = "Vad kallar man detta?"
 type = "phrase"
 
 [[cards.sides]]
