@@ -1,6 +1,6 @@
 +++
 title = "Swedish phrasebook money"
-contributors = [ "Laurent",]
+contributors = [ "217.174.67.70", "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook", "source-language:en", "target-language:sv",]
 type = "lesson"
@@ -43,7 +43,7 @@ text = "Do you have anything cheaper?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Har du någott billigare?"
+text = "Har du något billigare?"
 type = "phrase"
 
 [[cards.sides]]
