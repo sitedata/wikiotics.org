@@ -1,6 +1,6 @@
 +++
 title = "Swedish phrasebook colors"
-contributors = [ "Laurent",]
+contributors = [ "89.253.78.194", "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook", "source-language:en", "target-language:sv",]
 type = "lesson"
@@ -139,7 +139,7 @@ text = "purple"
 type = "phrase"
 
 [[cards.sides]]
-text = "lilafärgad"
+text = "lila"
 type = "phrase"
 
 [[cards.sides]]
