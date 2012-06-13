@@ -2,6 +2,7 @@
 title = "Mandarin-group1-structure-1"
 contributors = [ "ian",]
 headings = [ "", "", "", "Romanization",]
+tags = [ "user-ian", "target-language:zh",]
 type = "lesson"
 [[cards]]
 
