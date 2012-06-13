@@ -2,7 +2,7 @@
 title = "WANY-3-grammar"
 contributors = [ "ian",]
 headings = [ "prompt", "answer",]
-tags = [ "user-ian", "target-language:en",]
+tags = [ "user-ian", "WANY", "target-language:en",]
 type = "lesson"
 [[cards]]
 
