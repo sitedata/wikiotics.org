@@ -1,7 +1,8 @@
 +++
 title = "Movement verbs"
-contributors = []
+contributors = [ "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "user-ian", "WANY", "target-language:en",]
 type = "lesson"
 [[cards]]
 
