@@ -2,6 +2,7 @@
 title = "Weather"
 contributors = [ "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "user-ian", "target-language:en",]
 type = "lesson"
 [[cards]]
 
