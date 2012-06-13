@@ -2,6 +2,7 @@
 title = "FSI-Mandarin-Mosule-01-Unit01-1"
 contributors = [ "ian",]
 headings = [ "Text", "Audio", "Language", "Speaker", "Gender", "Romanization", "",]
+tags = [ "user-ian", "source-language:en", "target-language:zh",]
 type = "lesson"
 [[cards]]
 
