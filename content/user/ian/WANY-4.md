@@ -2,6 +2,7 @@
 title = "WANY-4"
 contributors = [ "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "user-ian", "target-language:en",]
 type = "lesson"
 [[cards]]
 
