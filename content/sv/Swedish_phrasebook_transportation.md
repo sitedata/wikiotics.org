@@ -1,8 +1,8 @@
 +++
 title = "Swedish phrasebook transportation"
-contributors = []
-headings = [ "Side 1", "",]
-tags = [ "target-language:af",]
+contributors = [ "Laurent",]
+headings = [ "English", "Swedish", "Pronunciation", "Audio",]
+tags = [ "source-language:en", "target-language:sv",]
 type = "lesson"
 [[cards]]
 
@@ -14,6 +14,12 @@ type = "phrase"
 text = "Var är.........?"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -23,6 +29,12 @@ type = "phrase"
 [[cards.sides]]
 text = ".....tågstationen?"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -34,6 +46,12 @@ type = "phrase"
 text = ".....busstationen?"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -43,6 +61,12 @@ type = "phrase"
 [[cards.sides]]
 text = "....flygplatsen?"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -54,6 +78,12 @@ type = "phrase"
 text = "... den amerikanska/kanadensiska/brittiska ambasaden?"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -63,6 +93,12 @@ type = "phrase"
 [[cards.sides]]
 text = "Går det här tåget till...?"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -74,6 +110,12 @@ type = "phrase"
 text = "Var är bussen till...?"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -83,6 +125,12 @@ type = "phrase"
 [[cards.sides]]
 text = "Kan du ta mig till...?"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -94,12 +142,15 @@ type = "phrase"
 text = "Är det långt?"
 type = "phrase"
 
-[[cards]]
-
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
 type = "empty"
+
+[[interactions]]
+audio = 3
+transcript = 1
+type = "podcast"
 
 +++
