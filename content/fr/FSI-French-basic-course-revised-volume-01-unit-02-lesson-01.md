@@ -1,8 +1,8 @@
 +++
 title = "FSI-French-basic-course-revised-volume-01-unit-02-lesson-01"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "speaker",]
-tags = [ "source-language:en", "target-language:fr", "fsi",]
+tags = [ "fsi", "five-sec-widget-fodder", "source-language:en", "target-language:fr",]
 type = "lesson"
 [[cards]]
 tags = [ "fsi",]
