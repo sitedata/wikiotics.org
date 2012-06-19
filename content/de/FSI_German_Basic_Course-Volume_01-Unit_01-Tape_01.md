@@ -1,8 +1,8 @@
 +++
 title = "FSI German Basic Course-Volume 01-Unit 01-Tape 01"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "speaker",]
-tags = [ "source-language:en", "target-language:fr", "fsi",]
+tags = [ "fsi", "five-sec-widget-fodder", "source-language:en", "target-language:de",]
 type = "lesson"
 [[cards]]
 tags = [ "fsi",]
