@@ -1,8 +1,8 @@
 +++
 title = "FSI-Mandarin-Module1-Orientation-Unit1-Tape1C-1"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "speaker",]
-tags = [ "source-language:en", "target-language:zh", "fsi",]
+tags = [ "fsi", "five-sec-widget-fodder", "source-language:en", "target-language:zh",]
 type = "lesson"
 [[cards]]
 tags = [ "fsi",]
