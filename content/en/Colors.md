@@ -147,7 +147,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The orchid is purple"
+text = "The flower is purple"
 type = "phrase"
 
 [[cards.sides]]
