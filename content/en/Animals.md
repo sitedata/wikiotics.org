@@ -3,7 +3,7 @@ title = "Animals"
 contributors = [ "83.189.158.33", "Laurent", "garrison",]
 dividers = [ 4, 8, 12,]
 headings = [ "word", "picture",]
-tags = [ "target-language:en",]
+tags = [ "animals", "target-language:en",]
 type = "lesson"
 [[cards]]
 
