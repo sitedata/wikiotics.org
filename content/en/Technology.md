@@ -1,13 +1,14 @@
 +++
 title = "Technology"
-contributors = [ "Laurent", "mxc",]
+contributors = [ "37.98.36.178", "Laurent", "mxc",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "This is the keyboard."
+text = "This is a keyboard."
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +28,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is the monitor."
+text = "This is a monitor."
 type = "phrase"
 
 [[cards.sides]]
@@ -47,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is the mouse."
+text = "This is a mouse."
 type = "phrase"
 
 [[cards.sides]]
@@ -87,7 +88,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is the laptop."
+text = "This is a laptop."
 type = "phrase"
 
 [[cards.sides]]
@@ -107,7 +108,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is the battery."
+text = "This is a battery."
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +128,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is the power cord."
+text = "This is a power cord."
 type = "phrase"
 
 [[cards.sides]]
