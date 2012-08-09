@@ -3,6 +3,7 @@ title = "Jobs That People Do"
 contributors = [ "cherylhartnett",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
