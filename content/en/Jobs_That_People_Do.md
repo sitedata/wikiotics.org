@@ -1,12 +1,12 @@
 +++
 title = "Jobs That People Do"
-contributors = []
+contributors = [ "cherylhartnett",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Baker"
+text = "Which Person Works as a Baker?"
 type = "phrase"
 
 [[cards.sides]]
