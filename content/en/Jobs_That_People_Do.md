@@ -1,7 +1,6 @@
 +++
 title = "Jobs That People Do"
 contributors = [ "cherylhartnett",]
-dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:en",]
 type = "lesson"
@@ -173,10 +172,5 @@ type = "empty"
 
 [[cards.sides]]
 type = "empty"
-
-[[interactions]]
-answer = 1
-prompt = [ 0, 2,]
-type = "choice"
 
 +++
