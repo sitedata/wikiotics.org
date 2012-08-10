@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Which Person Works as a Baker?"
+text = "What does this person do?"
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This person works at a restaurant. What does he do?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:RnWEyn8OVIVPQR7mvWAGII_MwygpGqS7iz4nPxy7YDP57v1ISdVhcP5a7Zn8BGNw"
@@ -46,7 +47,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "What does this woman work as?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:kO9KKq5TbnutAUM7I8jtV4bKMS3A8guUC5l24_LzZ2gd3Ca4Hnf1T74WaOoLl1pB"
@@ -65,7 +67,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "What does this man do?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:DDyed9lPA5fAh_MeV0HZoNs2-k6vHtYGiddbcA0MRDeWbxagqrq2G67-rg7MELDa"
@@ -84,7 +87,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Which Person Works as a Nurse?"
+text = "This man works as a ______ at the beach."
 type = "phrase"
 
 [[cards.sides]]
@@ -104,7 +107,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "A __________ sells his catch at a market."
 type = "phrase"
 
 [[cards.sides]]
@@ -124,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This woman helps the sick.  What does she do"
 type = "phrase"
 
 [[cards.sides]]
