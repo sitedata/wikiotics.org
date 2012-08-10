@@ -107,7 +107,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "A __________ sells his catch at a market."
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This woman helps the sick.  What does she do"
 type = "phrase"
 
 [[cards.sides]]
