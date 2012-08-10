@@ -407,7 +407,10 @@ author_url = "http://www.flickr.com/people/10559879@N00/"
 original_url = "http://www.flickr.com/photos/10559879@N00/2259669811"
 title = "Chef - Mabrown's famous spicy quails"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:w6b37B_3DMRpgkH0TUTAryQaHDFAVkgxipyH8A_9LO-tv72MO4e-keLI0MD2KUq1"
+href = "urn:sha384:LajqJEHJK0XIW6oyXwtzraw2PG4UyLyeTzVzwy5X1tpUOuPtmHcR0PzsAfQi9tZY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
