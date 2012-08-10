@@ -207,7 +207,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This woman is a police officer."
 type = "phrase"
 
 [[cards.sides]]
