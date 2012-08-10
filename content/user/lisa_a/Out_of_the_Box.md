@@ -1,7 +1,8 @@
 +++
 title = "Out of the Box"
-contributors = []
+contributors = [ "lisa_a",]
 headings = [ "Phrase", "Picture", "Audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
