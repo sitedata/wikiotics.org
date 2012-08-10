@@ -7,6 +7,18 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
+text = "What do these women do?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = "What does this person do?"
 type = "phrase"
 
@@ -261,6 +273,26 @@ author = "Renato Ganoza (Renato Ganoza)"
 author_url = "http://www.flickr.com/people/24147261@N02/"
 original_url = "http://www.flickr.com/photos/24147261@N02/3900085107"
 title = "All work and no play."
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This woman flies planes.  What is her job?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:TxeKrLbVw7-yfUjmFt3_T-E_3E7mwDwtP_NGlFuQC9PCCwwH_wboudwXhtOqovKe"
+href = "urn:sha384:gMD7KM5piorxvK9SsAVuI1teKbkOpQWrNZNeNU-VgkVi3xVHjAR6c0h3JAG8QceD"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Visit Greenland (ilovegreenland)"
+author_url = "http://www.flickr.com/people/22588240@N04/"
+original_url = "http://www.flickr.com/photos/22588240@N04/3490297585"
+title = "sisimiut3 471"
 [[cards.sides]]
 type = "empty"
 
