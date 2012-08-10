@@ -227,7 +227,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This man heals the sick.  What is his job? "
 type = "phrase"
 
 [[cards.sides]]
