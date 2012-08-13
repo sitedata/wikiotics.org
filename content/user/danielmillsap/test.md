@@ -91,7 +91,10 @@ author_url = "http://www.flickr.com/people/36495803@N05/"
 original_url = "http://www.flickr.com/photos/36495803@N05/4899548915"
 title = "Beautiful Woman is Asian Looking"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uDgq36r86Mu-x5-OXuQ26G7wv2ec3P0MlQmA9bXshc-xKasJtuYyVq1Q448TGNZ4"
+href = "urn:sha384:SOt9GGJDftek_tldfkp9bK49-OgVOPy7uGAxQdekENHecMK3Yk_pwZ7pNYu2Xz4b"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
