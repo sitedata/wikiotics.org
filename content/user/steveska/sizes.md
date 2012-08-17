@@ -1,7 +1,6 @@
 +++
 title = "sizes"
 contributors = [ "steveska",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -414,10 +413,5 @@ type = "empty"
 
 [[cards.sides]]
 type = "empty"
-
-[[interactions]]
-answer = 2
-prompt = [ 0, 1,]
-type = "choice"
 
 +++
