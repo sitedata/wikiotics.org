@@ -1,6 +1,7 @@
 +++
 title = "sizes"
 contributors = [ "steveska",]
+dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -144,6 +145,18 @@ author = "Michael Gil (MSVG)"
 author_url = "http://www.flickr.com/people/13907834@N00/"
 original_url = "http://www.flickr.com/photos/13907834@N00/5194714251"
 title = "Tonka Truck"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
@@ -413,5 +426,10 @@ type = "empty"
 
 [[cards.sides]]
 type = "empty"
+
+[[interactions]]
+answer = 1
+prompt = [ 1,]
+type = "choice"
 
 +++
