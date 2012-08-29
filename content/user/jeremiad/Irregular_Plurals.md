@@ -7,7 +7,8 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "man"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:4gRgPZ-hR27bVY7h9pjpbIt5Ipzp7R31gl3VbORBBfWKXGoSUMtbZnwt6N6OSOMl"
@@ -26,7 +27,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "men"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:h_OEl-y9EoBIQh5gpdsvlP5KDQYHAj6j_Rgexz5ro2uava9rNtOxo6nA667v4eNz"
@@ -45,7 +47,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "woman"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:dU5oGiOV8voQyZQ6xcW3MnXiM6vTMfCavLuNFq42DN_Y7wNN9uTSirxsru6p2AdB"
@@ -64,7 +67,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "women"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:fip6u1X4psm-Kxc8SDtmwMov4N2SM1FEEGYTDeH_QExLrklwd-ZoiXdzjFCXdYoL"
@@ -83,7 +87,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "child"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:3iDsAgrK8i_UU055ytZ4vqQCilPnVO6sNBO_NZuE1gbLjZHQsQMfGM6VEwbzdYFN"
@@ -102,7 +107,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "children"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:XLtVYtWexAp-m-JfBQd4ScpDk4R91FpJM5FO37VWD-052ffKmDtyrDX4LWcy0Tfc"
@@ -121,7 +127,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "ox"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:cRTj3Gxj3JBCZxvACjlevEdNI9W-7yv1aZz4HI5aO7P8GXLXNarIe7okb9zzGgJq"
@@ -140,7 +147,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "oxen"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:AyLxWnYDctC5TeSZDCWik6Vjubh1tPr2B95C1f1DlUFweUVHxzSDY-9kvKQgk1h5"
