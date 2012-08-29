@@ -288,7 +288,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "die or dice"
+text = "die"
 type = "phrase"
 
 [[cards.sides]]
@@ -548,7 +548,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "hippopotami or hippopotamuses"
+text = "hippopotami"
 type = "phrase"
 
 [[cards.sides]]
@@ -828,7 +828,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "plateaux or plateau"
+text = "plateaux"
 type = "phrase"
 
 [[cards.sides]]
