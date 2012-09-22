@@ -1,8 +1,8 @@
 +++
 title = "Greetings"
-contributors = [ "Laurent",]
+contributors = [ "83.189.129.106", "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
-tags = [ "source-language:en", "target-language:fr", "wikibabel",]
+tags = [ "wikibabel", "EDL2012", "source-language:en", "target-language:fr",]
 type = "lesson"
 [[cards]]
 
