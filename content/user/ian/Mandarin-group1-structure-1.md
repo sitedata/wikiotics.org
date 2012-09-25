@@ -1,8 +1,9 @@
 +++
 title = "Mandarin-group1-structure-1"
 contributors = [ "ian",]
+dividers = [ 4,]
 headings = [ "", "", "", "Romanization",]
-tags = [ "user-ian", "target-language:zh",]
+tags = [ "user-ian", "draft", "target-language:zh",]
 type = "lesson"
 [[cards]]
 
