@@ -1,8 +1,8 @@
 +++
 title = "Barcelona architecture"
-contributors = [ "Laurent",]
+contributors = [ "Laurent", "ian",]
 headings = [ "", "",]
-tags = [ "target-language:en",]
+tags = [ "draft", "target-language:en",]
 type = "lesson"
 [[cards]]
 
