@@ -1,8 +1,9 @@
 +++
 title = "to play"
-contributors = [ "Laurent",]
+contributors = [ "Laurent", "ian",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
-tags = [ "target-language:en",]
+tags = [ "draft", "target-language:en",]
 type = "lesson"
 [[cards]]
 
