@@ -2,7 +2,7 @@
 title = "Meetup Introductions"
 contributors = [ "41.35.131.92", "Laurent", "ian",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
-tags = [ "source-language:af", "target-language:en",]
+tags = [ "EDL2012", "source-language:af", "target-language:en",]
 type = "lesson"
 [[cards]]
 
