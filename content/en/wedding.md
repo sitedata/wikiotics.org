@@ -1,9 +1,9 @@
 +++
 title = "wedding"
 cards = []
-contributors = [ "Laurent",]
+contributors = [ "Laurent", "ian",]
 headings = [ "phrase", "picture", "audio",]
-tags = [ "target-language:en",]
+tags = [ "draft", "target-language:en",]
 type = "lesson"
 [[interactions]]
 answer = 1
