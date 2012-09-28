@@ -1,7 +1,9 @@
 +++
 title = "Introductoria"
-contributors = [ "127.0.0.1", "ian",]
+contributors = [ "127.0.0.1", "Laurent", "ian",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:es",]
 type = "lesson"
 [[cards]]
 
