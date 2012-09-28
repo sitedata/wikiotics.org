@@ -1,7 +1,9 @@
 +++
 title = "clothing adjectives"
-contributors = [ "briannaavenia",]
+contributors = [ "Laurent", "briannaavenia",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
