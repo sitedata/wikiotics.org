@@ -1,7 +1,9 @@
 +++
 title = "Transporte"
-contributors = [ "216.27.154.200", "garrison",]
+contributors = [ "216.27.154.200", "Laurent", "garrison",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:es",]
 type = "lesson"
 [[cards]]
 
