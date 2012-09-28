@@ -1,12 +1,14 @@
 +++
 title = "le temps"
-contributors = [ "ian",]
+contributors = [ "Laurent", "ian",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:fr",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "It is raining."
+text = "Il pleut."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +28,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is sunny."
+text = "Il y'a du soleil."
 type = "phrase"
 
 [[cards.sides]]
@@ -46,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cloudy."
+text = "Il y'a des nuages."
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +68,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is snowing."
+text = "Il neige."
 type = "phrase"
 
 [[cards.sides]]
@@ -86,7 +88,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cold."
+text = "Il fait froid."
 type = "phrase"
 
 [[cards.sides]]
@@ -106,7 +108,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is hot."
+text = "Il fait très chaud."
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +128,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cool."
+text = "C'est frais."
 type = "phrase"
 
 [[cards.sides]]
@@ -146,7 +148,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is warm."
+text = "C'est chaud."
 type = "phrase"
 
 [[cards.sides]]
