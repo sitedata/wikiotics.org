@@ -1,7 +1,8 @@
 +++
 title = "Väder"
-contributors = [ "Kalle",]
+contributors = [ "Kalle", "Laurent",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:sv",]
 type = "lesson"
 [[cards]]
 
