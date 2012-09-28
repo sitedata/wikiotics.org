@@ -3,7 +3,7 @@ title = "weer"
 contributors = [ "Laurent", "ian",]
 dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
-tags = [ "target-language:en",]
+tags = [ "target-language:nl",]
 type = "lesson"
 [[cards]]
 
