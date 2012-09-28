@@ -1,7 +1,9 @@
 +++
 title = "IntroductionSlovak"
-contributors = [ "127.0.0.1", "216.27.154.200", "24.17.184.252", "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "24.17.184.252", "Laurent", "ian",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:sk",]
 type = "lesson"
 [[cards]]
 
