@@ -1,7 +1,9 @@
 +++
 title = "Rørsle verb"
-contributors = [ "129.177.48.231",]
+contributors = [ "129.177.48.231", "Laurent",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:no",]
 type = "lesson"
 [[cards]]
 
