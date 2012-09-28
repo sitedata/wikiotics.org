@@ -1,7 +1,8 @@
 +++
 title = "Blomar"
-contributors = [ "129.177.48.231", "169.231.48.249", "216.27.154.200", "garrison",]
+contributors = [ "129.177.48.231", "169.231.48.249", "216.27.154.200", "Laurent", "garrison",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:no",]
 type = "lesson"
 [[cards]]
 
