@@ -1,7 +1,8 @@
 +++
 title = "gr-flowers"
-contributors = [ "216.27.154.200", "84.88.37.137", "trose",]
+contributors = [ "216.27.154.200", "84.88.37.137", "Laurent", "trose",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:es",]
 type = "lesson"
 [[cards]]
 
