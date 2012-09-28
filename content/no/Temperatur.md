@@ -1,7 +1,8 @@
 +++
 title = "Temperatur"
-contributors = [ "129.177.48.231",]
+contributors = [ "129.177.48.231", "Laurent",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:no",]
 type = "lesson"
 [[cards]]
 
