@@ -1,7 +1,9 @@
 +++
 title = "weer"
-contributors = [ "ian",]
+contributors = [ "Laurent", "ian",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
