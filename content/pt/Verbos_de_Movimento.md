@@ -1,7 +1,9 @@
 +++
 title = "Verbos de Movimento"
-contributors = [ "saree",]
+contributors = [ "Laurent", "saree",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:pt",]
 type = "lesson"
 [[cards]]
 
