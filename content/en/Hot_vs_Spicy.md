@@ -1,7 +1,8 @@
 +++
 title = "Hot vs Spicy"
-contributors = [ "213.73.35.245", "ian",]
+contributors = [ "213.73.35.245", "Laurent", "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:es",]
 type = "lesson"
 [[cards]]
 
