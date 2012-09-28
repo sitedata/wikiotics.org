@@ -1,7 +1,9 @@
 +++
 title = "another-lesson"
-contributors = [ "124.63.101.22", "127.0.0.1", "201.37.129.76", "216.27.154.200", "ian",]
+contributors = [ "124.63.101.22", "127.0.0.1", "201.37.129.76", "216.27.154.200", "Laurent", "ian",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
