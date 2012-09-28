@@ -1,7 +1,9 @@
 +++
 title = "picture choice lesson"
-contributors = []
+contributors = [ "Laurent",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
