@@ -1,6 +1,6 @@
 +++
 title = "HeroTeeth"
-contributors = []
+contributors = [ "108.21.222.22",]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "LLT", "target-language:en",]
 type = "lesson"
@@ -43,7 +43,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Villain: I've got you now! You will be friend, or else."
+text = "Villain: I've got you now! You will be my friend, or else."
 type = "phrase"
 
 [[cards.sides]]
