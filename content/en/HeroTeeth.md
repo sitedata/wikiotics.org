@@ -67,7 +67,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Alice's teeth miss her and decide to go find her."
+text = "Narrator: Alice's teeth miss her and decide to go find her."
 type = "phrase"
 
 [[cards.sides]]
@@ -79,7 +79,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "They hop after the villain to find Alice."
+text = "Narrator: They hop after the villain to find Alice."
 type = "phrase"
 
 [[cards.sides]]
@@ -91,7 +91,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The teeth yell \"Ah!\" and jump to cut the rope holding Alice."
+text = "Narrator: The teeth yell \"Ah!\" and jump to cut the rope holding Alice."
 type = "phrase"
 
 [[cards.sides]]
@@ -103,7 +103,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The teech bite through the rope with a *SNAP* sound."
+text = "Narrator: The teeth bite through the rope with a *SNAP* sound."
 type = "phrase"
 
 [[cards.sides]]
