@@ -1,6 +1,6 @@
 +++
-title = "2012-10-13-ESL Workshop"
+title = "Materials for October 13, ESL workshop in NYC"
 tags = [ "target-language:en",]
 +++
 
-
+`<<PageList tags=target-language:en,ESLworkshop>>`
