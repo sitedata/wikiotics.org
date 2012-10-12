@@ -1,7 +1,8 @@
 +++
 title = "Enkonduko"
-contributors = [ "mlinksva",]
+contributors = [ "Laurent", "mlinksva",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:eo",]
 type = "lesson"
 [[cards]]
 
