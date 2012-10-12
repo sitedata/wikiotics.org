@@ -3,7 +3,7 @@ title = "Movement verbs"
 contributors = [ "ian",]
 dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
-tags = [ "user-ian", "ESLworkshop", "target-language:en",]
+tags = [ "user-ian", "target-language:en",]
 type = "lesson"
 [[cards]]
 
