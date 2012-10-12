@@ -1,8 +1,9 @@
 +++
 title = "Choose the Adjective"
-contributors = [ "ian", "l_miguez",]
+contributors = [ "Laurent", "ian", "l_miguez",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
