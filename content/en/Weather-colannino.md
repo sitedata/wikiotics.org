@@ -1,7 +1,9 @@
 +++
 title = "Weather-colannino"
-contributors = [ "colannino", "garrison", "ian",]
+contributors = [ "Laurent", "colannino", "garrison", "ian",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
