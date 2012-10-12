@@ -1,7 +1,8 @@
 +++
 title = "Temperature"
-contributors = [ "johanroux",]
+contributors = [ "Laurent", "johanroux",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:af",]
 type = "lesson"
 [[cards]]
 
