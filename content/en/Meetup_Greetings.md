@@ -1,8 +1,8 @@
 +++
 title = "Meetup Greetings"
-contributors = [ "83.101.69.165", "Laurent",]
+contributors = [ "83.101.69.165", "Laurent", "ian",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
-tags = [ "source-language:fr", "target-language:en",]
+tags = [ "ESLworkshop", "source-language:fr", "target-language:en",]
 type = "lesson"
 [[cards]]
 
