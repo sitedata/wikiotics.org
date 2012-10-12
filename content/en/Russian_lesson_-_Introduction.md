@@ -1,7 +1,9 @@
 +++
 title = "Russian lesson - Introduction"
-contributors = [ "Qalthos",]
+contributors = [ "Laurent", "Qalthos",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:ru",]
 type = "lesson"
 [[cards]]
 
