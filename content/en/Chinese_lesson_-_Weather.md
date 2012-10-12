@@ -1,7 +1,9 @@
 +++
 title = "Chinese lesson - Weather"
-contributors = [ "216.27.154.200", "ian", "trose",]
+contributors = [ "216.27.154.200", "Laurent", "ian", "trose",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "target-language:zh",]
 type = "lesson"
 [[cards]]
 
