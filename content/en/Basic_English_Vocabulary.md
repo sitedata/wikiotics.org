@@ -1,6 +1,7 @@
 +++
 title = "A"
 languageCode = "en"
+tags = [ "target-language:en",]
 +++
 
 ### Basic:
