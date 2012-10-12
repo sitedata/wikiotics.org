@@ -1,8 +1,9 @@
 +++
 title = "Job Occupations"
-contributors = []
+contributors = [ "Laurent",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
