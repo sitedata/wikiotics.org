@@ -1,7 +1,9 @@
 +++
 title = "Animais"
-contributors = [ "garrison",]
+contributors = [ "Laurent", "garrison",]
+dividers = [ 4, 8, 12,]
 headings = [ "word", "picture",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
