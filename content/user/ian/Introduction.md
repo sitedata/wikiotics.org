@@ -3,7 +3,7 @@ title = "Introduction"
 contributors = [ "127.0.0.1", "216.27.154.200", "ian",]
 dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
-tags = [ "user-ian", "ESLworkshop", "target-language:en",]
+tags = [ "user-ian", "target-language:en",]
 type = "lesson"
 [[cards]]
 
