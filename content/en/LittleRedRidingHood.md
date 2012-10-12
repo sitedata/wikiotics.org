@@ -1,7 +1,8 @@
 +++
 title = "LittleRedRidingHood"
-contributors = [ "ian",]
+contributors = [ "Laurent", "ian",]
 headings = [ "Text", "Audio", "Illustration",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
