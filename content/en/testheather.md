@@ -1,6 +1,6 @@
 +++
 title = "testheather"
-contributors = [ "213.73.35.245", "Laurent", "ian",]
+contributors = [ "192.160.130.105", "213.73.35.245", "Laurent", "ian",]
 headings = [ "phrase", "picture", "audio",]
 tags = [ "target-language:es",]
 type = "lesson"
@@ -47,7 +47,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "El wasabi verde es  picante"
+text = "El wasabi verde es picante"
 type = "phrase"
 
 [[cards.sides]]
