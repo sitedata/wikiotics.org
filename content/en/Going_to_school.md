@@ -115,7 +115,10 @@ author_url = "http://www.flickr.com/people/28145073@N08/"
 original_url = "http://www.flickr.com/photos/28145073@N08/5952262922"
 title = "Taxi"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EaI7j62QoRhVVeaxCIsrynprzYGkoOq8xZzRt0lOTw4ap6hPG0L8vlFHYhxXvCTN"
+href = "urn:sha384:JZuCjih4CgLpGK5h48iqoqboGvFc42R1piM-vFY9g-HbUTVS7KpBGv4VtODd0_yu"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
