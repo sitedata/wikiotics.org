@@ -1,6 +1,6 @@
 +++
 title = "Families help each other."
-contributors = []
+contributors = [ "Lilybainne",]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:en",]
 type = "lesson"
@@ -47,7 +47,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The mother helps with homework."
+text = "The sister helps with homework."
 type = "phrase"
 
 [[cards.sides]]
