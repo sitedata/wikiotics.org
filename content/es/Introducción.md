@@ -23,7 +23,10 @@ author_url = "http://www.flickr.com/people/15923063@N00/"
 original_url = "http://www.flickr.com/photos/15923063@N00/3119101413"
 title = "On the Town"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:If-fiH3SrCn-P2kH-3ySoM_46nt0uuEZRP_IUTIQvkTR4aIFqyyNmRAGxYUbDFyT"
+href = "urn:sha384:QL1FnVtwWNf6eZlIwcWlWbxERgoqIU1UkkV1mdd4Qfvqo-wZC1Gpqb4NoqTqycPZ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -43,7 +46,10 @@ author_url = "http://www.flickr.com/people/50098101@N00/"
 original_url = "http://www.flickr.com/photos/50098101@N00/3282407517"
 title = "ellen2"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QPGz04TwhDUVbmpmEsBE30gzMUu4BWSzefQH7bMgiDA_463euruiSlIDpr0kF5-w"
+href = "urn:sha384:6zTIDk_JkhYrCkW24-ZV1FLWbBAz1h7wbDrDZzgSwvgXjKrIde3i1jHO0FlHTeGa"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -63,7 +69,10 @@ author_url = "http://www.flickr.com/people/98896251@N00/"
 original_url = "http://www.flickr.com/photos/98896251@N00/499119736"
 title = "Tom posing"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qNt2kus1WLaitRTZ2s4ur0mnTUgHIz3-sBioUIITw7gPrW8Q5L4QK6UARGC3a0Vt"
+href = "urn:sha384:ljvvwBTz9Cl03jB0Am1dw4caolOHso0Lk6wcV85Aou8095IJJb86aKQk3CLw4Dxm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -124,7 +133,10 @@ author_url = "http://www.flickr.com/people/10485077@N06/"
 original_url = "http://www.flickr.com/photos/10485077@N06/2915364715"
 title = "In Hopper's Studio"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ijBql0TBmMAIdW6wpSBrK5JoHAdzRO_FGPXr_PJpv8jywutyLzBGKBmuuxNB70XN"
+href = "urn:sha384:aSZAZehbd87YqZla1zoKwXfxs2gReqOtd5Pg0Sf6SkS2KgMynzFH5jSfvCGNxsLn"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -144,7 +156,10 @@ author_url = "http://www.flickr.com/people/10485077@N06/"
 original_url = "http://www.flickr.com/photos/10485077@N06/2648778104"
 title = "Jim Wu"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bf7CmgQSSTa8JIzvWV0cmlw8JJ9tn1Dh9OADfJ8N3-5vbSrC7ouuv8OfPXKt0u8I"
+href = "urn:sha384:LJ42OIEf4Xc7ZgALl49K5P0M5t8OlHY03tfHfv0Hn2PR567fTVtSYRG2Id2lTuuq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -164,7 +179,10 @@ author_url = "http://www.flickr.com/people/8569394@N07/"
 original_url = "http://www.flickr.com/photos/8569394@N07/1880700702"
 title = "Taking a break"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:MGAXyfe5i5YFV1rR0WjvKjLw41Tfn6vWOBefyS_kDuHo91cplTk6Ta5Kscgl4aBx"
+href = "urn:sha384:mWsw17G1dFrpOG93BF6lE8zQzg1rPYljgs00MYhjTJxHAPKgdqF_-BwKLbiyTd7M"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -184,12 +202,15 @@ author_url = "http://www.flickr.com/people/26993489@N00/"
 original_url = "http://www.flickr.com/photos/26993489@N00/140805906"
 title = "Dog Out Walking"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yLiTNyHOmadvyc39Ithh3TtJ-UZ0HlBROeEFgW87lyA3RMGgEk9ZE6a-MdPmY8fp"
+href = "urn:sha384:UM85ZCT6u-lgH04z2VYiE-F0YVwXm1ZPkWHKtSxod_cDqH5aVcjSIyIawt3FCvYN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "El hombre y la mujer están caminando."
+text = "El hombre y lestán caminando.a mujer "
 type = "phrase"
 
 [[cards.sides]]
@@ -204,7 +225,10 @@ author_url = "http://www.flickr.com/people/72098626@N00/"
 original_url = "http://www.flickr.com/photos/72098626@N00/3275748024"
 title = "Romance isn't just for teenagers..."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rwZ3PmoKAMwNcbV2-ta_W11Lzd_lRWgN5RK_REYgkTgsb-8ko1IBjLRhlrHnfWS4"
+href = "urn:sha384:r5G-uL-MxOubC89sdYN22jCJEa3fqVPYqsbEpw2ynSBmObK37eV-rnQxY7dDy6Ko"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -224,7 +248,10 @@ author_url = "http://www.flickr.com/people/30281826058@N01/"
 original_url = "http://www.flickr.com/photos/30281826058@N01/1763008"
 title = "Alex and lap cat at Roman Agora"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gRKvaV9pqWyHOQS0GW5HRtXpfFWVomlozsXdRkRd6srS_xQp44mCyqjIao1ZWxau"
+href = "urn:sha384:UNDI1QINSFN930J0nf0M1qF9_lhsXNzvhDVS1q2_eQ9sRIasOSpzK6ZzmSmudGYF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -244,7 +271,10 @@ author_url = "http://www.flickr.com/people/28884731@N07/"
 original_url = "http://www.flickr.com/photos/28884731@N07/2696575988"
 title = "sad girl"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jrqk5iI2H_9OYk00-fmPGcnJdA0kSw2xcmJQTcP4Db6-BCJfwfWOWUO_QmRv94rT"
+href = "urn:sha384:KZK6i3QR6f9NOX36lrXNt_DjQ6OTyGUcAXtFpU2Xv4HxlzguCSGqZDQ-ouPTdOW5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -264,7 +294,10 @@ author_url = "http://www.flickr.com/people/72825507@N00/"
 original_url = "http://www.flickr.com/photos/72825507@N00/3189781853"
 title = "Two attractive young ladies feeling good and walking on the wet sand holding what looks to be giant-sized Dos Equis beer bottles - drinking beer on the beach at sunset"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3zOPjf7LbLo51ndMMA5O4WYP7t8F1OpjYZNEZHrUq9ot28DplYTsnopLgba5Tn6K"
+href = "urn:sha384:mMmy-vq09n9rjWj-vxMBwMeJ_HW6CSiX04cnPgc9M1v_J_WZ36PuWWnqhdqP-Ata"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -284,7 +317,10 @@ author_url = "http://www.flickr.com/people/21981149@N04/"
 original_url = "http://www.flickr.com/photos/21981149@N04/3295826857"
 title = "Land Speeder"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vRNK-qtaG3hDGuVNwD2QH2TvSwXHHyv9_XEp1SSUJtsug37zLuI-goU0QC-bQX9B"
+href = "urn:sha384:0tOYEasIj4ERk3sElcUajmjU-KWgmyq67kkLniKuHtAYKFJbpb5j_Z4m_osXssjc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -304,7 +340,10 @@ author_url = "http://www.flickr.com/people/44124425616@N01/"
 original_url = "http://www.flickr.com/photos/44124425616@N01/258971456"
 title = "The Runner"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:r2iQLE3Lg2lIVFxLRZ5NahU99rZcLS-I1CvCGEu0rI3EWnJ1oiwumxHZmKWXXnU_"
+href = "urn:sha384:607X_fgkNxrdAZ1PGfISEREq4MPI5PXq1ZcOunQnWZhaU84ieAY7FlPzrXmJVyT6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -324,7 +363,10 @@ author_url = "http://www.flickr.com/people/30901369@N00/"
 original_url = "http://www.flickr.com/photos/30901369@N00/3998158534"
 title = "Friend."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lCwxZpELuXNGqWa80GPtsQOJHi6e-Ne9XJD1Iay3j-NCuqyIkXOnQVUCRcCQbgy_"
+href = "urn:sha384:eiVkyaPxPpbQiKKJ8WYkzJqmd_BOW_3q3K7sxSr-CsLwL8aS7bNcwevUMSEsSQI8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
