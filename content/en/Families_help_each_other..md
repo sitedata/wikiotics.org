@@ -1,8 +1,8 @@
 +++
 title = "Families help each other."
-contributors = [ "Lilybainne",]
+contributors = [ "69.117.87.6", "Lilybainne",]
 headings = [ "Phrase", "Picture", "Audio",]
-tags = [ "target-language:en",]
+tags = [ "ESLworkshop", "target-language:en",]
 type = "lesson"
 [[cards]]
 
