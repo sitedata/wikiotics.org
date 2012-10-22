@@ -1,6 +1,7 @@
 +++
 title = "Conjugating être"
 languageCode = "fr"
+tags = [ "target-language:fr",]
 +++
 
 Below are the complete conjugations for the verb *être* (to be).
