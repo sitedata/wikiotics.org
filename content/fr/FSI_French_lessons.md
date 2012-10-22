@@ -1,6 +1,7 @@
 +++
 title = "FSI French lessons"
 languageCode = "fr"
+tags = [ "target-language:fr",]
 +++
 
 Below is a list of editable FSI lessons in French. They were imported
