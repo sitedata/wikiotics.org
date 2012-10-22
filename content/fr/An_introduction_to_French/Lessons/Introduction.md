@@ -1,6 +1,7 @@
 +++
 title = "Introduction"
 languageCode = "fr"
+tags = [ "target-language:fr",]
 +++
 
 French (Français), {fʁɑ̃sɛ} is a Romance language spoken as a first
