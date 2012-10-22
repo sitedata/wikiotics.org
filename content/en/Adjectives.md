@@ -1,6 +1,6 @@
 +++
 title = "Adjectives"
-tags = [ "target-language:en",]
+tags = [ "grammar", "target-language:en",]
 +++
 
 In English, the adjectives are usually placed BEFORE the noun or object
