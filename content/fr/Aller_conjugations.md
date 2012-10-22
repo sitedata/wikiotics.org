@@ -1,6 +1,7 @@
 +++
 title = "Conjugating aller"
 languageCode = "fr"
+tags = [ "target-language:fr",]
 +++
 
 Below are the complete conjugations for the verb *aller* (to go).
