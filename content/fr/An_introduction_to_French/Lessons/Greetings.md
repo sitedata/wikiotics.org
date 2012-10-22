@@ -1,6 +1,7 @@
 +++
 title = "Greetings"
 languageCode = "fr"
+tags = [ "target-language:fr",]
 +++
 
 This lesson should be read along with the [attached audio
