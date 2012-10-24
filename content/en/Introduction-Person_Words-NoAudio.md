@@ -132,16 +132,16 @@ text = "Woman"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:JeaDPPKIoGh_-cnspjnSnQWhubAR3_yOUy90nEVlnYTTkdeX14jLZlWiStiKyeLA"
-href = "urn:sha384:ABndaYrdQpMVUt_tuAFKpSYBdWLcMpIEbShaKGyMwDoHAkqpkr3uAIxev-OzRdvC"
+blob_href = "urn:sha384:uEJfCmJ708wwGRAhXNf6b9xmSxgRatikNDQPinIyIcKT8ChihEHMl2gGSnv-02b3"
+href = "urn:sha384:78qKxDgBD-fH1UsIjfyzozokjnR_9dM35_6RDR_LXWRaOjrMRV4FR-Qv-metiXh0"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
 author = "epSos .de (epSos.de)"
 author_url = "http://www.flickr.com/people/36495803@N05/"
-original_url = "http://www.flickr.com/photos/36495803@N05/3837519481"
-title = "Beautiful Asian Woman in Dress"
+original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
+title = "Beautiful Asian Woman Thinking"
 [[cards.sides]]
 type = "empty"
 
