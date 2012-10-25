@@ -1,7 +1,8 @@
 +++
 title = "Introduction-Dharna"
-contributors = []
+contributors = [ "14.140.106.2",]
 headings = [ "Phrase", "Picture", "Audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
