@@ -1,8 +1,8 @@
 +++
 title = "sonia"
 contributors = [ "14.140.106.2",]
-dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
+tags = [ "IndiaWorkshop", "target-language:en",]
 type = "lesson"
 [[cards]]
 
@@ -75,21 +75,6 @@ blob_href = "urn:sha384:op8ooKwdAqru5k8RGw6PICLUVJtkARtp70xu-Y_AjetlgRk-fe70J9KU
 href = "urn:sha384:8g3sCnhh68-M3Sh3UeROSFqPSCHgWQjOX7Maa-g6KWgTkCmc47SXzpageFeoTYt4"
 mime_type = "audio/ogg"
 type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "5th"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:vB6m5adIQOzD50sKR2O60Kptcf_kdtOALvLvCEYyCZ8tSilDIOsV9eLNEkXMiXkZ"
-href = "urn:sha384:h8x9sbbJVtomo4InTj4fS4bn2yJKbZ3kD2b12jqHafCRKt8C5UGZB13X3aHdi1_M"
-mime_type = "image/jpeg"
-type = "picture"
-
-[[cards.sides]]
-type = "empty"
 
 [[interactions]]
 answer = 1
