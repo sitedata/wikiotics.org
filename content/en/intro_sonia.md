@@ -1,8 +1,8 @@
 +++
 title = "intro sonia"
-contributors = []
+contributors = [ "14.140.106.2",]
 headings = [ "Phrase", "Picture", "Audio",]
-tags = [ "indiaworkshop", "target-language:en",]
+tags = [ "IndiaWorkshop", "target-language:en",]
 type = "lesson"
 [[cards]]
 
