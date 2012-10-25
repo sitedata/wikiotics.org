@@ -1,6 +1,6 @@
 +++
 title = "Aditi story"
-contributors = []
+contributors = [ "14.140.106.2",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -36,11 +36,29 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "She used to work at NIIT ."
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:zJBR0Gy1J2TSwj28aIrkmaJFCAjJ9ZjpMff0Nz6gdV3zGdV93szDH0NHSPO6tMS0"
+href = "urn:sha384:fY1be8epkHgf1bkXzJaSHHqzJYsPpuRlEuwpdCG-8Pem73WLooEXtSsjKmny9L1c"
+mime_type = "image/jpeg"
+type = "picture"
+
+[[cards.sides]]
 type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "She was very studious."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fHdF-u4_NYrNRohsUu0Ekp4hxWqjlivZJ8TsOva-dI_-RDnOmpS3Nc7mo4BULzLa"
+href = "urn:sha384:RGf6lPan3ElqaW6OBA-lPKyr5iUTSSjjXS6VNul1kRwU2omYWPdY6ZTrUbqNzDEb"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
