@@ -83,7 +83,10 @@ text = "5th"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vB6m5adIQOzD50sKR2O60Kptcf_kdtOALvLvCEYyCZ8tSilDIOsV9eLNEkXMiXkZ"
+href = "urn:sha384:h8x9sbbJVtomo4InTj4fS4bn2yJKbZ3kD2b12jqHafCRKt8C5UGZB13X3aHdi1_M"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
