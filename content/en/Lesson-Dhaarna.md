@@ -42,10 +42,14 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "A boy is standing."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vq6vUvHQQw9_nAp1HoDEQGcTM_XA1TrJfK1NRwViH6hiFwSnmwqWeBsGqgNKpBTI"
+href = "urn:sha384:TQzkgXCYfhXJpvcJ2xb3lP5DNcYe7gO1P_MSyaA1LnvMiHGSvq9VFCtdUjGb0HZW"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
