@@ -59,7 +59,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pRE0ToxZSbSmdzu9eba7TqCOiBxiTaiUxjBv6sTFqZz-dl3H5NYHp0Al0XKba7Qe"
+href = "urn:sha384:fN2lxw_UyJgkZiIQErAjhrgZdGlv0X4YFhkcvapzxVMTv74ZwGNklIPeTux2cegX"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
