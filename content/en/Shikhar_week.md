@@ -1,7 +1,9 @@
 +++
 title = "Shikhar week"
-contributors = []
+contributors = [ "14.140.106.2",]
+dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
@@ -41,6 +43,16 @@ type = "phrase"
 
 [[cards.sides]]
 text = "Tuesday"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Who is manmohan singh?"
+type = "phrase"
+
+[[cards.sides]]
+text = "PM of india."
 type = "phrase"
 
 [[interactions]]
