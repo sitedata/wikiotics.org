@@ -1,6 +1,6 @@
 +++
 title = "new intro-rajesh"
-contributors = []
+contributors = [ "14.140.106.2",]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "IndiaWorkshop", "target-language:en",]
 type = "lesson"
@@ -35,7 +35,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FVThzjwsmd6QVzDLII4iJiW-JPuMbBAPdHh1mzcCPbJebfpYHYgZffpnerOLJ8Jp"
+href = "urn:sha384:m_3h2OOBAWb0CaCuuVj0hqhOGeJqty9Phn2G2ANNUjNPoV43hn2AKNYmC1NzqEXE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
