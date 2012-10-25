@@ -34,7 +34,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lr2EfoZ2ZuGMOIIHpMwbve-Udd2SSXVHYWbbzkKxnAekK8TlSS_wRTy4CH3wEH4H"
+href = "urn:sha384:eUZq6Hcqeyo3UptvqZKbcPFKoZA7ALdkWOBeF2bsmoJ4R6t56_RtRMvYJXU4pLx3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -63,10 +66,7 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:lr2EfoZ2ZuGMOIIHpMwbve-Udd2SSXVHYWbbzkKxnAekK8TlSS_wRTy4CH3wEH4H"
-href = "urn:sha384:eUZq6Hcqeyo3UptvqZKbcPFKoZA7ALdkWOBeF2bsmoJ4R6t56_RtRMvYJXU4pLx3"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[interactions]]
 answer = 1
