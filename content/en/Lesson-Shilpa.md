@@ -42,10 +42,14 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This is blue motorcycle"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_noFH5Srx8ZgAEPAiexmOCsRUo8Ve1K1bufwhK3xfnjB0hu3hYbEz6vZemgASn8-"
+href = "urn:sha384:0RaIDTa53skryw3RyyEns5M-DCj3gtJ3pg-t7VVxOE-cGyJN1yEdjaqMmHvCU9GY"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
