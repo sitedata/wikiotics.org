@@ -42,25 +42,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "THE BOY IS SITTING."
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:ODvjZ9JrTLfQay03RN1PfGZQFUjpQnJ8trgoDbPfv-1aLl-vPd_qoczn6PqUcT7q"
-href = "urn:sha384:tmreI84zxBquDHvEPlW47l0evXQ_iIKyUmtWb8c1tUui0fW_ntfv2MHUuBspkscm"
-mime_type = "image/jpeg"
-type = "picture"
-
-[[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:us8ILL8sCZChRMmq7m_dW-x3c9Jbm87h9a0y4QSDVK12IAWJMqvOws2AC-B_hmhU"
+href = "urn:sha384:nrPgqkozyJp1H3Bc2PKOlLK3lbLlf_gKp2WK-ozAl46vU9JO8jBdsKpFK2NXok_T"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 blob_href = "urn:sha384:lhDDv05CcD6FYWA6g2u4VeQXttHj9ivNwHa7WnTGl8BTCwUZR7S0AM2nUxXeESGb"
