@@ -1,6 +1,6 @@
 +++
 title = "Aditi Polite words"
-contributors = []
+contributors = [ "14.140.106.2",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
@@ -47,11 +47,11 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "If you want to request someone, which polilte word you will use?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Please."
 type = "phrase"
 
 [[interactions]]
