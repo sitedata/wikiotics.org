@@ -1,6 +1,6 @@
 +++
 title = "sonia"
-contributors = []
+contributors = [ "14.140.106.2",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -49,7 +49,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dDgLmesQdvzGj87UxmHiJjoj5qZyKj0bNewnGeC5y6E_qtUGB_IRlwXexXbtyqey"
+href = "urn:sha384:OvvuUT7b9HINrxoIlxtG6guDV5CvuKwqxlWozO7WGuU701TM-FStArSLYhnCmbqU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -60,10 +63,7 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:dDgLmesQdvzGj87UxmHiJjoj5qZyKj0bNewnGeC5y6E_qtUGB_IRlwXexXbtyqey"
-href = "urn:sha384:OvvuUT7b9HINrxoIlxtG6guDV5CvuKwqxlWozO7WGuU701TM-FStArSLYhnCmbqU"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[interactions]]
 answer = 1
