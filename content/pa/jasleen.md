@@ -54,13 +54,19 @@ text = "THE BOY IS SITTING."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ODvjZ9JrTLfQay03RN1PfGZQFUjpQnJ8trgoDbPfv-1aLl-vPd_qoczn6PqUcT7q"
+href = "urn:sha384:tmreI84zxBquDHvEPlW47l0evXQ_iIKyUmtWb8c1tUui0fW_ntfv2MHUuBspkscm"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lhDDv05CcD6FYWA6g2u4VeQXttHj9ivNwHa7WnTGl8BTCwUZR7S0AM2nUxXeESGb"
+href = "urn:sha384:lqoZ9vIy25xQHd-CFUWZl0vz9f2Ahuz75YqZt_UqYG4BWSWAyiOhZQMTUX282YhS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
