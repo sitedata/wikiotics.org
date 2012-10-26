@@ -1,0 +1,28 @@
++++
+title = "Talking about self Shilpa Dharna"
+contributors = []
+headings = [ "Phrase", "Audio", "Speaker",]
+tags = [ "source-language:en", "target-language:en",]
+type = "lesson"
+[[cards]]
+
+[[cards.sides]]
+text = "Hi Good morning"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:udxf6uIUei6H_c1ophKWraJ4j26Z3wP6VhLlafOh3xsYu4XmAWoGEcypDSOld9Ew"
+href = "urn:sha384:_dcypMiNu_DNKx73P29FZYTNvngI47N4pqkjplhSbBrJE238tINjmt6TEnc6LlR9"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Shilpa to Dharna"
+type = "phrase"
+
+[[interactions]]
+audio = 1
+transcript = 0
+type = "podcast"
+
++++
