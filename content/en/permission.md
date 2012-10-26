@@ -2,7 +2,7 @@
 title = "permission"
 contributors = [ "14.140.106.2", "sonia.sharma",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
-tags = [ "source-language:en", "target-language:en",]
+tags = [ "IndiaWorkshop", "source-language:en", "target-language:en",]
 type = "lesson"
 [[cards]]
 
