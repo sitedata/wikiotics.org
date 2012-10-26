@@ -2,7 +2,7 @@
 title = "Buying a pen and watch only english"
 contributors = [ "14.140.106.2",]
 headings = [ "Phrase", "Audio", "Speaker",]
-tags = [ "source-language:hi", "target-language:en",]
+tags = [ "IndiaWorkshop", "source-language:hi", "target-language:en",]
 type = "lesson"
 [[cards]]
 
