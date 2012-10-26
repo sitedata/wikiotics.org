@@ -1,8 +1,8 @@
 +++
 title = "Talking about self Shilpa Dharna"
 contributors = [ "dharna.gautam",]
-headings = [ "Phrase", "Audio", "Speaker",]
-tags = [ "source-language:en", "target-language:en",]
+headings = [ "Phrase", "Audio", "Speaker", "Translate", "",]
+tags = [ "source-language:hi", "target-language:hi",]
 type = "lesson"
 [[cards]]
 
@@ -20,6 +20,16 @@ type = "audio"
 text = "Shilpa to Dharna"
 type = "phrase"
 
+[[cards.sides]]
+text = "सुप्रभात"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:4x9F-0V_lgJCwIO0X6gI3AjvfjO2je8_MX7gNXqgWqmwpFI5Y440iUuxFq1T3q9F"
+href = "urn:sha384:QyEqAr4Xk7984Gra_G63I7NZVNCuEHbDAGhZadfqhq-XS6ITEaZCurvxEnmZZDGF"
+mime_type = "audio/ogg"
+type = "audio"
+
 [[cards]]
 
 [[cards.sides]]
@@ -35,6 +45,12 @@ type = "audio"
 [[cards.sides]]
 text = "Dharna to Shilpa"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -52,6 +68,12 @@ type = "audio"
 text = "Shilpa to Dharna"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -67,6 +89,12 @@ type = "audio"
 [[cards.sides]]
 text = "Dharna to Shilpa"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -84,6 +112,12 @@ type = "audio"
 text = "Shilpa to Dharna"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -99,6 +133,12 @@ type = "audio"
 [[cards.sides]]
 text = "Dharna to Shilpa"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[interactions]]
 audio = 1
