@@ -2,7 +2,7 @@
 title = "rajesh question words"
 contributors = [ "rajeshkumari",]
 headings = [ "Phrase", "Audio", "Speaker",]
-tags = [ "source-language:hi", "target-language:en",]
+tags = [ "IndiaWorkshop", "source-language:hi", "target-language:en",]
 type = "lesson"
 [[cards]]
 
