@@ -1,6 +1,7 @@
 +++
 title = "Food"
-contributors = [ "Laurent", "garrison",]
+contributors = [ "garrison", "ian",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 tags = [ "target-language:en",]
 type = "lesson"
