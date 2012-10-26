@@ -304,6 +304,23 @@ type = "phrase"
 text = "En"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "test"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
