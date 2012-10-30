@@ -1,8 +1,9 @@
 +++
 title = "Lesson-Dhaarna"
-contributors = [ "14.140.106.2",]
+contributors = [ "14.140.106.2", "Laurent",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
+tags = [ "target-language:en",]
 type = "lesson"
 [[cards]]
 
