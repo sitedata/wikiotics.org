@@ -1,6 +1,6 @@
 +++
 title = "How to ask for leave"
-contributors = [ "106.201.138.190", "106.67.33.184",]
+contributors = [ "106.201.138.190", "106.67.33.184", "106.79.36.68",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "IndiaWorkshop", "source-language:en", "target-language:en",]
 type = "lesson"
@@ -324,20 +324,20 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Ok,I will go day after tommorow."
+text = "I have a reservation"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Student to Faculty"
+text = "Student to faculty"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Good."
+text = "At what time will the train leave?"
 type = "phrase"
 
 [[cards.sides]]
@@ -350,14 +350,40 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thanks"
+text = "The train will at 9p.m."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Student to Faculty"
+text = "student to faculty"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Good,you can give the test in the morning."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "faculty to student"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Thanks sir."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "student to faculty"
 type = "phrase"
 
 [[interactions]]
