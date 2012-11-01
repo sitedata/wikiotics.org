@@ -1,6 +1,6 @@
 +++
 title = "Buying a pen and watch only english"
-contributors = [ "106.78.7.59", "106.79.11.46", "106.79.37.33", "14.140.106.2", "223.184.57.174",]
+contributors = [ "106.78.7.59", "106.79.11.46", "106.79.37.33", "106.79.39.40", "14.140.106.2", "223.184.57.174",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "IndiaWorkshop", "source-language:hi", "target-language:en",]
 type = "lesson"
@@ -450,7 +450,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "For which purpose?"
+text = "Formal watch or sports watch?"
 type = "phrase"
 
 [[cards.sides]]
@@ -466,7 +466,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "For official purpose."
+text = "A formal watch."
 type = "phrase"
 
 [[cards.sides]]
@@ -498,7 +498,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Titan"
+text = "Titan."
 type = "phrase"
 
 [[cards.sides]]
@@ -562,7 +562,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thanks"
+text = "Thanks.What is its cost?"
 type = "phrase"
 
 [[cards.sides]]
@@ -578,23 +578,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "What is its cost?"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:68_8yfjCUFBEGhrPTcZTEw5u53bKESD--4yvNbki2qAja5TntLtcfnIa9oFsVlgk"
-href = "urn:sha384:Xa1Fpq7JyuhuU5nyxE3B6DX4Lb5skC9e2e9CFME7ORX3bU2Heqmk6phLBXDkqEhN"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards.sides]]
-text = "Customer to shopkeeper"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "It is of 3000 rupees."
+text = "It is of Rs 3000 only."
 type = "phrase"
 
 [[cards.sides]]
@@ -642,7 +626,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Here is your money"
+text = "Here is your money."
 type = "phrase"
 
 [[cards.sides]]
@@ -1416,7 +1400,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Of which company?"
+text = "You want to buy laptop of which company?"
 type = "phrase"
 
 [[cards.sides]]
@@ -1429,7 +1413,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Lenovo"
+text = "Lenovo."
 type = "phrase"
 
 [[cards.sides]]
@@ -1579,7 +1563,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "shopkeeper"
 type = "phrase"
 
 [[cards]]
@@ -1592,7 +1576,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "customer"
 type = "phrase"
 
 [[cards]]
@@ -1605,7 +1589,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "shopkeeper"
 type = "phrase"
 
 [[cards]]
@@ -1618,7 +1602,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "customer"
 type = "phrase"
 
 [[cards]]
@@ -1715,7 +1699,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Of which company?"
+text = "You want to buy tv of which company?"
 type = "phrase"
 
 [[cards.sides]]
@@ -1728,7 +1712,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Sony"
+text = "Sony."
 type = "phrase"
 
 [[cards.sides]]
@@ -1819,7 +1803,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Your choice is great"
+text = "Your choice is great."
 type = "phrase"
 
 [[cards.sides]]
@@ -1832,7 +1816,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thanks,.What is its cost?"
+text = "Thanks.What is its cost?"
 type = "phrase"
 
 [[cards.sides]]
