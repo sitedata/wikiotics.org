@@ -1,9 +1,25 @@
 +++
 title = "phases of aday"
 contributors = [ "49.15.98.154",]
-headings = [ "Prompt", "Answer",]
+dividers = [ 4,]
+headings = [ "Prompt", "Answer", "", "",]
 tags = [ "IndiaWorkshop", "target-language:en",]
 type = "lesson"
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -21,6 +37,18 @@ author = "Thomas & Dianne Jones (FreeWine)"
 author_url = "http://www.flickr.com/people/96332550@N00/"
 original_url = "http://www.flickr.com/photos/96332550@N00/3739150874"
 title = "Morning Kayaking on Table Rock Lake"
+[[cards.sides]]
+blob_href = "urn:sha384:mi3NHBaVBj_YH7YL-4oygtOkT6vb22JIoHrGubNr4dB7XCGFib0EKkbYkiq7u3eH"
+href = "urn:sha384:u2aUgT4WfmYar23p8Aq7iFrl9oFRp3x40YdHaiYrXyh8RtVlwhyYxJC5ANJpmB9O"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+blob_href = "urn:sha384:oPmHcgX8zTeg_vzffBVMJVfU2jqo9G-BrZTWxnmqjni6JhLWRNFwoo9O1X_0Y7sH"
+href = "urn:sha384:7LYaTWFc0lvEMIwEak4kpbJkkrll_V0_8CGU0x6P6ouv-leTFNuiCUIfy3-FmERx"
+mime_type = "audio/ogg"
+type = "audio"
+
 [[cards]]
 
 [[cards.sides]]
@@ -38,6 +66,12 @@ author = "Mike Bean (Mikey Bean)"
 author_url = "http://www.flickr.com/people/38226774@N00/"
 original_url = "http://www.flickr.com/photos/38226774@N00/6987220296"
 title = "Afternoon - Kalymnos"
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -55,6 +89,12 @@ author = " (kronerda)"
 author_url = "http://www.flickr.com/people/99858941@N00/"
 original_url = "http://www.flickr.com/photos/99858941@N00/3149039897"
 title = "night sky looking towards Orion"
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -72,6 +112,42 @@ author = "Jim D (jkdevleer04)"
 author_url = "http://www.flickr.com/people/11575268@N03/"
 original_url = "http://www.flickr.com/photos/11575268@N03/7799644230"
 title = "Dusk at Cades Cove"
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0,]
