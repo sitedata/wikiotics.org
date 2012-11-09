@@ -1,6 +1,6 @@
 +++
 title = "phases of aday"
-contributors = []
+contributors = [ "49.15.98.154",]
 headings = [ "Prompt", "Answer",]
 tags = [ "IndiaWorkshop", "target-language:en",]
 type = "lesson"
@@ -24,7 +24,7 @@ title = "Morning Kayaking on Table Rock Lake"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "afternoon"
 type = "phrase"
 
 [[cards.sides]]
@@ -41,23 +41,25 @@ title = "Afternoon - Kalymnos"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "night"
+type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:bdhF0YuftMZqk0jf1PtBPOYSD8cbN1pPnQC98EhXcTlVKUez5QysT-DBgWEgdbZm"
-href = "urn:sha384:zkpeJSR2WmPqmuiPdlr2d4VDsf_QU8lRaqyw9QdV0LJZsL-LwwzpGo8cb-nRnTHK"
+blob_href = "urn:sha384:YPKYk59VGfjwpdSgbl_hyyAgLxuGmVba9ll9PA8Yb_u3UCuFXJpHP8c69h8gum-k"
+href = "urn:sha384:74g41AKsrc7LLw2-c23Wrt6dysqmw8POz7Mhl6CxvNmXrXFezVXIn7U09HHBcVsp"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "epSos .de (epSos.de)"
-author_url = "http://www.flickr.com/people/36495803@N05/"
-original_url = "http://www.flickr.com/photos/36495803@N05/3524714926"
-title = "Colorful Night Fountain of Rainbow Colors"
+author = " (kronerda)"
+author_url = "http://www.flickr.com/people/99858941@N00/"
+original_url = "http://www.flickr.com/photos/99858941@N00/3149039897"
+title = "night sky looking towards Orion"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "dusk"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:FDd9oSuOiCfETQI_fC92mDTbDfqfrj5bFrdVfBqlBJ4rFZio8DoHUejPVzeNJ5En"
