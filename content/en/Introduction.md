@@ -1,6 +1,6 @@
 +++
 title = "Introduction"
-contributors = [ "124.63.101.22", "127.0.0.1", "14.140.106.2", "182.72.234.14", "201.37.129.76", "216.27.154.200", "65.91.246.2", "Laurent", "ian",]
+contributors = [ "124.63.101.22", "127.0.0.1", "14.140.106.2", "182.72.234.14", "201.37.129.76", "216.27.154.200", "65.91.246.2", "74.88.86.119", "Laurent", "ian",]
 dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
 tags = [ "ESLworkshop", "target-language:en",]
@@ -104,11 +104,16 @@ text = "This is a boy."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:neR7DLYa3TOKyNLL7cR-SJTfhzIJhinC0CLoS3UJJ-ALrSx3J2TaDWL5VnirsICx"
-href = "urn:sha384:UkWVf_B0MuncV5SB37Pv_f0Fk1xX7V2zlxxUUjS6sNubBdUJNziR6eUkgs7_F5ki"
+blob_href = "urn:sha384:U-zeH5f3jMOKVPHAUelhxXfi7k_iVr-9bkvvK5yBpcfGepNmeO_0mt-BikzXL1U5"
+href = "urn:sha384:wfOlqvbJr8iJDlXrxJddsvb1wxDRl3iotGtFvFY6lHy9ZklrCoyM8BS1YM-X-YuS"
 mime_type = "image/jpeg"
 type = "picture"
 
+[cards.sides.credit]
+author = "woodley wonderworks (woodleywonderworks)"
+author_url = "http://www.flickr.com/people/73645804@N00/"
+original_url = "http://www.flickr.com/photos/73645804@N00/3338235706"
+title = "improptu field trip"
 [[cards.sides]]
 blob_href = "urn:sha384:pbUvF-ttUs1zqDazzal4rTQGgdPtupyXLt2Pok760kfuiUZTahEkIvCUNnhp3BJa"
 href = "urn:sha384:J7P0Kbl5pi2pbToRSiQRLOcmTS06SE4llV8MNe5YoL-Qjdm2DMsJvLk5F7LYQYor"
