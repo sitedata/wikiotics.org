@@ -1,6 +1,6 @@
 +++
 title = "Advanced vocabulary"
-contributors = []
+contributors = [ "Laurent",]
 headings = [ "Prompt", "Answer",]
 tags = [ "vocabulary", "target-language:sv",]
 type = "lesson"
@@ -27,11 +27,11 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "förödmjuka"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "humiliate"
 type = "phrase"
 
 [[interactions]]
