@@ -73,7 +73,7 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-text = "It's twenty to ten."
+text = "It's twenty to eleven."
 type = "phrase"
 
 [[cards]]
