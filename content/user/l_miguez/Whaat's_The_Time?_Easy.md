@@ -300,13 +300,13 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-blob_href = "urn:sha384:x_fHqXgVL9cVSv3iA4c-X8o8gr-eJBvOIfrXVQQ43ntCnzM-OvorJAD4_ECeO7PO"
-href = "urn:sha384:5ZxpCw8zpemYT48btRMVwxLWtA331L6uvVsQfXS6uXxvy62F1UhlDL7LlB2pnHz9"
+blob_href = "urn:sha384:X4hjTfcoazsNqTOd7fgjywBtZMx736LFrKpLXQbzz-q8THiPWh15TswJ4QCvT8Cg"
+href = "urn:sha384:LQKIq4KJLZwn_dW11I2MUf9o85PDPut2KjwN1tjEBcY2lfD18jCzQNKol_XlTbG0"
 mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-text = "It's a quarter to five."
+text = "It's a quarter to eight."
 type = "phrase"
 
 [[cards]]
