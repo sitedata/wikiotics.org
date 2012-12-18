@@ -438,7 +438,7 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-text = "It's a quarter after one."
+text = "It's a quarter past one."
 type = "phrase"
 
 [[interactions]]
