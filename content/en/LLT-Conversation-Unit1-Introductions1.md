@@ -2,7 +2,7 @@
 title = "LLT-Conversation-Unit1-Introductions1"
 contributors = [ "ian",]
 headings = [ "Phrase", "Audio", "Speaker",]
-tags = [ "target-language:en",]
+tags = [ "LLT", "target-language:en",]
 type = "lesson"
 [[cards]]
 
