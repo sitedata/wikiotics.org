@@ -22,7 +22,10 @@ author_url = "http://www.flickr.com/people/34666709@N00/"
 original_url = "http://www.flickr.com/photos/34666709@N00/2742893750"
 title = "Dog sitting 2 extra sheepdogs"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:slesLk7l0PILFm7BrMcdPqtCUdWvvwIptBkeDTlnIb8VgzD1fZZwYrY2ZX4EmTVn"
+href = "urn:sha384:-ug-XsR90rKaiz9iiBC-f4f8dGc2i1NpId3rrl8kUQbjq0N1F41ArmHmRH5ImefS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -42,7 +45,10 @@ author_url = "http://www.flickr.com/people/29638083@N00/"
 original_url = "http://www.flickr.com/photos/29638083@N00/2551733862"
 title = "Little Cars"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:a6IULgJwj9FMIR-MZLNA-A2DAoVR83z1GRCqSPzW8ZNFlxFSMy_uDp6h__R68YeD"
+href = "urn:sha384:3Rcgz90pNtiSVOyladYQfY48_LJosz-Azl851KA09bgjgiNWtr2MSdj-BJYToSun"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
