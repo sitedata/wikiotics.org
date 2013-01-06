@@ -358,6 +358,19 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Ed then continues:"
 type = "phrase"
 
