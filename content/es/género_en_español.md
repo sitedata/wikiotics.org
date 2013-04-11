@@ -209,7 +209,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "un niño y un hombre"
+text = "Es un niño y un hombre."
 type = "phrase"
 
 [[cards.sides]]
