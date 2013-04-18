@@ -58,7 +58,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello."
+text = "Hola."
 type = "phrase"
 
 [[cards.sides]]
@@ -92,7 +92,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello."
+text = "Hola."
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +126,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello."
+text = "Hola."
 type = "phrase"
 
 [[cards.sides]]
@@ -160,7 +160,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say _____?"
+text = "¿Cómo se dice _____?"
 type = "phrase"
 
 [[cards.sides]]
@@ -177,7 +177,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say _____?"
+text = "¿Cómo se dice _____?"
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +211,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say \"Hello\"?"
+text = "¿Cómo se dice \"Hello\"?"
 type = "phrase"
 
 [[cards.sides]]
@@ -245,7 +245,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello."
+text = "Hola."
 type = "phrase"
 
 [[cards.sides]]
@@ -279,7 +279,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thank you."
+text = "Gracias."
 type = "phrase"
 
 [[cards.sides]]
@@ -296,7 +296,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thank you."
+text = "Gracias."
 type = "phrase"
 
 [[cards.sides]]
@@ -313,7 +313,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "The polite reply to \"Thank you\" is \"You're welcome\"."
+text = "A polite reply to \"Gracias\" is \"De nada\", which means \"it is nothing\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -330,7 +330,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "You're welcome."
+text = "De nada."
 type = "phrase"
 
 [[cards.sides]]
@@ -347,7 +347,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "You're welcome."
+text = "De nada."
 type = "phrase"
 
 [[cards.sides]]
@@ -381,7 +381,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say \"Hello\"?"
+text = "¿Cómo se dice \"Hello\"?"
 type = "phrase"
 
 [[cards.sides]]
@@ -398,7 +398,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Hello\"."
+text = "\"Hola\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -415,7 +415,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thank you."
+text = "Gracias."
 type = "phrase"
 
 [[cards.sides]]
@@ -466,7 +466,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Can you repeat that?"
+text = "¿Puede repetir eso?"
 type = "phrase"
 
 [[cards.sides]]
@@ -483,7 +483,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Can you repeat that?"
+text = "¿Puede repetir eso?"
 type = "phrase"
 
 [[cards.sides]]
@@ -517,7 +517,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say \"Hello\"?"
+text = "¿Cómo se dice \"Hello\"?"
 type = "phrase"
 
 [[cards.sides]]
@@ -534,7 +534,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Hello\"."
+text = "\"Hola\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -551,7 +551,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Can you repeat that?"
+text = "¿Puede repetir eso?"
 type = "phrase"
 
 [[cards.sides]]
@@ -568,7 +568,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Hello\"."
+text = "\"Hola\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -585,7 +585,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thank you."
+text = "Gracias."
 type = "phrase"
 
 [[cards.sides]]
@@ -602,7 +602,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "You're welcome."
+text = "De nada."
 type = "phrase"
 
 [[cards.sides]]
