@@ -1,9 +1,48 @@
 +++
 title = "Introducciones básicas"
-contributors = []
+contributors = [ "69.115.216.77",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "LLT", "source-language:en", "target-language:es",]
 type = "lesson"
+[[cards]]
+
+[[cards.sides]]
+text = "Welcome to the second conversation lesson for the ElementarySpanish book."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "In this lesson, you will learn how to introduce yourself and a polite way to end a conversation."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "In our dialogue two strangers, Raúl and Sofía, introduce themselves. They are in the elevator of the apartment building in which they both live. Their introduction is cut short as they have to leave the elevator."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
