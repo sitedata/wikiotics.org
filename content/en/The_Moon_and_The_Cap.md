@@ -22,7 +22,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "All of us went to the Dasara fair."
 type = "phrase"
 
 [[cards.sides]]
@@ -37,7 +37,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Papa bought Chintu fancy glasses. Mother bought me a bright blue cap. The baby got sugar candy."
 type = "phrase"
 
 [[cards.sides]]
@@ -52,7 +52,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "On the way home, a very strong wind came. It blew my cap away."
 type = "phrase"
 
 [[cards.sides]]
@@ -67,7 +67,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "My cap got stuck on a branch of the old Pipal tree."
 type = "phrase"
 
 [[cards.sides]]
@@ -82,7 +82,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "I cried a lot. And I did not eat my dinner."
 type = "phrase"
 
 [[cards.sides]]
@@ -97,7 +97,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Later that night, the moon came up. It looked at my cap on the old Pipal tree."
 type = "phrase"
 
 [[cards.sides]]
@@ -112,7 +112,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "It tried on my cap. The moon smiled happily. I had to smile too."
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "After school the next day, my mother gave me a shiny new red cap. \"The moon sent it,\" she said."
 type = "phrase"
 
 [[cards.sides]]
@@ -142,7 +142,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "That night, both the moon and I wore our caps and smiled. We were happy."
 type = "phrase"
 
 [[cards.sides]]
@@ -157,7 +157,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Do you think the sun needs a hat?"
 type = "phrase"
 
 [[cards.sides]]
@@ -172,7 +172,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Guess which cap I am wearing today!"
 type = "phrase"
 
 [[cards.sides]]
