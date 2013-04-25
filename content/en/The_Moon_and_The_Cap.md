@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "\"The Moon and The Cap\" \n\nWritten by Noni\nIllustrated by Angie & Upesh"
 type = "phrase"
 
 [[cards.sides]]
