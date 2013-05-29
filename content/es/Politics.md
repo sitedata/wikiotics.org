@@ -1,6 +1,6 @@
 +++
 title = "Politics"
-contributors = []
+contributors = [ "jarrettcarter",]
 headings = [ "Prompt", "Answer",]
 tags = [ "target-language:es",]
 type = "lesson"
@@ -20,7 +20,8 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "governor"
+type = "phrase"
 
 [[cards]]
 
