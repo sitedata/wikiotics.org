@@ -1,6 +1,6 @@
 +++
 title = "Present Family Beginner 2"
-contributors = []
+contributors = [ "98.113.38.94",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "target-language:es",]
 type = "lesson"
@@ -410,7 +410,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "<translation errors>"
 type = "phrase"
 
 [[cards.sides]]
