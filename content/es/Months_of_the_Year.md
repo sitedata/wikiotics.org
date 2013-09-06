@@ -1,6 +1,6 @@
 +++
 title = "Months of the Year"
-contributors = []
+contributors = [ "98.113.38.94",]
 dividers = [ 4, 8,]
 headings = [ "Prompt", "Answer",]
 tags = [ "target-language:es",]
@@ -118,7 +118,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Acción de Gracias es en"
+text = "La Navidad es en"
 type = "phrase"
 
 [[cards.sides]]
