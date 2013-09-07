@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-Family2-Part3"
-contributors = []
+contributors = [ "209.2.60.77",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "LLT", "ElementarySpanish", "target-language:es",]
@@ -12,7 +12,7 @@ text = "¿Por qué te mudaste a esta área?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Me moví a esta área porque tiene muchas oportunidades. "
 type = "phrase"
 
 [[cards]]
@@ -22,7 +22,7 @@ text = "¿Qué te motivo mudarte aquí?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Las oportunidades me motivaron mudarme aquí. "
 type = "phrase"
 
 [[cards]]
@@ -32,7 +32,7 @@ text = "¿Cuánto tiempo tienes en nueva york?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Tengo ocho años en nueva york. "
 type = "phrase"
 
 [[cards]]
@@ -42,7 +42,7 @@ text = "¿Cuántos año tenias cuando te mudaste a nueva york?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Tenía nueve años cuando me moví a nueva york. "
 type = "phrase"
 
 [[cards]]
@@ -52,7 +52,7 @@ text = "¿Estas visitando o vives aquí?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Vivo aquí. "
 type = "phrase"
 
 [[cards]]
@@ -62,7 +62,7 @@ text = "¿Quién te crío?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mi abuela me crío. "
 type = "phrase"
 
 [[cards]]
@@ -72,7 +72,7 @@ text = "¿Has ido ha jardín botánico?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "No he ido al jardín botánico. "
 type = "phrase"
 
 [[interactions]]
