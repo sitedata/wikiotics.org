@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-Family2-Part2"
-contributors = []
+contributors = [ "209.2.60.77",]
 headings = [ "Prompt", "Answer",]
 tags = [ "LLT", "ElementarySpanish", "target-language:es",]
 type = "lesson"
@@ -11,7 +11,7 @@ text = "¿Dónde nació tu abuela?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mi abuela nació en México. "
 type = "phrase"
 
 [[cards]]
@@ -21,7 +21,7 @@ text = "¿Dónde se crío tu abuelo?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mi abuelo se crío en Morelia, Michoacan. "
 type = "phrase"
 
 [[cards]]
@@ -31,7 +31,7 @@ text = "¿Dónde nació tu abuelo?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mi abuelo nació en un rancho en Morelia, Michoacan. "
 type = "phrase"
 
 [[cards]]
@@ -41,7 +41,7 @@ text = "¿Dónde se crío tu abuela?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mi abuela se crío en Veracruz. "
 type = "phrase"
 
 [[interactions]]
