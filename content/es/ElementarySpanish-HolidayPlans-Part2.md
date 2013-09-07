@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-HolidayPlans-Part2"
-contributors = []
+contributors = [ "209.2.60.77",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "LLT", "ElementarySpanish", "target-language:es",]
@@ -12,7 +12,7 @@ text = "¿Qué quisieras hacer?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Quisiera dibujar. "
 type = "phrase"
 
 [[cards]]
@@ -22,7 +22,7 @@ text = "¿Qué deberíamos comer?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Deberíamos comer pollo y arroz. "
 type = "phrase"
 
 [[cards]]
@@ -32,7 +32,7 @@ text = "¿Cómo deberíamos decorar nuestro hogar?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Deberíamos decorar nuestro hogar con palomitas. "
 type = "phrase"
 
 [[cards]]
@@ -42,7 +42,7 @@ text = "¿Qué quisieras hacer para las fiestas?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Quisiera quedarnos en la casa para las fiestas. "
 type = "phrase"
 
 [[cards]]
@@ -52,7 +52,7 @@ text = "¿Dónde deberíamos ir?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Deberíamos ir a la casa de abuela. "
 type = "phrase"
 
 [[interactions]]
