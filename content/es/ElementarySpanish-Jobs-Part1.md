@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-Jobs-Part1"
-contributors = []
+contributors = [ "209.2.60.77",]
 headings = [ "Prompt", "Answer",]
 tags = [ "LLT", "ElementarySpanish", "target-language:es",]
 type = "lesson"
@@ -11,7 +11,7 @@ text = "¿En que trabaja?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Trabajo en educación. "
 type = "phrase"
 
 [[cards]]
@@ -21,7 +21,7 @@ text = "¿Dónde trabaja?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Trabajo en la ciudad. "
 type = "phrase"
 
 [[cards]]
@@ -31,7 +31,7 @@ text = "¿Cómo le gusta?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Me encanta donde trabajo. "
 type = "phrase"
 
 [[cards]]
