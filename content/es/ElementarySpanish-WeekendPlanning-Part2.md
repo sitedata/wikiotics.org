@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-WeekendPlanning-Part2"
-contributors = []
+contributors = [ "209.2.60.77",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "LLT", "ElementarySpanish", "target-language:es",]
@@ -12,7 +12,7 @@ text = "¿Qué quieres hacer este fin de semana?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Este fin de semana quiero mirar una película. "
 type = "phrase"
 
 [[cards]]
@@ -22,17 +22,17 @@ text = "¿Dónde quieres ir este fin de semana?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Este fin de semana quiero ir al cine. "
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "¿Qué vamos a necesitar comprar?"
+text = "¿Qué necesitamos comprar?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Necesitamos comprar vegetales. "
 type = "phrase"
 
 [[cards]]
@@ -42,17 +42,17 @@ text = "¿Quieres tener una cita de jugar este fin de semana?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "No quiero tener una cita para jugar este fin de semana. "
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "¿Quién quieres mirar este fin de semana?"
+text = "¿Quién quieres visitar este fin de semana?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Quiero visitar a abuela este fin de semana. "
 type = "phrase"
 
 [[interactions]]
