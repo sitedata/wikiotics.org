@@ -1,0 +1,63 @@
++++
+title = "ElementarySpanish-Jobs-Part3"
+contributors = []
+dividers = [ 4,]
+headings = [ "Prompt", "Answer",]
+tags = [ "LLT", "ElementarySpanish", "target-language:es",]
+type = "lesson"
+[[cards]]
+
+[[cards.sides]]
+text = " \t¿Cuánto tiempo estas allí?"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " \t¿Cómo llegas a tu trabajo?"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "¿Cuánto tiempo duras para llegar?"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "¿Qué ____ tomas?"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " \t¿Qué haces cuando estas en el ____?"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[interactions]]
+answer = 1
+prompt = [ 0,]
+type = "choice"
+
++++
