@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-HolidayPlans-Part1"
-contributors = []
+contributors = [ "209.2.60.77",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "LLT", "ElementarySpanish", "target-language:es",]
@@ -12,7 +12,8 @@ text = "¿Qué vas a celebrar?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Voy a celebrar Día de los Muertos. "
+type = "phrase"
 
 [[cards]]
 
@@ -21,7 +22,7 @@ text = "¿Cómo vas a celebrar?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Voy a celebrar comiendo mucha comida. "
 type = "phrase"
 
 [[cards]]
@@ -31,7 +32,7 @@ text = "¿Con quien vas a celebrar? ¿Quién va celebrar con tigo?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mi mama va celebrar con migo. "
 type = "phrase"
 
 [[cards]]
@@ -41,7 +42,7 @@ text = "¿Dónde vas a ir?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Voy a ir a California. "
 type = "phrase"
 
 [[cards]]
@@ -51,17 +52,17 @@ text = "¿Cómo vas a viajar allí?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Voy a viajar en avión. "
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "¿Cuánto tiempo vas estar allí?"
+text = "¿Cuánto tiempo vas a estar allí?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Voy a estar allí por dos semanas. "
 type = "phrase"
 
 [[interactions]]
