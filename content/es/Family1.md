@@ -8,7 +8,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Es el hijo"
+text = "Es el hijo."
 type = "phrase"
 
 [[cards.sides]]
@@ -31,7 +31,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "El la hija de los padres"
+text = "Es la hija."
 type = "phrase"
 
 [[cards.sides]]
@@ -51,7 +51,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Es la padre mujer"
+text = "Es la mamá."
 type = "phrase"
 
 [[cards.sides]]
@@ -71,7 +71,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Es el padre hombre"
+text = "Es el papá."
 type = "phrase"
 
 [[cards.sides]]
@@ -91,7 +91,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Es el abuelo. "
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Es la abuela."
 type = "phrase"
 
 [[cards.sides]]
@@ -131,7 +131,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Es una familia."
 type = "phrase"
 
 [[cards.sides]]
@@ -151,7 +151,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Son hermanos."
 type = "phrase"
 
 [[cards.sides]]
@@ -171,7 +171,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Son hermanas."
 type = "phrase"
 
 [[cards.sides]]
@@ -191,7 +191,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "El papá esta con su hijo."
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +211,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "La mamá esta con su hija. "
 type = "phrase"
 
 [[cards.sides]]
@@ -231,7 +231,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "La abuela esta con su nieto."
 type = "phrase"
 
 [[cards.sides]]
