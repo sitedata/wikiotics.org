@@ -8,7 +8,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Es el hijo de los padres"
+text = "Es el hijo"
 type = "phrase"
 
 [[cards.sides]]
@@ -23,7 +23,10 @@ author_url = "http://www.flickr.com/people/44398680@N08/"
 original_url = "http://www.flickr.com/photos/44398680@N08/4271545190"
 title = "Boy"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Gha9iUIVYAlPqZyHe6kbyyE3eFRcdcG6vWjfptw2ri2fNVbJbK2r4ddnVcB2Mq8u"
+href = "urn:sha384:mrMjUWfERxg_xL_ptmGRekPgHP4RxcQhZuZUMnyV9s7rDnMosKvJd_ZxnBBRNVN3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
