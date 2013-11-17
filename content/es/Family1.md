@@ -1,7 +1,6 @@
 +++
 title = "Family1"
 contributors = [ "98.116.20.243",]
-dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "target-language:es",]
 type = "lesson"
@@ -43,16 +42,6 @@ type = "phrase"
 
 [[cards.sides]]
 text = "papá"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
 type = "phrase"
 
 [[interactions]]
