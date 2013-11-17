@@ -2,7 +2,7 @@
 title = "Family1"
 contributors = [ "98.116.20.243",]
 dividers = [ 4, 8,]
-headings = [ "Prompt", "Answer",]
+headings = [ "Text", "Picture", "Audio",]
 tags = [ "target-language:es",]
 type = "lesson"
 [[cards]]
@@ -22,6 +22,9 @@ author = "Afghanistan Matters (AfghanistanMatters)"
 author_url = "http://www.flickr.com/people/44398680@N08/"
 original_url = "http://www.flickr.com/photos/44398680@N08/4271545190"
 title = "Boy"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -39,6 +42,9 @@ author = "Ronald Tagra (kamsky)"
 author_url = "http://www.flickr.com/people/38872730@N00/"
 original_url = "http://www.flickr.com/photos/38872730@N00/7432880868"
 title = "Happy Girl"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -56,6 +62,9 @@ author = "epSos .de (epSos.de)"
 author_url = "http://www.flickr.com/people/36495803@N05/"
 original_url = "http://www.flickr.com/photos/36495803@N05/4899548915"
 title = "Beautiful Woman is Asian Looking"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -73,6 +82,9 @@ author = "Martin Abegglen (twicepix)"
 author_url = "http://www.flickr.com/people/30713600@N00/"
 original_url = "http://www.flickr.com/photos/30713600@N00/2711171458"
 title = "men only"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -90,6 +102,9 @@ author = "David Dennis (DavidDennisPhotos.com)"
 author_url = "http://www.flickr.com/people/50852241@N00/"
 original_url = "http://www.flickr.com/photos/50852241@N00/87710908"
 title = "Man at Momos Restaurant"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -107,6 +122,9 @@ author = " (sabertasche2)"
 author_url = "http://www.flickr.com/people/92181839@N00/"
 original_url = "http://www.flickr.com/photos/92181839@N00/4101160357"
 title = "Grandma"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -124,6 +142,9 @@ author = "Rob Boudon (Rob Boudon)"
 author_url = "http://www.flickr.com/people/88562024@N00/"
 original_url = "http://www.flickr.com/photos/88562024@N00/1143726319"
 title = "Grandma"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -141,6 +162,9 @@ author = " (born1945)"
 author_url = "http://www.flickr.com/people/12567713@N00/"
 original_url = "http://www.flickr.com/photos/12567713@N00/214221566"
 title = "Brothers"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -158,6 +182,9 @@ author = "Steve Hankins (hankinsphoto.com)"
 author_url = "http://www.flickr.com/people/7961775@N03/"
 original_url = "http://www.flickr.com/photos/7961775@N03/7419866148"
 title = "Sisters"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -175,6 +202,9 @@ author = "Bart Speelman (Jeda Villa Bali)"
 author_url = "http://www.flickr.com/people/53779476@N08/"
 original_url = "http://www.flickr.com/photos/53779476@N08/5011303336"
 title = "Father_Child"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -192,6 +222,9 @@ author = "United Pentecostal Church (pentecostalsofoc)"
 author_url = "http://www.flickr.com/people/36558296@N00/"
 original_url = "http://www.flickr.com/photos/36558296@N00/7479730950"
 title = "Fathers Day 2012"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -209,9 +242,12 @@ author = "United Pentecostal Church (pentecostalsofoc)"
 author_url = "http://www.flickr.com/people/36558296@N00/"
 original_url = "http://www.flickr.com/photos/36558296@N00/7479746074"
 title = "Fathers Day 2012"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
-prompt = [ 0,]
+prompt = [ 0, 2,]
 type = "choice"
 
 +++
