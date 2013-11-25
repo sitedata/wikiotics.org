@@ -1,13 +1,13 @@
 +++
 title = "In the bodega (part 1)"
-contributors = []
+contributors = [ "mxc",]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "en", "ps9", "llt", "target-language:en",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "milk"
+text = "Where is the milk?"
 type = "phrase"
 
 [[cards.sides]]
@@ -19,7 +19,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "butter"
+text = "Where is the butter?"
 type = "phrase"
 
 [[cards.sides]]
@@ -31,7 +31,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "cheese"
+text = "Where is the cheese?"
 type = "phrase"
 
 [[cards.sides]]
@@ -43,7 +43,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "eggs"
+text = "Where are the eggs?"
 type = "phrase"
 
 [[cards.sides]]
