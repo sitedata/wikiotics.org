@@ -8,7 +8,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the milk?"
+text = "¿Dónde está la leche?"
 type = "phrase"
 
 [[cards.sides]]
@@ -28,7 +28,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the butter?"
+text = "¿Dónde está la mantequilla?"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the cheese?"
+text = "¿Dónde está el queso?"
 type = "phrase"
 
 [[cards.sides]]
@@ -68,7 +68,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where are the eggs?"
+text = "¿Dónde están los huevos?"
 type = "phrase"
 
 [[cards.sides]]
@@ -88,7 +88,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "\nWhere are the vegetables?"
+text = "\n¿Dónde están las verduras?"
 type = "phrase"
 
 [[cards.sides]]
@@ -108,7 +108,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the fruit?"
+text = "¿Dónde está la fruta?"
 type = "phrase"
 
 [[cards.sides]]
@@ -128,7 +128,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the cereal?"
+text = "¿Dónde están los cereales?"
 type = "phrase"
 
 [[cards.sides]]
@@ -148,7 +148,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the bread?"
+text = "¿Dónde está el pan?"
 type = "phrase"
 
 [[cards.sides]]
@@ -168,7 +168,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Do you have apples?"
+text = "¿Tiene manzanas?"
 type = "phrase"
 
 [[cards.sides]]
@@ -188,7 +188,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Do you have oranges oranges?"
+text = "¿Tiene naranjas?"
 type = "phrase"
 
 [[cards.sides]]
@@ -208,7 +208,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Do you have strawberries?"
+text = "¿Tiene fresas?"
 type = "phrase"
 
 [[cards.sides]]
@@ -228,7 +228,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Do you have mangos?"
+text = "¿Tiene mango?"
 type = "phrase"
 
 [[cards.sides]]
@@ -248,7 +248,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where are the bananas?"
+text = "¿Tiene banana?"
 type = "phrase"
 
 [[cards.sides]]
@@ -268,7 +268,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where are the grapes?"
+text = "¿Tiene uvas?"
 type = "phrase"
 
 [[cards.sides]]
@@ -288,7 +288,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the watermelon?"
+text = "¿Tiene sandia?"
 type = "phrase"
 
 [[cards.sides]]
@@ -308,7 +308,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where are the lemons?"
+text = "¿Tiene limones?"
 type = "phrase"
 
 [[cards.sides]]
@@ -328,7 +328,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the water?"
+text = "¿Dónde está el agua?"
 type = "phrase"
 
 [[cards.sides]]
@@ -349,7 +349,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the juice?"
+text = "¿Dónde está el jugo?"
 type = "phrase"
 
 [[cards.sides]]
@@ -369,7 +369,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the coffee?"
+text = "¿Dónde está el cafe?"
 type = "phrase"
 
 [[cards.sides]]
@@ -389,7 +389,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the tea?"
+text = "¿Dónde está el té?"
 type = "phrase"
 
 [[cards.sides]]
@@ -409,7 +409,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the bag?"
+text = "¿Dónde está la bolsa?"
 type = "phrase"
 
 [[cards.sides]]
@@ -429,7 +429,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the box?"
+text = "¿Dónde está la caja?"
 type = "phrase"
 
 [[cards.sides]]
@@ -449,7 +449,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the cup?"
+text = "¿Dónde está la taza?"
 type = "phrase"
 
 [[cards.sides]]
@@ -469,7 +469,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the bottle?"
+text = "¿Dónde está la botella?"
 type = "phrase"
 
 [[cards.sides]]
@@ -484,7 +484,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the dollar?"
+text = "Es el dólar."
 type = "phrase"
 
 [[cards.sides]]
@@ -504,7 +504,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the change?"
+text = "Es el cambio."
 type = "phrase"
 
 [[cards.sides]]
@@ -524,7 +524,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the quarter?"
+text = "Es la moneda."
 type = "phrase"
 
 [[cards.sides]]
@@ -544,7 +544,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the credit card?"
+text = "Es la tarjeta de credito."
 type = "phrase"
 
 [[cards.sides]]
