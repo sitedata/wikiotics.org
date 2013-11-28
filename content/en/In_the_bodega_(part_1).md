@@ -146,7 +146,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the cereal?"
+text = "Do you have cereal?"
 type = "phrase"
 
 [[cards.sides]]
@@ -169,7 +169,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the bread?"
+text = "How much does the bread cost?"
 type = "phrase"
 
 [[cards.sides]]
@@ -215,7 +215,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Do you have oranges?"
+text = "How many oranges do you have?"
 type = "phrase"
 
 [[cards.sides]]
@@ -238,7 +238,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Do you have strawberries?"
+text = "Do you like strawberries?"
 type = "phrase"
 
 [[cards.sides]]
@@ -261,7 +261,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Do you have mangos?"
+text = "I like mango."
 type = "phrase"
 
 [[cards.sides]]
@@ -330,7 +330,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the watermelon?"
+text = "How much does the watermelon cost?"
 type = "phrase"
 
 [[cards.sides]]
@@ -400,7 +400,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the juice?"
+text = "Do you have juice?"
 type = "phrase"
 
 [[cards.sides]]
@@ -423,7 +423,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the coffee?"
+text = "How much is the coffee?"
 type = "phrase"
 
 [[cards.sides]]
@@ -469,7 +469,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the bag?"
+text = "Do you have a bag?"
 type = "phrase"
 
 [[cards.sides]]
