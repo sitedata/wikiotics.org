@@ -23,7 +23,10 @@ author_url = "http://www.flickr.com/people/44124427152@N01/"
 original_url = "http://www.flickr.com/photos/44124427152@N01/3342288661"
 title = "Milk and cooky"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WwQadhMcake5HpoMFMzLcRScYDM5GzuMV9wTTWwL6nEnFIWlNagGnrqV5J2i9Crq"
+href = "urn:sha384:82xSqCi1rrkOjYtT5XWjyeKuEpg3OZydM-58zwvoe6KB6ArwQAR2VlxvuGRCL8Y5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
