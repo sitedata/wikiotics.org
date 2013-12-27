@@ -1,26 +1,28 @@
 +++
 title = "Teste"
-contributors = []
+contributors = [ "189.100.172.73",]
 headings = [ "Prompt", "Answer",]
 tags = [ "target-language:pt",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Vacas"
+text = "Casa"
 type = "phrase"
 
 [[cards.sides]]
-text = "sdf"
+text = "Branca"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Casa"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Azu"
+type = "phrase"
 
 [[cards]]
 
