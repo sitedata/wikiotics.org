@@ -243,8 +243,16 @@ text = "vegetales"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rHlzFTX2__uOVI8XjN8VoKOUvo0nlxlueeBgyKD1YciEyFt1Rovw2MXvXRt5TE2q"
+href = "urn:sha384:H3lZN1fVtiDvyLZlIEvTrEK71FtGj86CmAQU9UXA5XRGg1fnr3IG5bVBunGQBRlm"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Martin Cathrae (Martin Cathrae)"
+author_url = "http://www.flickr.com/people/34067077@N00/"
+original_url = "http://www.flickr.com/photos/34067077@N00/2488644619"
+title = "Vegetables"
 [[cards.sides]]
 type = "empty"
 
@@ -255,8 +263,17 @@ text = "carne"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:12ZZIxVl3ih5rL5bQko7vFHsQ2yb5zWlDE7ezzq51e0nh0VVpMWC1NgfHln0vQwU"
+href = "urn:sha384:cpQ5Bq8ntEkfY7jNjYRKN0ai0va04QyZftiHnSZYtD9kcMV0Kh6M80YrCRR1OcPy"
+mime_type = "image/jpeg"
+rotation = "270"
+type = "picture"
 
+[cards.sides.credit]
+author = " (NatalieMaynor)"
+author_url = "http://www.flickr.com/people/93178668@N00/"
+original_url = "http://www.flickr.com/photos/93178668@N00/3802472536"
+title = "Melon Meat"
 [[cards.sides]]
 type = "empty"
 
@@ -267,8 +284,16 @@ text = "pasta"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:L9dogi5O7JK0HxdJbWaPr6q7jOssEnPqOHVihmfy0kGQEP2I0PEazb8Vz3EcLoSk"
+href = "urn:sha384:NwMyID7sAtcbqkXwfVfGaWI0xCPBJ1ds8JuYsWTlRWgb_E_I9IrrNfE7TmN5EwJO"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (flavorrelish)"
+author_url = "http://www.flickr.com/people/48263346@N04/"
+original_url = "http://www.flickr.com/photos/48263346@N04/4530129556"
+title = "portabella and pasta"
 [[cards.sides]]
 type = "empty"
 
@@ -279,8 +304,16 @@ text = "pan"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WH0vU21dYPQy4bOdsWgMlGoD7wxkpUzsOLAObUyr0dZhzQZs3RkgXtJ_xJ181Cmo"
+href = "urn:sha384:2bo0CHBdrQMxdliJZNCIGjnxd5PUQzVCBfQu2BGnlvlZkU5o8jaZjw_2G9rOpuLw"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (rprata)"
+author_url = "http://www.flickr.com/people/15156805@N00/"
+original_url = "http://www.flickr.com/photos/15156805@N00/4126611734"
+title = "Bread"
 [[cards.sides]]
 type = "empty"
 
@@ -291,8 +324,16 @@ text = "arroz"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7uLR7GFueKsQ2ktS81U8IevpJ4ccm4vpIGeNzNXLi4NJFsVe0m5Tfzsh16zBZrpP"
+href = "urn:sha384:p95QitfIJS2g62fgT3LwQvF32-6PAWIOv2cMq-CioNx2rxgyoBmOnsvoqadUnEcQ"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (cookbookman17)"
+author_url = "http://www.flickr.com/people/58545726@N02/"
+original_url = "http://www.flickr.com/photos/58545726@N02/6121427720"
+title = "Basmati Rice"
 [[cards.sides]]
 type = "empty"
 
