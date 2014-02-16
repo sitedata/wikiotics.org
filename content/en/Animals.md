@@ -1,6 +1,6 @@
 +++
 title = "Animals"
-contributors = [ "140.247.98.18", "83.189.158.33", "Laurent", "garrison",]
+contributors = [ "140.247.98.18", "169.231.51.170", "83.189.158.33", "Laurent", "garrison",]
 dividers = [ 4, 8, 12,]
 headings = [ "word", "picture",]
 tags = [ "animals", "target-language:en",]
@@ -8,7 +8,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "snake"
+text = "Snake"
 type = "phrase"
 
 [[cards.sides]]
@@ -25,7 +25,7 @@ title = "Snake"
 [[cards]]
 
 [[cards.sides]]
-text = "hawk"
+text = "Hawk"
 type = "phrase"
 
 [[cards.sides]]
@@ -42,7 +42,7 @@ title = "Bird of Prey"
 [[cards]]
 
 [[cards.sides]]
-text = "fowl"
+text = "Rooster"
 type = "phrase"
 
 [[cards.sides]]
@@ -59,7 +59,7 @@ title = "Jungle Fowl"
 [[cards]]
 
 [[cards.sides]]
-text = "fish"
+text = "Fish"
 type = "phrase"
 
 [[cards.sides]]
@@ -76,7 +76,7 @@ title = "Blue Fin"
 [[cards]]
 
 [[cards.sides]]
-text = "cow"
+text = "Cow"
 type = "phrase"
 
 [[cards.sides]]
@@ -93,7 +93,7 @@ title = "Young Cow in White Horse Wood Country Park"
 [[cards]]
 
 [[cards.sides]]
-text = "horse"
+text = "Horse"
 type = "phrase"
 
 [[cards.sides]]
@@ -110,7 +110,7 @@ title = "Horse"
 [[cards]]
 
 [[cards.sides]]
-text = "goat"
+text = "Goat"
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +127,7 @@ title = "Goat"
 [[cards]]
 
 [[cards.sides]]
-text = "pig"
+text = "Pig"
 type = "phrase"
 
 [[cards.sides]]
@@ -144,7 +144,7 @@ title = "Pig"
 [[cards]]
 
 [[cards.sides]]
-text = "rat"
+text = "Rat"
 type = "phrase"
 
 [[cards.sides]]
@@ -161,7 +161,7 @@ title = "Rats at the park"
 [[cards]]
 
 [[cards.sides]]
-text = "cat"
+text = "Cat"
 type = "phrase"
 
 [[cards.sides]]
@@ -178,7 +178,7 @@ title = "Cat"
 [[cards]]
 
 [[cards.sides]]
-text = "dog"
+text = "Dog"
 type = "phrase"
 
 [[cards.sides]]
@@ -195,7 +195,7 @@ title = "Socks the dog"
 [[cards]]
 
 [[cards.sides]]
-text = "sheep"
+text = "Sheep"
 type = "phrase"
 
 [[cards.sides]]
@@ -212,7 +212,7 @@ title = "Sheep"
 [[cards]]
 
 [[cards.sides]]
-text = "monkey"
+text = "Monkey"
 type = "phrase"
 
 [[cards.sides]]
