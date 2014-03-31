@@ -1,6 +1,6 @@
 +++
 title = "school items"
-contributors = [ "katyauchter",]
+contributors = [ "katyauchter", "katyauchter@gmail.com",]
 dividers = [ 4, 8, 12, 16,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "tiza"
+text = "Es la tiza."
 type = "phrase"
 
 [[cards.sides]]
