@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Él niño quiere  (querer)"
+text = "El niño quiere  (querer)"
 type = "phrase"
 
 [[cards.sides]]
@@ -147,7 +147,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "ir"
+text = "Él hombre va. (ir)"
 type = "phrase"
 
 [[cards.sides]]
@@ -167,7 +167,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "lectura / leer"
+text = "El niño lee.  (leer)"
 type = "phrase"
 
 [[cards.sides]]
@@ -187,7 +187,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "ver la televisión"
+text = "La niña mira la televisión.  (mirar)"
 type = "phrase"
 
 [[cards.sides]]
@@ -207,7 +207,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "dibujar"
+text = "Los niños dibujen con tiza."
 type = "phrase"
 
 [[cards.sides]]
@@ -227,7 +227,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "escribir"
+text = "El padre escribe una carta."
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +247,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "vegetales"
+text = "Hay muchos vegetales."
 type = "phrase"
 
 [[cards.sides]]
@@ -267,7 +267,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "carne"
+text = "El carne es rojo."
 type = "phrase"
 
 [[cards.sides]]
@@ -288,7 +288,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "pasta"
+text = "Es la pasta."
 type = "phrase"
 
 [[cards.sides]]
@@ -308,7 +308,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "pan"
+text = "Es el pan."
 type = "phrase"
 
 [[cards.sides]]
@@ -328,7 +328,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "arroz"
+text = "La arroz es blanco."
 type = "phrase"
 
 [[cards.sides]]
@@ -348,7 +348,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "huevos"
+text = "Los huevos son marrón."
 type = "phrase"
 
 [[cards.sides]]
@@ -368,7 +368,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "fruta"
+text = "Hay muchas frutas."
 type = "phrase"
 
 [[cards.sides]]
@@ -388,7 +388,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "mercado"
+text = "¿Dónde está el mercado?"
 type = "phrase"
 
 [[cards.sides]]
