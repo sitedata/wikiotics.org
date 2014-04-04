@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "El niño quiere  (querer)"
+text = "El niño quiere jugar. (querer)"
 type = "phrase"
 
 [[cards.sides]]
@@ -147,7 +147,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Él hombre va. (ir)"
+text = "Él hombre se va. (ir)"
 type = "phrase"
 
 [[cards.sides]]
@@ -267,7 +267,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "El carne es rojo."
+text = "La carne es roja."
 type = "phrase"
 
 [[cards.sides]]
@@ -288,7 +288,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Es la pasta."
+text = "Es pasta."
 type = "phrase"
 
 [[cards.sides]]
@@ -308,7 +308,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Es el pan."
+text = "Es pan."
 type = "phrase"
 
 [[cards.sides]]
@@ -328,7 +328,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "La arroz es blanco."
+text = "El arroz es blanco."
 type = "phrase"
 
 [[cards.sides]]
