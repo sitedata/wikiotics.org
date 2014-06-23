@@ -1,6 +1,6 @@
 +++
 title = "test215"
-contributors = []
+contributors = [ "207.237.164.232",]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:en",]
 type = "lesson"
@@ -21,7 +21,10 @@ author_url = "http://www.flickr.com/people/44242222@N07/"
 original_url = "http://www.flickr.com/photos/44242222@N07/12999179185"
 title = "Red and Lord Helix, A Portrait"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9VlIpC0MmwDVDogxUWm1vfg7qnLuhdlZna9t0_wHQxxDijHSzv7C4BvsFiRddnMS"
+href = "urn:sha384:MYBZX3yhPwh9MOQ-O2FKhBUez5Vuva1Jy9qazuu9HsPEsfGLDv5s1251gzOJozna"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
