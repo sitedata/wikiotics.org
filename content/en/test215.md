@@ -21,8 +21,8 @@ author_url = "http://www.flickr.com/people/44242222@N07/"
 original_url = "http://www.flickr.com/photos/44242222@N07/12999179185"
 title = "Red and Lord Helix, A Portrait"
 [[cards.sides]]
-blob_href = "urn:sha384:p4d152zCDkJbyg1_fJCp6ikmlUY_AMBKWbvzdfhmI8SehiwQ9Dr_DBA6xjYdjPyo"
-href = "urn:sha384:NbOug5c11O0PX-eyHrDglJx5kKcSo7rFydVyw1hIXLIhgAboD4IoksV-N6zK4k26"
+blob_href = "urn:sha384:rry0dqU3m_NJwz49L5M9xaIW28-eJ4NC89bTSNRw7at1n9lVCaqOw8DCp3aNScux"
+href = "urn:sha384:7RuB2VzHoPrMdO9r6ikz2gftL04duBn5pIzEovCfI_3_JUIRgSUmK1UaTuh_G47c"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -35,10 +35,7 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:rry0dqU3m_NJwz49L5M9xaIW28-eJ4NC89bTSNRw7at1n9lVCaqOw8DCp3aNScux"
-href = "urn:sha384:7RuB2VzHoPrMdO9r6ikz2gftL04duBn5pIzEovCfI_3_JUIRgSUmK1UaTuh_G47c"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
