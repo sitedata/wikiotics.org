@@ -21,8 +21,8 @@ author_url = "http://www.flickr.com/people/44242222@N07/"
 original_url = "http://www.flickr.com/photos/44242222@N07/12999179185"
 title = "Red and Lord Helix, A Portrait"
 [[cards.sides]]
-blob_href = "urn:sha384:S_Cb8oCpLv_EbImxLaTGLwbenkBvA5MgouFvApvsaJvPradHhxMuanyfHE95w37I"
-href = "urn:sha384:Q-erGcu6A_W-EzZwPKPRift8AundGlJXj0bR5w5MJhLq348kR_-CmZSm3b7Eh5cW"
+blob_href = "urn:sha384:o6NygNLgVpZPUJf63sUdAo6Y7bhDYKn9ER80GutKxVA917rST8qwtSb6U0M6ii1y"
+href = "urn:sha384:oy8GlzErQL_JRSPf4ohqEeCncs16ot0aRI6w7wMJg133y2xwQsMdUg2UkIi5fy9g"
 mime_type = "audio/ogg"
 type = "audio"
 
