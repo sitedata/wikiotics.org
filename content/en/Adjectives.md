@@ -1,6 +1,6 @@
 +++
 title = "Adjectives"
-contributors = []
+contributors = [ "katyauchter",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -567,7 +567,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Ellos tienen hambre."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -592,6 +593,18 @@ author = "Ernst Moeksis (Ernst Moeksis)"
 author_url = "http://www.flickr.com/people/16961193@N06/"
 original_url = "http://www.flickr.com/photos/16961193@N06/2267862256"
 title = "Big Fun"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ella tiene sueño."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
