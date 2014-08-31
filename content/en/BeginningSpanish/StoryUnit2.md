@@ -103,7 +103,10 @@ text = "Mi mama vino con su papa y limpiaba hoteles.\nMi mama regreso a México.
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:os1qcaVYdmZ3F37mfDLmrz8zup1S9rKFSjtMROM0dF5ZeTlrI8tWU3c8bfc_9Xop"
+href = "urn:sha384:MamRalCWMQjcnYGwLesyvQFcOA3j4wOedvKhlqVR2SfWv9vIaNEucowj5niFV1pT"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
