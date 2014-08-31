@@ -264,8 +264,16 @@ text = "imán "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UxuvuHTQD555zOafvbbPdkM9wBh-Q66irGlS3j_4Gocy1woqy8bh20jF4trNPlL_"
+href = "urn:sha384:NV1JzHzGrzKBUZLpGLFinwcZdhx0fIXk2tlGHqPuTLhaIUVvGJBJbQfujZ_ZmsBv"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "AJ Cann (AJC1)"
+author_url = "http://www.flickr.com/people/47353092@N00/"
+original_url = "http://www.flickr.com/photos/47353092@N00/6779302210"
+title = "Magnet"
 [[cards.sides]]
 blob_href = "urn:sha384:A4rbHaMbqd2lO2CGGU0ZhxZCWkZ-aylpsfJKEr5FrVxyJ21QNPcM8Kf9TyPKiHHi"
 href = "urn:sha384:HprnjrpXvmZbLwQxO2ekLsotXmOU5ozFzg8r7OrPE7NXdL8TBSbb_zFzWhPFe-6p"
@@ -279,8 +287,16 @@ text = "jirafa"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kRDaHVmghcALyw_uV8uPB73ofGp8lU8Hy7hcSui1E138pTu8rGmsfRR9Fan0Sma8"
+href = "urn:sha384:LvoieS4CQWP42qwZKIQCbqmjnuNi4MNV27Rf0zds3wgvaQ_6Y2gs8PFm_SdYnhcl"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Martin Pettitt (Martin Pettitt)"
+author_url = "http://www.flickr.com/people/95012874@N00/"
+original_url = "http://www.flickr.com/photos/95012874@N00/2680400121"
+title = "Giraffe"
 [[cards.sides]]
 blob_href = "urn:sha384:RejAKVDPPMj6a8kU8bud18XOxn4FW1hVPmPMNN4oFvzxgKh1imVVKiFS-wb8VX9m"
 href = "urn:sha384:uw3DjsPz1Nby7P8plZDtwXL13ZH15lotpJgOhX12chqn4ImpKS3DbSYheiB37gJm"
@@ -294,8 +310,16 @@ text = "koala "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mauTCvSCQtQK9zonm1g3R43-bFBjopavVKDQuzlIbUBMM5Nb2C8b2Aantf5bcIpY"
+href = "urn:sha384:-AmI24zKZW_9ZpdyPOOOJJLFLly4e6_HrlNxjfD4qkEmhKrZTRmq92hQ_VBSqpKo"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Frankzed)"
+author_url = "http://www.flickr.com/people/19813089@N00/"
+original_url = "http://www.flickr.com/photos/19813089@N00/9688977793"
+title = "Koala"
 [[cards.sides]]
 blob_href = "urn:sha384:rcgHf_w-2culHM10s9p3HEc8TgNT-MzfkJRS8RrE6FYeFooYJeqwgftzFxqG0-6-"
 href = "urn:sha384:SJVVDYZZqNaJN201j3YrLpzNoQ4xpp3I2nM5bV6VFGFl6QC7Yp7MSr5kxl9PmNKW"
@@ -309,8 +333,16 @@ text = "luna"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QgiA2va4BHMqMNNMWLpEVb8TxmWDDdlY0jc-vWLLZSiSTQa1cWxWR7KD0O6gbGqN"
+href = "urn:sha384:ewyOlDFUBMNQ0rg-AjpQqYsUhkhEDbtUOJfKh_o6MbgWfLN7Gk_33sFWPefrqv2b"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Kevin Gill (Kevin M. Gill)"
+author_url = "http://www.flickr.com/people/53460575@N03/"
+original_url = "http://www.flickr.com/photos/53460575@N03/14703340467"
+title = "Super Moon - August 10 2014"
 [[cards.sides]]
 blob_href = "urn:sha384:o9aeYmFRa0sBLvxFl_8gZl-kqBfxi38mGdXak8I5pJIgk6cG8lul8hdiMjNWm6WL"
 href = "urn:sha384:HI1wlZUSJQVNL_h_l-s2doF5H8VkQMPX5lRhMgwC56k7JpLRqj1mfZIhOo5uf7Oo"
@@ -324,8 +356,16 @@ text = "llave"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KAKH5Rlb0IOEavhBjuKYk_DdJcc2kxPIITn1sNigGyW4P6RYZoXVUhqwBeJ_CIzX"
+href = "urn:sha384:GSEHcNhBu4SfrQnET6IA33FW37wknPR2Bl_tNHMQ10A17o_BCV1ovY_MQHDADoCG"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Brenda Clarke (~Brenda-Starr~)"
+author_url = "http://www.flickr.com/people/37753256@N08/"
+original_url = "http://www.flickr.com/photos/37753256@N08/3509344402"
+title = "Key 3"
 [[cards.sides]]
 blob_href = "urn:sha384:O3-U2_qjbwM4TV0E3wnjE-tOBTmj6I2UwqPWy3sysWVmLKgrFGqDxxvSy68gL135"
 href = "urn:sha384:7NxXDZq8lK4Kuw-_qvWR1Oc4OvibLZ7hTUCa8IsuaYIIMz951yAkpdWK5gcMh2al"
@@ -339,8 +379,16 @@ text = "mano"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:2uTvwkqqjZEngTyMFBs3wiNykucMSEvvMwqsDqOr7qmaGvBhpf5Zaa6C9tkYGSQo"
+href = "urn:sha384:VaOSXSmvHQdqJYOQ2EhbkiWcJks_1E5sajpwNLqpWjqpn4J2XNnS-tLp96ZpMSeN"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Daren Nkomo (daren.nkomo)"
+author_url = "http://www.flickr.com/people/124043266@N05/"
+original_url = "http://www.flickr.com/photos/124043266@N05/14642652317"
+title = "A Part of Me"
 [[cards.sides]]
 blob_href = "urn:sha384:CMvdHiYUmKMD3fYVfI241CNL7oTDBsY1kakKqK9cNsvZLZhPa7P0qxjshow9FgDT"
 href = "urn:sha384:RxMAUZ2WblM3byLZrM-p3XL40A8P1i7jZ9ONjH_tMurbYtYMbQnVAearq21qK3Fz"
@@ -354,8 +402,16 @@ text = "nido"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LZInqswfT7fxXbN5hV2Oc1dY8pNd1DrRRql8T9-3mLEbr6BbHSxb8tw6KsnggG73"
+href = "urn:sha384:xn60Bt4L68sALeAquqnTKUFsjqdvHHhWVc3_YQBBL1Y8eSda2Vg2y2sOex135yGX"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "USFWS Mountain-Prairie (USFWS Mountain Prairie)"
+author_url = "http://www.flickr.com/people/51986662@N05/"
+original_url = "http://www.flickr.com/photos/51986662@N05/11856952175"
+title = "Mallard Nest"
 [[cards.sides]]
 blob_href = "urn:sha384:Q8OqhQc04xKsJsDGExeMCH7T3XtNHmXjQ-hF96tdkJnshkylpaTo-cXwjX13FyRm"
 href = "urn:sha384:f8xReaJdQBOEN45e4D112aWUANglwWPL90pARKohsld6ueXGr2chKk2cM95sabPB"
