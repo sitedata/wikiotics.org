@@ -131,7 +131,10 @@ text = "Mi papa fue a visitar a su familia en México y en la plaza miro a mi ma
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qze6nbfdVDIH8JzdS2FYdcNCk-laRMsr2oK-QA1dGc5dhOyY6nJ4-ncQbhIENgsc"
+href = "urn:sha384:1F8ueEqPrgWRA7gb6yUmUw1m_Ys6c-MwzTLd0Vlf587-nEr0dSWNhOgTUuWsBoD7"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
