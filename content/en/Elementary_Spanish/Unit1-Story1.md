@@ -26,7 +26,10 @@ text = "Ay mucha sangre. Ah muchísima sangre. La sangre cae como una cascada.\n
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:OAs6dVn8hSfVJFaCyeHF-OFUh_-PLxKtd63BijIyVLRLe13kzxQcdW1IGdIFFXCC"
+href = "urn:sha384:zsAMNYCnbS2OvXnCWAxTO6o7yyESZkg-keyYJpNc74_JWeBfYwLfHerEkbSZ6fkO"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
@@ -38,7 +41,10 @@ text = "Mi papa me abraza pero todavía me duele. <<Ay, princesa. Estas bien. Na
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YYKC3MuzZJyH3kGQjXtAGMACP5rTCtkT7TFyIiW65P7p7og40V-fQW4KNANosgZb"
+href = "urn:sha384:MGn28Skl2ub3S98OIOHhqv1coFCf_puQsb_8eSKshA98mMVm43WhKaWNAT93Dvk0"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
@@ -50,7 +56,10 @@ text = "Mi papa me quita mi casco y me enseña una palatina reflectante. <<Mira,
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nNjX-9R9LavpiNATnhpejKqHdXji8_wnUL04CuwbMCSYiE1MbkpEZE4wI06n22VE"
+href = "urn:sha384:SHJaPdWYVGX8Gr96LbzgWnna6NM0LhaIfo-7P1wwjBh5JsK2e8AKSUnTcbGInZM2"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
@@ -62,7 +71,10 @@ text = "La cascada de lagrimas para. La sangre no para. <<¡¡¡¡¡¡AMA!!!!!!!
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YBAoolqhxuHj7Vxt6xnirYqa4h7ZCiB9oFjnm_UkdXtWTRuq_hnzQb6YeJfyO_Es"
+href = "urn:sha384:vbEc8WoOA1ZomEt3We6lwRpg-otaUKYUFvIe6UeeNDF6OX5TI0zrgVUoziGykaAy"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
@@ -74,7 +86,10 @@ text = "Mi mama corre hacia mi. Me da un abrazo. "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:V0u0m-Qz1maXOdqx7pvQENDbrLHJZ_WZVp8Ww-kUrvfvkrY86He-HK4L-TZCkOwo"
+href = "urn:sha384:q-4p0g4CzR5jsVFB2wTdYXJfQWPs6JXSTQOaKG9He5TTAOiqz3CXP0SDtU9hEXoM"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
@@ -86,7 +101,10 @@ text = "Ella pone su mano plana sobre mi boca. Canta, <<Sana, sana, colita de ra
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DDTF4OM74KGzUlSM-Rb-ulG-l2srQpxd3tJR1C4RLpt8OxIQr4-kFLjxoTX4gfyx"
+href = "urn:sha384:cDPdSM_iJca_Ci88hq36Z2Q1L5yfV-9EjAEcU3LJVDlAxzOrp44BizOW7ixiTxl_"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
