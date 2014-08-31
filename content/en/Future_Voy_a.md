@@ -1,6 +1,6 @@
 +++
 title = "Future Voy a"
-contributors = []
+contributors = [ "katyauchter",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -52,7 +52,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Los estudiantes van a aprender formulas en la clase de quimica."
+text = "Los estudiantes van a aprender formulas en la clase de química."
 type = "phrase"
 
 [[cards.sides]]
