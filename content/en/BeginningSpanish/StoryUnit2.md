@@ -10,7 +10,10 @@ text = "Yo nací en el Este de Los Ángeles. Aunque está en los estados unidos,
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ITig0HoTwn3C5yrjvJ1IwOXVF13kmhv9HlyA5VCn3tb4QQlS03WTawDn2xsvjngI"
+href = "urn:sha384:zCQAF3uaUBasker-MhfTIW_bVD-Eboj5V6n_l3KqsmlgwuwQJoomJB6P0zsTnTu3"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
