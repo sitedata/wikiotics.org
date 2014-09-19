@@ -1,6 +1,6 @@
 +++
 title = "Unit1-Story1"
-contributors = [ "ian", "katyauchter",]
+contributors = [ "108.27.64.127", "ian", "katyauchter",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -17,7 +17,10 @@ rotation = "180"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pDubGVdJ6AKNnEEnwE5XpmPy1a-wATRTVVJqhd9HpPuBOcOiNOIv86SOzlGxlt2F"
+href = "urn:sha384:XhYlZ3ECexzdMt0qCXIOoOLyxF0Es1YnPIxAglSWj_RyERr9H76ioMbEfMqEevYv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
