@@ -1,6 +1,6 @@
 +++
 title = "Unit1-NounGame1"
-contributors = [ "ian", "katyauchter",]
+contributors = [ "172.56.34.116", "ian", "katyauchter",]
 dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -51,16 +51,16 @@ text = "La sangre"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:-bGcO-IEOwvHBgwrsrCO5BvUa7Lqk1Bp5AQ6rjbGzyeKV56nidd9-zuDmJ5P6nlK"
-href = "urn:sha384:j7tz55rzNhHF8WGzpYP2-h1VJbV8Kse5hLcZDPvOjaGfmXZesqUy_Q_aZkFlLrix"
+blob_href = "urn:sha384:ykDQM2_6OiWkoP6AMaHTRNDMLNIC2uZNKBQmCoSdWgSmFXQyn4VZ7ez1UeklyiDQ"
+href = "urn:sha384:LG1mQNdGMHwnB61hyHyPCpgzehTuhZP1jC2Ecs98zSKOOfyWbpUBaDuiNs_ZP3-2"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Alden Chadwick (aldenchadwick)"
-author_url = "http://www.flickr.com/people/8161563@N04/"
-original_url = "http://www.flickr.com/photos/8161563@N04/4294019174"
-title = "Reflection in Blood"
+author = " (Monsieur Gordon)"
+author_url = "http://www.flickr.com/people/21368035@N05/"
+original_url = "http://www.flickr.com/photos/21368035@N05/2110755073"
+title = "Blood In The Sink"
 [[cards.sides]]
 type = "empty"
 
