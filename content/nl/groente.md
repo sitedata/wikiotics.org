@@ -1,7 +1,6 @@
 +++
 title = "groente"
-contributors = []
-dividers = [ 4, 8, 12,]
+contributors = [ "wed23",]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:nl",]
 type = "lesson"
@@ -203,7 +202,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "doperwten"
+text = "erwten"
 type = "phrase"
 
 [[cards.sides]]
@@ -283,20 +282,20 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "witte kool"
+text = "kool"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:66GbqblMDXBYm9cOZWXZivi9q-WJ8ya-5a2I3LL1nebKxfQAzcWv7Z-RQuB3Qo_g"
-href = "urn:sha384:fHkWT8XvYr1axJiNAkBu9OT3XxzGNRcA5PbYKpl90qmu6x4l-EtpTDb8nL3EYdP5"
+blob_href = "urn:sha384:gfu-OEA7YwiHqVvzjrVmPpvwbjMl1EAYis0DYN3k8bJQj6SsXxHUyICzynmqB6Jo"
+href = "urn:sha384:dXruwwvteI2JOzJfL7f-mN2gd_CANNVa0CXNjKiC30XhFqucVfwg8whk8n2Vd8tm"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Market Manager (La Grande Farmers' Market)"
-author_url = "http://www.flickr.com/people/37884983@N03/"
-original_url = "http://www.flickr.com/photos/37884983@N03/3724217288"
-title = "Cabbages"
+author = " (Fruitnet.com)"
+author_url = "http://www.flickr.com/people/11191108@N04/"
+original_url = "http://www.flickr.com/photos/11191108@N04/2883356498"
+title = "White cabbage"
 [[cards.sides]]
 type = "empty"
 
@@ -319,10 +318,5 @@ original_url = "http://www.flickr.com/photos/53133240@N00/293717280"
 title = "leeks"
 [[cards.sides]]
 type = "empty"
-
-[[interactions]]
-answer = 1
-prompt = [ 0, 2,]
-type = "choice"
 
 +++
