@@ -1,27 +1,18 @@
 +++
 title = "Modal verbs"
-contributors = []
-headings = [ "Phrase", "Picture", "Audio",]
+contributors = [ "wed23",]
+headings = [ "Phrase", "modal verbs", "Audio",]
 tags = [ "target-language:nl",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Jan _____ Nederlands spreken"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
+text = "KAN"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -29,10 +20,12 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "De studenten _____ goed Nederlands spreken "
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "KUNNEN"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -40,10 +33,25 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Maarten _____ huiswerk doen"
+type = "phrase"
+
+[[cards.sides]]
+text = "MOET"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jullie _____ in Amsterdam wonen"
+type = "phrase"
+
+[[cards.sides]]
+text = "WILLEN"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
