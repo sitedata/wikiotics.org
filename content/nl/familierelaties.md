@@ -1,8 +1,8 @@
 +++
 title = "familierelaties"
-contributors = []
+contributors = [ "128.59.76.180",]
 dividers = [ 4, 8, 12,]
-headings = [ "Phrase", "Picture", "Audio",]
+headings = [ "Phrase", "Dutch", "Audio",]
 tags = [ "target-language:nl",]
 type = "lesson"
 [[cards]]
@@ -214,8 +214,8 @@ type = "phrase"
 type = "empty"
 
 [[interactions]]
-answer = 1
-prompt = [ 0, 2,]
+answer = 0
+prompt = [ 1, 2,]
 type = "choice"
 
 +++
