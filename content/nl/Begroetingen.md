@@ -194,7 +194,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "If you share a common language with your English partner, this is how you would ask them how to say something in Dutch. For example:"
+text = "You could for instance ask:"
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +211,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say \"Bonjour\"?"
+text = "How do you say \"hello\" in Dutch?"
 type = "phrase"
 
 [[cards.sides]]
@@ -245,7 +245,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello."
+text = "'Hallo' or 'Hoi'."
 type = "phrase"
 
 [[cards.sides]]
@@ -279,7 +279,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thank you."
+text = "Bedankt!"
 type = "phrase"
 
 [[cards.sides]]
@@ -296,7 +296,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thank you."
+text = "Dank je wel!"
 type = "phrase"
 
 [[cards.sides]]
@@ -330,7 +330,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "You're welcome."
+text = "Graag gedaan."
 type = "phrase"
 
 [[cards.sides]]
@@ -347,7 +347,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "You're welcome."
+text = "Graag gedaan."
 type = "phrase"
 
 [[cards.sides]]
@@ -381,7 +381,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say \"Boujour\"?"
+text = "How do you say \"Hello\"?"
 type = "phrase"
 
 [[cards.sides]]
@@ -398,7 +398,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Hello\"."
+text = "\"Hallo\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -415,7 +415,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thank you."
+text = "Bedankt!"
 type = "phrase"
 
 [[cards.sides]]
