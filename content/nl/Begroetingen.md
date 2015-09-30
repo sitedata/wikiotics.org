@@ -41,7 +41,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "One common greeting in Dutch is:"
+text = "One common way of greeting someone in Dutch is:"
 type = "phrase"
 
 [[cards.sides]]
@@ -58,7 +58,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello."
+text = "Hallo."
 type = "phrase"
 
 [[cards.sides]]
@@ -75,7 +75,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Let's hear it again."
+text = "For instance, when you want to greet your friend Piet you can say:"
 type = "phrase"
 
 [[cards.sides]]
@@ -92,7 +92,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello."
+text = "Hallo Piet!"
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "To which the correct response is also:"
+text = "An informal response to this is:"
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +126,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello."
+text = "Hoi!"
 type = "phrase"
 
 [[cards.sides]]
