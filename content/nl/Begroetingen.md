@@ -245,7 +245,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "'Hallo' or 'Hoi'."
+text = "'Hallo' ; 'Hoi'."
 type = "phrase"
 
 [[cards.sides]]
