@@ -1,8 +1,8 @@
 +++
 title = "nabytek"
-contributors = []
+contributors = [ "128.59.77.94",]
 headings = [ "Phrase", "Picture", "Audio",]
-tags = [ "target-language:wo",]
+tags = [ "target-language:cs",]
 type = "lesson"
 [[cards]]
 
