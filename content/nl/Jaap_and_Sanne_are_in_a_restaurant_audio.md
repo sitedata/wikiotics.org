@@ -2,7 +2,7 @@
 title = "Jaap and Sanne are in a restaurant audio"
 contributors = [ "160.39.198.99", "83.163.136.111", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "English",]
-tags = [ "target-language:nl",]
+tags = [ "source-language:en", "target-language:nl",]
 type = "lesson"
 [[cards]]
 
