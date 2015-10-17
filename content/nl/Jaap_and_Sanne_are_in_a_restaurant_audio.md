@@ -18,7 +18,7 @@ text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
-text = "Good evening!"
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -38,7 +38,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "Good evening, may we have a table for two by the window?"
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -58,7 +58,7 @@ text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
-text = "Of course, please take a seat."
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -78,7 +78,7 @@ text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
-text = "Here is the menu."
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -98,7 +98,7 @@ text = "Jaap/Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "Thanks."
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -118,7 +118,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "What a large selection!"
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -137,7 +137,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "What are you having, Sanne?"
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -156,7 +156,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "I feel like a burger. You?"
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -176,7 +176,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "I don't want meat tonight. I might have the pasta with vegetables."
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -196,7 +196,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "Yeah, that sounds good too, but I am still having the burger."
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -216,7 +216,7 @@ text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
-text = "Did you make your selection?"
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -236,7 +236,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "Tthe burger with fries for me please."
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -256,7 +256,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "And the pasta with vegetables for me."
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -276,7 +276,7 @@ text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
-text = "Would you like to start with a salad?"
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -296,7 +296,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "Shall we share a salad, Jaap?"
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -316,7 +316,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "Yes, good idea. A large salad please."
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -336,7 +336,7 @@ text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
-text = "Anything to drink?"
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -356,7 +356,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "A glass of red wine for me please."
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -376,7 +376,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "And a beer for me please."
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -393,7 +393,7 @@ text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
-text = "Thanks. I'll get that to you straightaway."
+text = ""
 type = "phrase"
 
 [[cards]]
