@@ -1,13 +1,13 @@
 +++
 title = "Jaap and Sanne are in a restaurant audio"
-contributors = [ "160.39.198.99", "83.163.136.111", "ian", "wed23",]
+contributors = [ "100.2.164.232", "160.39.198.99", "83.163.136.111", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "English",]
 tags = [ "source-language:en", "target-language:nl",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Goedenavond!"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -24,7 +24,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Goedenavond, mogen wij een tafel voor twee aan het raam?"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -44,7 +44,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Natuurlijk, gaat u zitten."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -64,7 +64,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hier hebt u het menu."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -84,7 +84,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Dank u. "
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -104,7 +104,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Er is veel keuze!"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -124,8 +124,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Wat neem jij, Sanne?"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:f26cft4K2bIZehyFNMDSlYxTA5wAzfi4G4_kmq7sF201j3kzra_9FSzN_oz2eoFG"
@@ -144,8 +143,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Ik heb zin in een hamburger. En jij?"
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 blob_href = "urn:sha384:hEB8HCimVyakiHC2qgNHQRfHPlXOdpeEMjaBOpdSUUg7Ewo9ymMZGrl7TP0UwNx5"
@@ -164,7 +162,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Ik wil geen vlees vanavond. Ik neem misschien de pasta met groente."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -184,7 +182,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Ja, dat klinkt ook lekker, maar ik neem toch de hamburger."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -204,7 +202,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hebt u een keuze kunnen maken?"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -224,7 +222,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Voor mij graag de hamburger, met frites."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -244,7 +242,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "En voor mij de pasta met groente."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -264,7 +262,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Wilt u een salade vooraf?"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -284,7 +282,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Zullen we een salade delen, Jaap?"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -304,7 +302,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Ja, goed idee. Doet u maar een grote salade."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -324,7 +322,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Nog iets te drinken?"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -344,7 +342,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Voor mij graag een glas rode wijn."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -364,7 +362,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "En voor mij een biertje."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -384,7 +382,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Dank u. Ik breng u dat meteen."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
