@@ -1,6 +1,6 @@
 +++
 title = "Jasmin and Sanja are in a restaurant"
-contributors = [ "128.59.76.180", "160.39.198.99", "83.163.136.111", "ian", "wed23",]
+contributors = [ "128.59.37.53", "128.59.76.180", "160.39.198.99", "83.163.136.111", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "English",]
 tags = [ "source-language:en", "target-language:nl",]
 type = "lesson"
@@ -34,7 +34,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Jaap"
+text = "Jasmin"
 type = "phrase"
 
 [[cards.sides]]
@@ -94,7 +94,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Jaap/Sanne"
+text = "Jasmin/Sanja"
 type = "phrase"
 
 [[cards.sides]]
@@ -114,7 +114,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Sanne"
+text = "Sanja"
 type = "phrase"
 
 [[cards.sides]]
@@ -134,11 +134,11 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Jaap"
+text = "Jasmin"
 type = "phrase"
 
 [[cards.sides]]
-text = "What are you having, Sanne?"
+text = "What are you having, Sanja?"
 type = "phrase"
 
 [[cards]]
@@ -154,7 +154,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Sanne"
+text = "Sanja"
 type = "phrase"
 
 [[cards.sides]]
@@ -174,7 +174,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Jaap"
+text = "Jasmin"
 type = "phrase"
 
 [[cards.sides]]
@@ -194,7 +194,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Sanne"
+text = "Sanja"
 type = "phrase"
 
 [[cards.sides]]
@@ -234,7 +234,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Sanne"
+text = "Sanja"
 type = "phrase"
 
 [[cards.sides]]
@@ -254,7 +254,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Jaap"
+text = "Jasmin"
 type = "phrase"
 
 [[cards.sides]]
@@ -294,7 +294,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Sanne"
+text = "Sanja"
 type = "phrase"
 
 [[cards.sides]]
@@ -314,7 +314,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Jaap"
+text = "Jasmin"
 type = "phrase"
 
 [[cards.sides]]
@@ -354,7 +354,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Jaap"
+text = "Jasmin"
 type = "phrase"
 
 [[cards.sides]]
@@ -374,7 +374,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Sanne"
+text = "Sanja"
 type = "phrase"
 
 [[cards.sides]]
