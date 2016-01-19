@@ -202,7 +202,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0KsTEnjZ5gaQ2Qvs3HsKIEniK2CPROJAlHXW9DXQYsfCPLwk3ssrrMNXek6ZoWSm"
+href = "urn:sha384:VLf8LNna0EOp_wc53ifCtYgDwbG5IcmklyOwvAmebwtkT76S1Nzu_2_0Lfxwg-Ex"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -222,7 +225,10 @@ author_url = "http://www.flickr.com/people/46724642@N07/"
 original_url = "http://www.flickr.com/photos/46724642@N07/8637994027"
 title = "1950s 'Water Rose' brown, blue and green floral dress with ric rac trim"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xuw7F5MwUR9FGYoKpjZuSc-mGjmCsphQorTEAOMCxWoOTwGb0-yVIfSgAycH3khK"
+href = "urn:sha384:5uuMHMkWJ1LXS-9jrondzTx4W2F-4o8PO0abigocApw8U1_X5ZWsNJeUXTKRuhn3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -262,7 +268,10 @@ author_url = "http://www.flickr.com/people/46724642@N07/"
 original_url = "http://www.flickr.com/photos/46724642@N07/8873314666"
 title = "1970s 'Sheer Scarlett' red secretary blouse by Renoma of Melbourne"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kOrRGaLDuL0A8uSU1RZK3DGtrxIuB_8y0QnxTHdUX1EMh26RTsiB38AwubSvLPIo"
+href = "urn:sha384:xCrDwVjWnPa43rHWqSLB_8C4DIp87alUOKCKV5ND_M2oLzOCnPzzKf_A-5Wp9Kjc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
