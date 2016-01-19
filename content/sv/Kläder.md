@@ -1,14 +1,14 @@
 +++
 title = "Kläder"
-contributors = [ "128.59.37.53", "ian", "wed23",]
-dividers = [ 4, 8, 12, 16, 20,]
+contributors = [ "128.59.37.53", "128.59.77.170", "ian", "wed23",]
+dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:nl",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "het pak"
+text = "en kostym"
 type = "phrase"
 
 [[cards.sides]]
@@ -28,7 +28,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de broek"
+text = "ett par byxor"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de trui"
+text = "en tröja"
 type = "phrase"
 
 [[cards.sides]]
@@ -68,7 +68,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de korte broek"
+text = "shorts, Bermudashorts"
 type = "phrase"
 
 [[cards.sides]]
@@ -88,7 +88,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "het overhemd"
+text = "en skjorta"
 type = "phrase"
 
 [[cards.sides]]
@@ -108,7 +108,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de spijkerbroek"
+text = "ett par jeans"
 type = "phrase"
 
 [[cards.sides]]
@@ -128,7 +128,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de schoenen"
+text = "ett par skor, en sko (herrskor)"
 type = "phrase"
 
 [[cards.sides]]
@@ -148,7 +148,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de sportschoenen"
+text = "ett par gymnastikskor, en gymnastiksko (gympaskor, gympasko)"
 type = "phrase"
 
 [[cards.sides]]
@@ -168,7 +168,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "\nhet jasje "
+text = "\nen kavaj"
 type = "phrase"
 
 [[cards.sides]]
@@ -183,7 +183,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de jurk"
+text = "en klänning"
 type = "phrase"
 
 [[cards.sides]]
@@ -203,7 +203,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de rok"
+text = "en kjol"
 type = "phrase"
 
 [[cards.sides]]
@@ -223,7 +223,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de bloes"
+text = "en blus"
 type = "phrase"
 
 [[cards.sides]]
@@ -243,22 +243,107 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "het vest"
+text = "en väska"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:p6eOTtxHZrc-GVHwX3IN0qXlfz3AfkN4z_Qzy7q8qVwS4ONKe9K844Med0UQUWC8"
-href = "urn:sha384:_bVBJcHpmZJU9575nDMoki2p7T51iLBIi_ACJVm5UpGUgq1RSbx_njy6wMZlhy4d"
+blob_href = "urn:sha384:umcOPZdNGslgbxNeg9nvZPAAxQSKgqfRKq-g5xBbSGpuiZFOm7NWdswPxpRE1hL3"
+href = "urn:sha384:4Op5YPiX0Y886PL9WHNE-TJCqg9dsHE87MFqChVGht9eCpy4CC9tsIkEwDqNRxOR"
 mime_type = "image/jpeg"
 type = "picture"
 
+[cards.sides.credit]
+author = "Queen Bee (queenbeeofbeverlyhills)"
+author_url = "http://www.flickr.com/people/62997622@N03/"
+original_url = "http://www.flickr.com/photos/62997622@N03/6402726967"
+title = "gucci-joy-medium-tote-bag-crystal-collection-1"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de laarzen"
+text = "en handväska"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:_CRhvUJU5_qHYQ4RJgyKN7Pod_6mfuTY9h-bEGjleU9rPhCNX8jrJws2gYrHHiOh"
+href = "urn:sha384:6pG7_Q5g7ywgbF8KuHLV5BWIIzFqVab0vMZE00eNVdVGOZjjfFrLyCsgasTjdxh_"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Wicker Paradise (Wicker Paradise)"
+author_url = "http://www.flickr.com/people/76061588@N03/"
+original_url = "http://www.flickr.com/photos/76061588@N03/9618372151"
+title = "Adorable Vintage Early 1960’s Violet and Gold Wicker Woven Purse - NewportFashionista"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "en resväska"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:HUnOlyjL-QJfsLRlCrZCKQE_ER7YVWzaNmwkOME07QlOYMiuGdLEC6-ETAA6wdpz"
+href = "urn:sha384:KA5qx68mHXtHCtmC4BqFbIedHKSBTkdi2AEIqw1Q-ThLPFmx4-NpkqDeuZtyR3Lv"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Charlie Phillips (Charlie Phillips)"
+author_url = "http://www.flickr.com/people/10807466@N03/"
+original_url = "http://www.flickr.com/photos/10807466@N03/3942180902"
+title = "Louis Vuitton"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ett skärp"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:SpPlHLiUsZILmpTusCZoR1OduTbQqNNVsmN5YJuo0L8sbPfT4_ioWQvlYlH4vzhV"
+href = "urn:sha384:b8byJrPGq0JLE02cORGgOm2O2hNdIg7tTY8QZSt29UrMLRnMQTzIci9TRfSHGM12"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Robert  Sheie (Robert Sheie)"
+author_url = "http://www.flickr.com/people/85546319@N04/"
+original_url = "http://www.flickr.com/photos/85546319@N04/15933332034"
+title = "Belt from Bijan / Genuine Lizard"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ett par skor, en sko (damskor)"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:sKlDFr5gSgEKUZmQYhK-V6Cf9LJhA_mtjZ8qorSw97xAqx13PJEulpfnUxneToEV"
+href = "urn:sha384:ngqzwSoq0JVdJOO1_CoFvt56blQjIvRdM_ohPBjLiIenIvYe4LiWnOJvnx9fxzET"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Cheryl (EraPhernalia Vintage . . . [''playin' hook-y''] ;o)"
+author_url = "http://www.flickr.com/people/28510393@N07/"
+original_url = "http://www.flickr.com/photos/28510393@N07/3137864994"
+title = "CHARLES JORDAN, PARIS, France - yellow pumps - sides"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ett par stövlar, en stövel (damstövlar)"
 type = "phrase"
 
 [[cards.sides]]
@@ -278,40 +363,24 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de schoenen met hoge hak"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:RuX-Xw19HOC-pr5-_74SKCIT0WjJ7Fd47ys92qQ8cJsQA8PpXC77kfPHZJEYCnw8"
-href = "urn:sha384:SejDGyal4OnFen0xHl1J9ZkhTfSVwP8w7M7JOQhrRY92yqvRQGxDwIK1eMC7iS61"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "Cheryl (EraPhernalia Vintage . . . [''playin' hook-y''] ;o)"
-author_url = "http://www.flickr.com/people/28510393@N07/"
-original_url = "http://www.flickr.com/photos/28510393@N07/3134882958"
-title = "\"JULIUS GARFINKLE\" brown leather pumps heels"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de riem"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:7RNWwRcs-DzNx5QmGns9QTOsqEyJi3uDN_ATRb8U12TPFJzAGcs9DGRsu4pJnpU0"
-href = "urn:sha384:opYJc1OkA2CJgN1ZnQS1JXbKYrg-0HY17i81XY0_4gnh54zvGoLwx8CH2jDVTFfg"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "InExtremiss (InExtremiss)"
-author_url = "http://www.flickr.com/people/47896503@N06/"
-original_url = "http://www.flickr.com/photos/47896503@N06/5039696482"
-title = "C9 - TOKIO BELT"
 [[cards.sides]]
 type = "empty"
 
@@ -473,10 +542,7 @@ author_url = "http://www.flickr.com/people/44483053@N05/"
 original_url = "http://www.flickr.com/photos/44483053@N05/5392414268"
 title = "capes 354 copy"
 [[cards.sides]]
-blob_href = "urn:sha384:h57KWXWphR1NgJBOpTCn7a-uR0QdKUegIMeh0kwsCBCrq_wbp6kMCsoAZqWkNtno"
-href = "urn:sha384:ULJXohWjUv-mrxsZxOfysR25HElqX7T8j4egCh3FMjoj3fZ1JNrxpqUDCaQZV-lT"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[interactions]]
 answer = 1
