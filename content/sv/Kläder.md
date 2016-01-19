@@ -23,7 +23,10 @@ author_url = "http://www.flickr.com/people/27454212@N00/"
 original_url = "http://www.flickr.com/photos/27454212@N00/18342703342"
 title = "Blue linen suit"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jW2rNeuUGfj3MxNiCdrDnlw5fnuvisl-vkFVABtRKc9-XxXoZU4V1yWm6xw8V4jt"
+href = "urn:sha384:V9INkesdAOdHGQRkyciGV1ZwlUAvaQZ1az7S8Hjh_dqVSPcfUIFLW7bhlO40f854"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -43,7 +46,10 @@ author_url = "http://www.flickr.com/people/85546319@N04/"
 original_url = "http://www.flickr.com/photos/85546319@N04/11299668233"
 title = "Pants"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1h8U1UEnotWMSd9FNIRUfepE-2c1sOqY9gr_DzgQrsExMw1SHTb-m0kMjWPnR_sU"
+href = "urn:sha384:bvwjht_Fq8EUDlhUEG0VOcp4P6GWPhNOQX4PVPpkZ7-yWIoRLjN5F90X-aRJBpQM"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -63,12 +69,15 @@ author_url = "http://www.flickr.com/people/96466040@N00/"
 original_url = "http://www.flickr.com/photos/96466040@N00/347924509"
 title = "Kris's New Lopi Sweater"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jeC_a3nz9EBMG_ogYlyEvV70aQ_G6M5b6aV352jGyoefjlpx8yGl2v1Z4ROgh7p4"
+href = "urn:sha384:yyDAE8VdfLkzFGp74eKNKyWBmr8yQkYQzo9NzxVTMX84DFR0bGEF0DXHCPo1ahzq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "shorts, Bermudashorts"
+text = "ett par shorts, Bermudashorts"
 type = "phrase"
 
 [[cards.sides]]
