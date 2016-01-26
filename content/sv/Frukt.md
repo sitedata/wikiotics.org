@@ -1,9 +1,9 @@
 +++
 title = "Frukt"
-contributors = [ "128.59.77.170", "wed23",]
+contributors = [ "128.59.76.180", "128.59.77.170", "wed23",]
 dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
-tags = [ "target-language:nl",]
+tags = [ "target-language:sv",]
 type = "lesson"
 [[cards]]
 
