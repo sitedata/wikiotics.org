@@ -1,7 +1,7 @@
 +++
 title = "België"
 contributors = [ "wed23",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Vraag", "Antwoord", "Audio",]
 tags = [ "target-language:nl",]
 type = "lesson"
@@ -246,6 +246,58 @@ blob_href = "urn:sha384:Nh7W9oeYMeTQixid8AlpXc4d3HvR7uAoKOxYL5MGJglpZztM7jS-qaJF
 href = "urn:sha384:Ogk46Gl56zfVaSpvJL9dSRr4QSKlJaxKK8RLWg_t0-ZaLDyE8L6VbdPKkbRxINyU"
 mime_type = "image/jpeg"
 type = "picture"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Kim Clijsters is een bekende Vlaamse ______"
+type = "phrase"
+
+[[cards.sides]]
+text = "tennisspeelster"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tom Lanoye is een bekende Vlaamse ______"
+type = "phrase"
+
+[[cards.sides]]
+text = "schrijver"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tom Lanoye is een bekende Vlaamse ______"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tom Lanoye is een bekende Vlaamse ______"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[interactions]]
 answer = 1
