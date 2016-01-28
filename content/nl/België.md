@@ -124,7 +124,7 @@ type = "picture"
 [[cards]]
 
 [[cards.sides]]
-text = "Een zoete specialiteit van België is _____"
+text = "Een zoete specialiteit van België: _____"
 type = "phrase"
 
 [[cards.sides]]
@@ -137,7 +137,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Een zoute specialiteit van België is _____"
+text = "Een zoute specialiteit van België: _____"
 type = "phrase"
 
 [[cards.sides]]
@@ -150,7 +150,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Een alcoholische specialiteit België is _____"
+text = "Een alcoholische specialiteit van België: _____"
 type = "phrase"
 
 [[cards.sides]]
@@ -163,7 +163,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Een visspecialiteit België is _____"
+text = "Een visspecialiteit van België: _____"
 type = "phrase"
 
 [[cards.sides]]
