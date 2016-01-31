@@ -16,7 +16,10 @@ text = "zuiden"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
+href = "urn:sha384:nJITYK0dHPPua7Fyx5Nu85T4lKXLhvywWTPjvKkkL3Ek5wFPtKU-kAVnDHxESeaV"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards]]
 
@@ -29,7 +32,10 @@ text = "westen"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
+href = "urn:sha384:0_qZufutZU--4fl34eqTzfTCkPEb1ySB85E-6sByq-6cbd8XowTvKriI1yiORrdp"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards]]
 
@@ -42,7 +48,10 @@ text = "noorden"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
+href = "urn:sha384:WfNWEQexljWqcMtUf2_2F3zIu3eTlg-Jxrgs145dF48C0N1L3in53EJ9ktOCFylI"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards]]
 
@@ -55,7 +64,10 @@ text = "oosten"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
+href = "urn:sha384:uL08MhSnJdoj1rQv915L8ssdShN_vDyl-AXPyeisbemXNRgXMRkeqh5EuVtTA91H"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards]]
 
