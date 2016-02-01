@@ -1,8 +1,8 @@
 +++
 title = "België"
-contributors = [ "wed23",]
+contributors = [ "128.59.76.180", "wed23",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28,]
-headings = [ "Vraag", "Antwoord", "Audio",]
+headings = [ "Vraag", "Antwoord", "Audio", "Question Audio",]
 tags = [ "target-language:nl",]
 type = "lesson"
 [[cards]]
@@ -21,6 +21,9 @@ href = "urn:sha384:nJITYK0dHPPua7Fyx5Nu85T4lKXLhvywWTPjvKkkL3Ek5wFPtKU-kAVnDHxES
 mime_type = "image/jpeg"
 type = "picture"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -36,6 +39,9 @@ blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ez
 href = "urn:sha384:0_qZufutZU--4fl34eqTzfTCkPEb1ySB85E-6sByq-6cbd8XowTvKriI1yiORrdp"
 mime_type = "image/jpeg"
 type = "picture"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -53,6 +59,9 @@ href = "urn:sha384:WfNWEQexljWqcMtUf2_2F3zIu3eTlg-Jxrgs145dF48C0N1L3in53EJ9ktOCF
 mime_type = "image/jpeg"
 type = "picture"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -68,6 +77,9 @@ blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ez
 href = "urn:sha384:uL08MhSnJdoj1rQv915L8ssdShN_vDyl-AXPyeisbemXNRgXMRkeqh5EuVtTA91H"
 mime_type = "image/jpeg"
 type = "picture"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -85,6 +97,9 @@ href = "urn:sha384:4cn_sxEug2O-schMJHIesNqTjvAS-5Pk76JAM6BHN6O2Hg7ZSDgqMEaFFfhJn
 mime_type = "image/jpeg"
 type = "picture"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -100,6 +115,9 @@ blob_href = "urn:sha384:66B1bB9M8ec4HThKeL5A7px7LJtB8R_0bnCqxYI_LkkvL14UQNMGevJE
 href = "urn:sha384:07Ks4rKqHWqAN_3NhtTYqLQVpmVLLigpu1GNKSjvYOBZUtOBKxWMDmpRtsbJLUIM"
 mime_type = "image/jpeg"
 type = "picture"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -117,6 +135,9 @@ href = "urn:sha384:2cW9lxCNmyZpXawmNkG6cfnruFd9q3VpX9JgXtMcOlBU1T0bf9LUo2fCRPClM
 mime_type = "image/jpeg"
 type = "picture"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -133,6 +154,9 @@ href = "urn:sha384:siUYc8CxHl3haPLf-xXv8GT66dXBOvgo5ztyroEtyqHmDhgB2zluhirrn3Tct
 mime_type = "image/jpeg"
 type = "picture"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -142,6 +166,9 @@ type = "phrase"
 [[cards.sides]]
 text = "wafels"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
@@ -159,6 +186,9 @@ type = "phrase"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -172,6 +202,9 @@ type = "phrase"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -181,6 +214,9 @@ type = "phrase"
 [[cards.sides]]
 text = "mosselen"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
@@ -206,6 +242,9 @@ author = "Dennis Jarvis (archer10 (Dennis) (65M Views))"
 author_url = "http://www.flickr.com/people/22490717@N02/"
 original_url = "http://www.flickr.com/photos/22490717@N02/15290152852"
 title = "France-001310 - Gold Crown"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -227,6 +266,9 @@ author = "Dennis Jarvis (archer10 (Dennis) (65M Views))"
 author_url = "http://www.flickr.com/people/22490717@N02/"
 original_url = "http://www.flickr.com/photos/22490717@N02/15290152852"
 title = "France-001310 - Gold Crown"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -243,6 +285,9 @@ href = "urn:sha384:7v_J6iYGZqoL10he5ewvJKg2HodKypBe_h3NoWihbyF2USOpUq1srtqrk9v2v
 mime_type = "image/jpeg"
 type = "picture"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -258,6 +303,9 @@ blob_href = "urn:sha384:Nh7W9oeYMeTQixid8AlpXc4d3HvR7uAoKOxYL5MGJglpZztM7jS-qaJF
 href = "urn:sha384:Ogk46Gl56zfVaSpvJL9dSRr4QSKlJaxKK8RLWg_t0-ZaLDyE8L6VbdPKkbRxINyU"
 mime_type = "image/jpeg"
 type = "picture"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -280,6 +328,9 @@ author = " (Carine06)"
 author_url = "http://www.flickr.com/people/43555660@N00/"
 original_url = "http://www.flickr.com/photos/43555660@N00/5776948613"
 title = "Kim Clijsters"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -295,6 +346,9 @@ blob_href = "urn:sha384:TE8S7h2LdjsuHpMJa92OK8b1EI5PVYRbAOklbkKnjKzJOBhZy14K1Io6
 href = "urn:sha384:ZQTy3UDge9jdkgiIfUcW950FPBjNIA-retsliNog8oZwvKYOmddv1b-dFLnNALKg"
 mime_type = "image/jpeg"
 type = "picture"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -317,6 +371,9 @@ author = " (Hard Liquor, Soft Holes)"
 author_url = "http://www.flickr.com/people/95246374@N00/"
 original_url = "http://www.flickr.com/photos/95246374@N00/5196360092"
 title = "6+ Antwerp Fashion and Outfits 036"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -338,6 +395,9 @@ author = "Roxanne King (Roxanne King)"
 author_url = "http://www.flickr.com/people/51153064@N03/"
 original_url = "http://www.flickr.com/photos/51153064@N03/6912792044"
 title = "Tommeke Wins - Tom Boonen"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -359,6 +419,9 @@ title = "Bandera de los Países Bajos"
 text = ""
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -376,6 +439,9 @@ author = " (fdecomite)"
 author_url = "http://www.flickr.com/people/21649179@N00/"
 original_url = "http://www.flickr.com/photos/21649179@N00/6032700928"
 title = "Old Frayed Belgian Flag"
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
@@ -399,6 +465,9 @@ title = "German flag"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -416,6 +485,9 @@ author = "Nathan Hughes Hamilton (nathanh100)"
 author_url = "http://www.flickr.com/people/41383869@N07/"
 original_url = "http://www.flickr.com/photos/41383869@N07/16006364794"
 title = "Flag of France, Undated"
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
@@ -439,6 +511,9 @@ title = "Bruges"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -456,6 +531,9 @@ author = " (Nigel's Europe & beyond)"
 author_url = "http://www.flickr.com/people/22890158@N08/"
 original_url = "http://www.flickr.com/photos/22890158@N08/10767725103"
 title = "Brussels, Belgium"
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
@@ -479,6 +557,9 @@ title = "Knokke bij windkracht 9"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -496,6 +577,9 @@ author = "Riza Nugraha (^riza^)"
 author_url = "http://www.flickr.com/people/44115070@N00/"
 original_url = "http://www.flickr.com/photos/44115070@N00/5840369015"
 title = "Ardennen"
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
@@ -520,6 +604,9 @@ author = "cea + (Cea.)"
 author_url = "http://www.flickr.com/people/33255628@N00/"
 original_url = "http://www.flickr.com/photos/33255628@N00/5688451500"
 title = "[ E ] James Ensor - Skeleton at the empty easel (1896) - Detail"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -541,6 +628,9 @@ author = "cea + (Cea.)"
 author_url = "http://www.flickr.com/people/33255628@N00/"
 original_url = "http://www.flickr.com/photos/33255628@N00/7304220114"
 title = "[ E ] Jan van Eyck - Portrait of Giovanni Arnolfini and his wife (1434)"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -562,6 +652,9 @@ author = "cea + (Cea.)"
 author_url = "http://www.flickr.com/people/33255628@N00/"
 original_url = "http://www.flickr.com/photos/33255628@N00/5522378246"
 title = "[ R ] Peter Paul Rubens - Self-portrait (1623)"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -578,9 +671,12 @@ href = "urn:sha384:V8Pe7LMO66xjqKufEvkc7QwpzInqM06u4n36fLdg5OtoRGNkYdpDFnCfpokzS
 mime_type = "image/jpeg"
 type = "picture"
 
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
-prompt = [ 0, 2,]
+prompt = [ 0, 2, 3,]
 type = "choice"
 
 +++
