@@ -22,7 +22,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KJaEigpxZ3Imkx9tb7IOQnbKGSDcbIc293NDuzvni7AxzPWxOuKBas201qq8W7bp"
+href = "urn:sha384:AKO7o9SZyCyAUfzQGK-V9lAs8pWO-jErVO_HOBwSQfxQp6XhHSAsOyVDY2Jpg1Bp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -41,7 +44,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:V3IM9q44YAk8H1Xnr-JMfN_Jv_Mkea_3djm_-OcAXgv0LUCNxSr1YN2aDWoeOxi_"
+href = "urn:sha384:duSm-LyBvubtZ6xqTfwdu2b2R6RbFX4NWTfcR5CLxf_E5JdSXCo94WXiDo0nqOph"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -60,7 +66,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zxE3sNiVwDjEkVGj4V5I7q-ZgGVuJrTYOhnVetlyno65v6e6n0ofKP9UoZ6WdzvP"
+href = "urn:sha384:oE4Qvf7OQArHc_yKXVuwd2_PniSHWVdpVYBmU1sqDAgh7i5CjhvWGJRzYJH7XZN5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -79,7 +88,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1mt2wQdkxrzYQXC4G6jqBJ35GBCc39dvlqDGQrWWUT1DxOnr0xuOc8PfVEoDrhhi"
+href = "urn:sha384:QEKRK431Pw10DEwFmD__9kHJkxwYhuXpXU-8AoTtTHBw9KrVdSWbGxEY8gO4_TNI"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -98,7 +110,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aihLYvL7QVHDdWJ2yl7S3kJJATJy8yBiHFeTlFBiHpJiIpudKZ-XL55xDkTC2Zve"
+href = "urn:sha384:k_2cSHhz6TqBb7QgjZGMKUIAaURNK7AAhITEW5RDVi447EaVa_1qARbzt7vy2Ji2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -117,7 +132,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:C_HA8Yql1AgzKjz483P6Lm08JWw4jHlLMmhrwwL-7mDmdhaONdRCVebMmho5L7IA"
+href = "urn:sha384:pTBwDYVYVL3bNE94i_CI8JcCY7jydUYiazTxnO6snChQ4_JPaWpdHvgF-iPzHazm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -136,7 +154,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mlhFcN1xrLBti3C73q4ieh00VuqhG6TLHNh-m4XpbCpj7p5Uv4tSIPIPsjPJdEi5"
+href = "urn:sha384:M4BFUME7PtnJpXk7pYWOnIMSDYpTadhNdEfiXtrDDKuLte7dV07RVyzdErlimqQR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -155,7 +176,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4si1JgjOwNMUqULajRgZqUyxhxzdCUZF_5FrkWieCjNyWRIwjjU3gUBf1yDGjCp9"
+href = "urn:sha384:9Ap8SD3p_uLdyWDCNyuGS21GoKdvfU3SEY-155C0XG_zV_RDlxIffyh93CsTvds0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -171,7 +195,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ieyW3FBMzdnmMkWJCET8IAJISitrb_fwH3Z9JN6y07gNbiV6Capaz30Fvlqc5n41"
+href = "urn:sha384:UY1Hv51GojoO81lYojbncItWNY04NWzGqEQABfnUhfI21LMLq6rkRNzYRkEnaDHg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -187,7 +214,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DimnpxVywBLLAby4yWeKZPVh_W2SFnwZwU-wFiw7E7D-B4zH6BR0CJQVIoO7OrvF"
+href = "urn:sha384:rDI2kIdn_oQCa4pPM0uhNcDQka9zaEK-i8Lffk8-1xqiuIwKomnfQFQDrpxtrOgZ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -203,7 +233,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TRFikWLN3sKnEUTukoX1JmiknzHIDEGowcsO5NvRtoct2qT5ocQxjTFCNGPJR23t"
+href = "urn:sha384:zJihAUEi9XxIMqcUZHvYXoUN1V37JXQoFFlLqT-OdYOsxtuh6GuldXZimyUHKvlt"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -219,7 +252,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XPssxnG74jp-d3T6mVP3jrznyhbxT-jCNSngqEGCliG-LMjM9ptjHIWljH9eSYAf"
+href = "urn:sha384:14kdkdVvl3c6Gp-ffqTCwDXbwJZZ4HtRB071StngUplI37H-1UyGW8G4U_CzpH2U"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -243,7 +279,10 @@ author_url = "http://www.flickr.com/people/22490717@N02/"
 original_url = "http://www.flickr.com/photos/22490717@N02/15290152852"
 title = "France-001310 - Gold Crown"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:CjXv0WO3heYOUEkkxeIY2Z3wJMdwPpN3Xxh4fJ6BlUubIwqKQJ6X5TpFutZKRGW5"
+href = "urn:sha384:OanT7lGLDmbkwZC4M126h1zbifM6-qc8jBg_os7rMQdB7SbCZ3h45Bxow89OgDHC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -267,7 +306,10 @@ author_url = "http://www.flickr.com/people/22490717@N02/"
 original_url = "http://www.flickr.com/photos/22490717@N02/15290152852"
 title = "France-001310 - Gold Crown"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QSNzvrcV47hBJjDBwK-q0X9RuExbNWqJNYDDD4d1ok9C42EjQZszg_dCk5Y8H8Xb"
+href = "urn:sha384:k6k22tSE1PegMUgqgwQhqjIGvS8rrcHSy1elfHdcWBKABo0UO9syNcRJL2W2Z2FR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -286,7 +328,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yiSc5xBqAUeJvSYmO_BtXSracFEEwoij3Lsy5lEvFt-a_hEedhZQ2fJ8dWa-iyt5"
+href = "urn:sha384:TUFwIeqYUOnfhr8MofW9Ve2VCGdCoz0lTEGU4MyABjlSeyLdUiJ4cBRHjx7JU343"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -305,7 +350,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Lw1HUFjBgo6VVCsi7CGYzxi1DTMDne2Oxa_5SLPZL71ijFXTMUXWmlr9ZlfM2VYX"
+href = "urn:sha384:TBpH2d1vYC8yAlIbvkPsUI2Ve-lQauC4JwTcEqum-MGFa1Ijpo1maUBQu49qINpb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -329,7 +377,10 @@ author_url = "http://www.flickr.com/people/43555660@N00/"
 original_url = "http://www.flickr.com/photos/43555660@N00/5776948613"
 title = "Kim Clijsters"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jqwENeLQxKETzNSSADiTC427zWym9E1Q-FGCwMWP4wXAzW1zzhj8bIjiITiQw7Yb"
+href = "urn:sha384:LzsexnyiQoOYLWKpun3fHHTD71DOPOYsxtbc_ggH4o4N0SaeaFjD3DWqDIrAEDF2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -348,7 +399,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wMP43mho-HMcxnsz9EZP-_rixFLYJwNVuuE4iqtVo69Hy7J_zNTBnAysUR4ryaU6"
+href = "urn:sha384:6MyM0PqPvLBJqfNSaxwXFXgV06qXz5nBkDvCq9HN8o10ghtxNshGH-j97BuUJ_WN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -372,7 +426,10 @@ author_url = "http://www.flickr.com/people/95246374@N00/"
 original_url = "http://www.flickr.com/photos/95246374@N00/5196360092"
 title = "6+ Antwerp Fashion and Outfits 036"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Vh8_0PN_hUsNhLY1hIitLdzt4TFg25JXMilLlwzNW6GstXzfA1bw4xnyXBBOZPl6"
+href = "urn:sha384:K72Eqzet8e1e3e70QeBIkrt3jeitrypAaidVIoMmS4ox9oUGeWBsuR4JzF3IoSJA"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -396,7 +453,10 @@ author_url = "http://www.flickr.com/people/51153064@N03/"
 original_url = "http://www.flickr.com/photos/51153064@N03/6912792044"
 title = "Tommeke Wins - Tom Boonen"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pej9fK7BeO3s8mKyBPndtCYBi7R8P95Kixy4qquyHCR7anissnWxnqNHh7h0AXZb"
+href = "urn:sha384:3o5j9lnFCaPO0nmR1N3SNIJ59hJg-5jtiIOvmqewVPStFeRYq0FIHgG_XNbn7_RB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -629,7 +689,10 @@ author_url = "http://www.flickr.com/people/33255628@N00/"
 original_url = "http://www.flickr.com/photos/33255628@N00/5688451500"
 title = "[ E ] James Ensor - Skeleton at the empty easel (1896) - Detail"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:c5r8KPz8UDdVDVqX2zP6c_jZ2kof6SNrdtc-VeX6XurHJwYJIhZvfxq7SY8dMxBL"
+href = "urn:sha384:ViFLDPafdZkCT5DdsSwqmUdhCBNiuwRnA2q1pymiuyCR7ozdfF52Eewv5ygJzCCV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -653,7 +716,10 @@ author_url = "http://www.flickr.com/people/33255628@N00/"
 original_url = "http://www.flickr.com/photos/33255628@N00/7304220114"
 title = "[ E ] Jan van Eyck - Portrait of Giovanni Arnolfini and his wife (1434)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Sn1zLe_oqFlraTzk1U-mltwuvm4Gxgq4vEHuCGP2SjL_TV-Ubu1g-H4z8Dyc3Lkq"
+href = "urn:sha384:D6m1W289m2CfCi1usG-bDklR__80M-etyXAWzn8ATm0Bm293oog2gYkNKVREkhWc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -677,7 +743,10 @@ author_url = "http://www.flickr.com/people/33255628@N00/"
 original_url = "http://www.flickr.com/photos/33255628@N00/5522378246"
 title = "[ R ] Peter Paul Rubens - Self-portrait (1623)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:amIwPe-b1D_ARjh4e9k6vgmULaIU5kuf-vOAGHxZLH0VZJrEuJf1IgBpk4_8-4wV"
+href = "urn:sha384:ehPHte9pmP-SNv1vcbF40zpj8P3hZ4y0bgaUqXK7n9i9Mv2jbWMzhO1RK09L87M0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -696,7 +765,10 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:oT3odNxqGG-ZWsAVx07Y8qnSrNnPwBsymy7c8gv1iBYGL-GqplJ0XUvziEF6K4is"
+href = "urn:sha384:K5DrW2g7NR5qW65OIsbV-9a7rbKxifRRgIAe7tzY0gFcjNtWeEo9meNJiyFuEEP1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
