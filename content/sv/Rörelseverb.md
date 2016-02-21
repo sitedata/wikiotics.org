@@ -1,6 +1,6 @@
 +++
 title = "Rörelseverb"
-contributors = [ "Laurent",]
+contributors = [ "85.226.145.13", "Laurent",]
 dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 tags = [ "target-language:sv",]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Kvinnarna springer."
+text = "Kvinnorna springer."
 type = "phrase"
 
 [[cards.sides]]
@@ -67,7 +67,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Mannen cycklar."
+text = "Mannen cyklar."
 type = "phrase"
 
 [[cards.sides]]
@@ -107,7 +107,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Kvinnorna rider häst."
+text = "Kvinnorna rider."
 type = "phrase"
 
 [[cards.sides]]
@@ -147,7 +147,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Påjken gungar."
+text = "Pojken gungar."
 type = "phrase"
 
 [[cards.sides]]
