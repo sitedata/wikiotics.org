@@ -1,6 +1,6 @@
 +++
 title = "Swedish phrasebook problems"
-contributors = [ "213.114.82.171", "89.253.78.194", "Laurent",]
+contributors = [ "213.114.82.171", "85.226.145.13", "89.253.78.194", "Laurent",]
 headings = [ "English", "Swedish", "Pronunciation", "Audio",]
 tags = [ "phrasebook", "source-language:en", "target-language:sv",]
 type = "lesson"
@@ -59,7 +59,7 @@ text = "I need your help."
 type = "phrase"
 
 [[cards.sides]]
-text = "Jag behöver hjälp."
+text = "Jag behöver din hjälp."
 type = "phrase"
 
 [[cards.sides]]
