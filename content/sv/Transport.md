@@ -1,6 +1,6 @@
 +++
 title = "Transport"
-contributors = [ "128.59.77.170",]
+contributors = [ "128.59.77.170", "85.226.145.13",]
 dividers = [ 4, 8, 12, 16,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:sv",]
@@ -169,7 +169,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "En tandemcycel"
+text = "En tandemcykel"
 type = "phrase"
 
 [[cards.sides]]
