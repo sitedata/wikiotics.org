@@ -1,6 +1,6 @@
 +++
 title = "EVİMİZ-ODALAR"
-contributors = []
+contributors = [ "sophia",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:tr",]
@@ -74,6 +74,21 @@ type = "phrase"
 [[cards.sides]]
 blob_href = "urn:sha384:ZhS-ElHdSQfA_o_nW2zJOGA-C4X9QGP_HkSEsQlQPbV_YMnaFk2D2M6WyaFr2Ox8"
 href = "urn:sha384:MHjvOjacGb9Hwdzf5HxNTQeGbX7CqHqJR1bVHFNZhPjHAaVS56uqP16p2KRW-h8c"
+mime_type = "image/jpeg"
+type = "picture"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Burası banyo"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:88PVhv4NE2cuVXOBYAWD1Z65ThcaIR2W-7X9Q_flapJZjOuLZRdRvJIDqxLmgwl8"
+href = "urn:sha384:mEZPccfp0ks3Ia-oGR43YQhLW7gn7s3HHSKz9tRddJslDFaNqAgHeGYFnBjZtffM"
 mime_type = "image/jpeg"
 type = "picture"
 
