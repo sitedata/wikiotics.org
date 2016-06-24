@@ -1,6 +1,6 @@
 +++
 title = "NERDESİN?"
-contributors = []
+contributors = [ "sophia",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:tr",]
@@ -23,7 +23,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Bugün Pazar. Ben korodayım."
+text = "Bugün Pazar. O koroda."
 type = "phrase"
 
 [[cards.sides]]
@@ -38,7 +38,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Bugün Cumartesi. Ben antrenmandayım."
+text = "Bugün Cumartesi. Onlar antrenmanda."
 type = "phrase"
 
 [[cards.sides]]
@@ -68,7 +68,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Bugün Çarşamba. Ben atölyedeyim."
+text = "Bugün Çarşamba. Onlar atölyede."
 type = "phrase"
 
 [[cards.sides]]
