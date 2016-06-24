@@ -8,7 +8,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Say"
 type = "phrase"
 
 [[cards.sides]]
@@ -23,7 +23,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Kalk"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:OR5z4SwtqRvRjSFoHx6IDDXY6rp79uMoTSYzvElAR4pJ1d3OExqDa6XD6fCD3fgu"
@@ -37,7 +38,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Dinle"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:gKnFSFisjege4Z6hzlgyM-T8-23_b8VJpAlKgguBvjfvjnz0zxcAWMYr3q_dK0vg"
@@ -51,7 +53,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Parmak kaldır"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:oRXMqjS4URrr-GxWPmq7aSq9oH8dZq_lbeceLDHxy78M8mL1nEFU7Hee1gAE7ehq"
@@ -65,7 +68,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Göster"
 type = "phrase"
 
 [[cards.sides]]
@@ -80,7 +83,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Oku"
 type = "phrase"
 
 [[cards.sides]]
@@ -95,7 +98,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Otur"
 type = "phrase"
 
 [[cards.sides]]
@@ -110,7 +113,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Yaz"
 type = "phrase"
 
 [[cards.sides]]
