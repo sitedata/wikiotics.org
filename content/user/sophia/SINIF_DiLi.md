@@ -1,6 +1,6 @@
 +++
 title = "SINIF DiLi"
-contributors = []
+contributors = [ "sophia",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:tr",]
@@ -12,7 +12,10 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:h0X_uCR2o3hf81GAHCHjVV16nwCedAZFJ4CPYMpmdR5cDATUeGPk_ev-XEK0g0u6"
+href = "urn:sha384:Eb9QKsNI-kA5IwPNNvTbl9L_Rfo9EsW2t3FSxNIA27nFosllrLgoJ2RyEdwA6d5u"
+mime_type = "image/png"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
