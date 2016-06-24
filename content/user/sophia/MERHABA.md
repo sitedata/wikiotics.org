@@ -1,6 +1,6 @@
 +++
 title = "MERHABA"
-contributors = []
+contributors = [ "sophia",]
 dividers = [ 4, 8,]
 headings = [ "Prompt", "Answer",]
 tags = [ "target-language:tr",]
@@ -22,7 +22,7 @@ text = "Ben Ömer"
 type = "phrase"
 
 [[cards.sides]]
-text = "Ben de Elif"
+text = "Ben Elif"
 type = "phrase"
 
 [[cards]]
