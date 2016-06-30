@@ -1,10 +1,25 @@
 +++
 title = "DOĞUM GÜNÜ-SDT1-Konu8"
-contributors = []
+contributors = [ "sophia",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:tr",]
 type = "lesson"
+[[cards]]
+
+[[cards.sides]]
+text = "Doğum günü partisi"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:JKYO8RzQrjxb2DGmAdKxuT92oE6rVdPeN0C6CXLh80CGzcFHR4Ovz2xJE_rRCWzt"
+href = "urn:sha384:RRDQ932l56CO8rlnBLNzGt_EBBAy7l-hKLleWkrGf66pXIfnJlZhREcpiAi_UINM"
+mime_type = "image/jpeg"
+type = "picture"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -89,21 +104,6 @@ type = "phrase"
 [[cards.sides]]
 blob_href = "urn:sha384:ceC_8tadPXtoTnHWzzFsS748AtUIqRkMbz52LAy9fbrmGhffIgNknWPHBQS312VX"
 href = "urn:sha384:Yf6oL1-VhZ2FMEGVpcYRnliKc0VkrOTaVFYcyNlZJykD67BcTSgLrTPhKSuMXmrL"
-mime_type = "image/jpeg"
-type = "picture"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Doğum günü partisi"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:JKYO8RzQrjxb2DGmAdKxuT92oE6rVdPeN0C6CXLh80CGzcFHR4Ovz2xJE_rRCWzt"
-href = "urn:sha384:RRDQ932l56CO8rlnBLNzGt_EBBAy7l-hKLleWkrGf66pXIfnJlZhREcpiAi_UINM"
 mime_type = "image/jpeg"
 type = "picture"
 
