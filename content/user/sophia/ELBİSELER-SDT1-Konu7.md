@@ -1,6 +1,6 @@
 +++
 title = "ELBİSELER-SDT1-Konu7"
-contributors = []
+contributors = [ "sophia",]
 dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:tr",]
@@ -8,7 +8,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "ETEK            (Benim eteğim mavi)"
+text = "ETEK         "
 type = "phrase"
 
 [[cards.sides]]
@@ -18,12 +18,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = " Benim eteğim mavi"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "GÖMLEK       (Benim gömleğim mavi)"
+text = "GÖMLEK"
 type = "phrase"
 
 [[cards.sides]]
@@ -33,12 +34,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim gömleğim mavi"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "ELBİSE          (Benim elbisem mavi)"
+text = "ELBİSE        "
 type = "phrase"
 
 [[cards.sides]]
@@ -48,12 +50,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim elbisem mavi"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "TİŞÖRT         (Benim tişörtüm kırmızı)"
+text = "TİŞÖRT         "
 type = "phrase"
 
 [[cards.sides]]
@@ -63,12 +66,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim tişörtüm kırmızı"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "MONT            (Benim montum kırmızı)"
+text = "MONT        "
 type = "phrase"
 
 [[cards.sides]]
@@ -78,12 +82,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim montum kırmızı"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "ÇORAP           (Benim çoraplarım pembe)"
+text = "ÇORAP           "
 type = "phrase"
 
 [[cards.sides]]
@@ -93,12 +98,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim çoraplarım pembe"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "PANTOLON           (Benim pantolonum pembe) "
+text = "PANTOLON            "
 type = "phrase"
 
 [[cards.sides]]
@@ -108,12 +114,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim pantolonum pembe"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "ŞORT               (Benim şortum yeşil)"
+text = "ŞORT         "
 type = "phrase"
 
 [[cards.sides]]
@@ -123,12 +130,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim şortum yeşil"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "BLUZ               (Benim bluzum yeşil)"
+text = "BLUZ               "
 type = "phrase"
 
 [[cards.sides]]
@@ -138,12 +146,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim bluzum yeşil"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "AYAKKABI         (Benim ayakkabılarım kırmızı) "
+text = "AYAKKABI       "
 type = "phrase"
 
 [[cards.sides]]
@@ -153,12 +162,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim ayakkabılarım kırmızı "
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "ÇORAP              (Benim çoraplarım kırmızı)"
+text = "ÇORAP        "
 type = "phrase"
 
 [[cards.sides]]
@@ -168,12 +178,13 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim çoraplarım kırmızı"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "CEKET             (Benim ceketim gri)"
+text = "CEKET             "
 type = "phrase"
 
 [[cards.sides]]
@@ -183,7 +194,8 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
+text = "Benim ceketim gri"
+type = "phrase"
 
 [[interactions]]
 answer = 1
