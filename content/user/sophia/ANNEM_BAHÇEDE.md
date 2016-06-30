@@ -1,6 +1,6 @@
 +++
 title = "ANNEM BAHÇEDE"
-contributors = []
+contributors = [ "sophia",]
 dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:tr",]
@@ -8,7 +8,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Kiz kardeşim banyoda"
+text = "Kız kardeşim banyoda"
 type = "phrase"
 
 [[cards.sides]]
