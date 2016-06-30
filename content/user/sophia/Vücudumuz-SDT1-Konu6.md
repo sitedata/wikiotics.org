@@ -1,6 +1,6 @@
 +++
 title = "Vücudumuz-SDT1-Konu6"
-contributors = []
+contributors = [ "sophia",]
 dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:tr",]
@@ -8,7 +8,11 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Göz\nBenim gözlerim mavi"
+text = "Göz\n"
+type = "phrase"
+
+[[cards.sides]]
+text = "Benim gözlerim mavi"
 type = "phrase"
 
 [[cards.sides]]
@@ -16,9 +20,6 @@ blob_href = "urn:sha384:-_gSbrA0i11ODHbilzpwR_TuwqggY8wEQRT21r2zMhwPjP2PWnMzdVnH
 href = "urn:sha384:xlwF8rHCH1v0DXd4g9tyhQcaWPRvYrwCHwTzhZXrBPQpu_lJecho3zCCpcHG--mM"
 mime_type = "image/jpeg"
 type = "picture"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards]]
 
