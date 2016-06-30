@@ -8,7 +8,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Göz (Benim gözlerim mavi)\n"
+text = "Göz   (Benim gözlerim mavi)\n"
 type = "phrase"
 
 [[cards.sides]]
@@ -23,7 +23,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Kulak\nBenim kulağım küçük"
+text = "Kulak   (Benim kulağım küçük)"
 type = "phrase"
 
 [[cards.sides]]
@@ -38,7 +38,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Burun\nBenim burnum küçük"
+text = "Burun   (Benim burnum küçük)"
 type = "phrase"
 
 [[cards.sides]]
@@ -53,7 +53,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ağız\nBenim ağzım büyük"
+text = "Ağız   (Benim ağzım büyük)"
 type = "phrase"
 
 [[cards.sides]]
@@ -68,7 +68,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "El\nBenim ellerim küçük"
+text = "El   (Benim ellerim küçük)"
 type = "phrase"
 
 [[cards.sides]]
@@ -83,7 +83,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ayak\nBenim ayaklarım küçük"
+text = "Ayak   (Benim ayaklarım küçük)"
 type = "phrase"
 
 [[cards.sides]]
@@ -98,7 +98,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Kol\nBenim kollarım güçlü"
+text = "Kol   (Benim kollarım güçlü)"
 type = "phrase"
 
 [[cards.sides]]
@@ -113,7 +113,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Bacak\nBenim bacaklarım kısa"
+text = "Bacak   (Benim bacaklarım kısa)"
 type = "phrase"
 
 [[cards.sides]]
@@ -128,7 +128,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Parmak\nBenim parmaklarım küçük"
+text = "Parmak   (Benim parmaklarım küçük)"
 type = "phrase"
 
 [[cards.sides]]
@@ -143,7 +143,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Saç\nBenim saçlarım siyah"
+text = "Saç   (Benim saçlarım siyah)"
 type = "phrase"
 
 [[cards.sides]]
