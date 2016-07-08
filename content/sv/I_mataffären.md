@@ -681,6 +681,26 @@ title = "Kalles Randiga Banan"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Ris"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:8HA1rVcRL4MA9Vg57Sg69vsT9uKs8fCMWmZJYSBH4uRC-4y0U27DZahYYrZ-Gr_4"
+href = "urn:sha384:l60uenE5bRvEy-9qu16vpXrCrK8QcxRx-tW_2jfLH-RtcgapfnX56O3wfCcotA05"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "John Ong (Happy Tummy)"
+author_url = "http://www.flickr.com/people/29198474@N05/"
+original_url = "http://www.flickr.com/photos/29198474@N05/3027937650"
+title = "Rice"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
