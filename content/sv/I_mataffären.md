@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:nl",]
 type = "lesson"
@@ -1605,6 +1605,46 @@ author = "Kristoffer Karlsson (toffekarlsson)"
 author_url = "http://www.flickr.com/people/64143224@N07/"
 original_url = "http://www.flickr.com/photos/64143224@N07/6026634952"
 title = "Svamp"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En jordgubbe, jordgubbar"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:yKrlZXK3lytjCW39xSBjs3PjmqUkFJ88TPX8auXLVkap0XHki-hcVUv-O3_Y5OxC"
+href = "urn:sha384:ijePkfb87SLtK0CgcZJUKys901uFYzAQp02IlNpG3h67AKwbnjC3tc8XC0P52Jau"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Patrick Strandberg)"
+author_url = "http://www.flickr.com/people/61392182@N00/"
+original_url = "http://www.flickr.com/photos/61392182@N00/14441950996"
+title = "Midsommar…"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ett blåbär, blåbär"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:_5bt6PVZc6kSgiVbORQ_xeVaiu-8kYGQGloX6sR2KgQOtdrjmzwH9J63CfhUEKvL"
+href = "urn:sha384:xkhA50Q9Ngw3AQq28IfjfBeCZwYgd9fQ19GxZPBOAZp1DiSroTJsc2UI3ioX2UWF"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Heidi Solberg Økland (hvitskygge)"
+author_url = "http://www.flickr.com/people/113754063@N04/"
+original_url = "http://www.flickr.com/photos/113754063@N04/11826627185"
+title = "blåbær"
 [[cards.sides]]
 type = "empty"
 
