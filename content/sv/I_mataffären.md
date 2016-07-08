@@ -128,7 +128,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En marmelad"
 type = "phrase"
 
 [[cards.sides]]
@@ -148,7 +148,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Mjölk"
+text = "Mjölk, ett glas mjölk"
 type = "phrase"
 
 [[cards.sides]]
