@@ -524,7 +524,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En ostsmörgås"
+text = "En ostsmörgås, ostsmörgåsar"
 type = "phrase"
 
 [[cards.sides]]
