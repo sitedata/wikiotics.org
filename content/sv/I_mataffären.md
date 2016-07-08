@@ -1347,6 +1347,26 @@ title = "Lättyoghurt"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Mjöl"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:NNHU2oJYeZJf5sWFPrms0hchJZJdx2xB67XRXfQip7IOn27jeGis798ZNNL5FbFt"
+href = "urn:sha384:OFW0iAVvRnziELhbLlhX-FzT9cVnsqxtyWqsGpfYo6cExjzq8IYHEWImfRGGH3hK"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Frugan)"
+author_url = "http://www.flickr.com/people/67047805@N00/"
+original_url = "http://www.flickr.com/photos/67047805@N00/276185204"
+title = "Mjöl"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
