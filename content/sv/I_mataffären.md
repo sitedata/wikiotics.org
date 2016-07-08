@@ -244,7 +244,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En kanelbulle"
+text = "En kanelbulle, kanelbullar"
 type = "phrase"
 
 [[cards.sides]]
