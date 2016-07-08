@@ -564,7 +564,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ett knäckebröd"
+text = "Knäckebröd"
 type = "phrase"
 
 [[cards.sides]]
@@ -905,7 +905,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Fläskkotletter"
+text = "Fläskkotlett"
 type = "phrase"
 
 [[cards.sides]]
