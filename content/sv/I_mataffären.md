@@ -1087,7 +1087,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En vitlök"
+text = "En vitlök, vitlökar"
 type = "phrase"
 
 [[cards.sides]]
