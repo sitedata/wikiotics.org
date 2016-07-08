@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:nl",]
 type = "lesson"
@@ -959,6 +959,27 @@ author = " (Timmy_L)"
 author_url = "http://www.flickr.com/people/50732955@N00/"
 original_url = "http://www.flickr.com/photos/50732955@N00/13924743204"
 title = "Easter candy"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Choklad"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:0AxO61vkD5Wadsarzsr7cU8zZUlbQsfyXYiTtxXrFm0xB_PLYaTeKJwBEt9NyXbS"
+href = "urn:sha384:VWEE6hHXWMlyDZcJDxRmY59yRXz6mErMUZ17ql1gfXlo1b55mPyaqVeDewN7b5Eh"
+mime_type = "image/jpeg"
+rotation = "180"
+type = "picture"
+
+[cards.sides.credit]
+author = " (jencu)"
+author_url = "http://www.flickr.com/people/10581108@N00/"
+original_url = "http://www.flickr.com/photos/10581108@N00/8182756463"
+title = "Swedish chocolate"
 [[cards.sides]]
 type = "empty"
 
