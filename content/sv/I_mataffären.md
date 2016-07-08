@@ -724,7 +724,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Leverpastej"
+text = "En leverpastej, leverpastejer"
 type = "phrase"
 
 [[cards.sides]]
@@ -925,7 +925,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Räkor"
+text = "En räka, räkor"
 type = "phrase"
 
 [[cards.sides]]
