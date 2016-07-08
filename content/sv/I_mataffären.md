@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En falukorv"
+text = "En falukorv, falukorvar"
 type = "phrase"
 
 [[cards.sides]]
