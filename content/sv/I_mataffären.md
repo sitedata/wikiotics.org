@@ -1067,7 +1067,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En gurka"
+text = "En gurka, gurkor"
 type = "phrase"
 
 [[cards.sides]]
@@ -1107,7 +1107,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En potatis"
+text = "En potatis, potatisar"
 type = "phrase"
 
 [[cards.sides]]
