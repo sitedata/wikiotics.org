@@ -224,7 +224,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Te"
+text = "Te, en kopp te"
 type = "phrase"
 
 [[cards.sides]]
