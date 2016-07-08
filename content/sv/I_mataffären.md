@@ -8,7 +8,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "En pasta"
+text = "Pasta"
 type = "phrase"
 
 [[cards.sides]]
@@ -144,7 +144,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En marmelad"
+text = "Marmelad"
 type = "phrase"
 
 [[cards.sides]]
@@ -184,7 +184,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En läsk"
+text = "En läsk, läsk"
 type = "phrase"
 
 [[cards.sides]]
