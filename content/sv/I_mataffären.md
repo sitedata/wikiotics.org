@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84, 88,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84, 88, 92,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "target-language:nl",]
 type = "lesson"
@@ -1845,6 +1845,26 @@ author = "Susanne Nilsson (Infomastern)"
 author_url = "http://www.flickr.com/people/55856449@N04/"
 original_url = "http://www.flickr.com/photos/55856449@N04/8832921752"
 title = "Chokladbollar"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Morotskaka"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:yXUKrNw8Zx3hpjBJIkjqcMAZ8UGiXd7kZlZVcA5jv4XD-EqXd9LivauGiOK-EkAe"
+href = "urn:sha384:Q1xMYtWbkG67HO6UuBN8jo9xDFKkjUsBXEYM4TKsgqzxVBftC2QvkqleYnxC20bQ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jeena Paradies (Jeena Paradies)"
+author_url = "http://www.flickr.com/people/10178104@N00/"
+original_url = "http://www.flickr.com/photos/10178104@N00/7515671160"
+title = "Carrot Cake"
 [[cards.sides]]
 type = "empty"
 
