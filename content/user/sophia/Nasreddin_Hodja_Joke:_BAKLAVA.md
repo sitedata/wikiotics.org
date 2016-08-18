@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "BAKLAVA TEPSİSİ"
+text = "BAKLAVA TEPSİSİ\n\n\n\n\n\n\n\n\n\n"
 type = "phrase"
 
 [[cards.sides]]
@@ -25,7 +25,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Bir gün Nasrettin Hoca komşusuyla kahvede çay içerken,\nKomşu:\n__ Hoca Efendi, bak! diye işaret eder.\n__ Şu adam bir tepsi baklava taşıyor.\n"
+text = "Bir gün Nasrettin Hoca komşusuyla kahvede çay içerken,\n\nKomşu:\n\n__ Hoca Efendi, bak! diye işaret eder.\n\n__ Şu adam bir tepsi baklava taşıyor.\n"
 type = "phrase"
 
 [[cards.sides]]
@@ -55,7 +55,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Komşu:\n__ Fakat Hocam, bak! Adam tepsiyi sizin eve götürüyor! deyince"
+text = "Komşu:\n\n__ Fakat Hocam, bak! Adam tepsiyi sizin eve götürüyor! deyince"
 type = "phrase"
 
 [[cards.sides]]
@@ -70,7 +70,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Hoca:\n__ O zaman, sana ne! diye cevap verir."
+text = "Hoca:\n\n__ O zaman, sana ne! diye cevap verir."
 type = "phrase"
 
 [[cards.sides]]
