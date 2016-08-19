@@ -1,7 +1,7 @@
 +++
 title = "FIKRA-KARNE"
 contributors = [ "sophia",]
-headings = [ "Phrase", "Picture", "Audio", "",]
+headings = [ "Phrase", "Picture", "Audio", "Side 4", "Side 5",]
 tags = [ "target-language:tr",]
 type = "lesson"
 [[cards]]
@@ -17,11 +17,14 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
+text = "Karne - Report card"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Karne - Report card"
-type = "phrase"
+type = "empty"
 
 [[cards]]
 
@@ -34,6 +37,9 @@ blob_href = "urn:sha384:bkFmYsztb48-jfLaVmSqEsREyEPeXyQwb8AiVFvZwphwYP3ekub-TDTx
 href = "urn:sha384:QWSSzj1btfW3Q1wH1_r5eoJ0NSmz59r_X2GS4JRmtRqTsQGvz8I0D_X7Fd4k4OEp"
 mime_type = "image/jpeg"
 type = "picture"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
@@ -54,11 +60,15 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
 text = "Okuldan dönmek - to come back from school\n\nAnne - mom\n\nOğlum - my son"
 type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -73,11 +83,14 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
+text = "Gülmek - to laugh"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Gülmek - to laugh"
-type = "phrase"
+type = "empty"
 
 [[cards]]
 
@@ -92,11 +105,15 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
 text = "Ödünç vermek - to lend \n\nBaba - dad\n\nKorkutmak - to scare\n"
 type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[interactions]]
 type = "storybook"
