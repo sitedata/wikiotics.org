@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "KARNE"
+text = "Karne - Report card"
 type = "phrase"
 
 [[cards.sides]]
@@ -17,7 +17,7 @@ mime_type = "image/jpeg"
 type = "picture"
 
 [[cards.sides]]
-text = "Karne - Report card"
+text = "KARNE"
 type = "phrase"
 
 [[cards.sides]]
