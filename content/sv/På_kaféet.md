@@ -41,7 +41,10 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hPO-DLfIfQesl5WAiMZCW8Idx-Jc7JsDdr1o7VpBSThXGYSs5kcw11j5SUsrumA4"
+href = "urn:sha384:PsZNoUyRrvMGVlJ0eYbUyfGCDqhn9s-jE0RiBkjbRYEt4YAXWq8PaupyDIT1Ulg9"
+mime_type = "image/jpeg"
+type = "picture"
 
 [[cards.sides]]
 type = "empty"
